@@ -1,0 +1,8 @@
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[hard600] rdp211 seed=1: M=2 D=890.93 gap=0.1069 worse t_best=42.5s wall=600s
+[hard600] rdp211 seed=2: M=2 D=899.28 gap=0.2777 worse t_best=254.7s wall=600s
+[hard600] rdp211 seed=3: M=2 D=885.71 gap=0.0 TIE t_best=485.5s wall=600s
+[hard600] rdp203 seed=1: M=3 D=939.50 gap=-0.0 TIE t_best=94.4s wall=600s
+[hard600] rdp203 seed=2: M=3 D=939.50 gap=-0.0 TIE t_best=8.8s wall=600s
+[hard600] rdp203 seed=3: M=3 D=939.50 gap=-0.0 TIE t_best=70.6s wall=600s

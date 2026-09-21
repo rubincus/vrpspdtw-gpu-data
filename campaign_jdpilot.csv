@@ -1,0 +1,3 @@
+tag,algo,instance,kind,seed,time_budget,M,D,total,bks_M,bks_D,bks_total,gap_pct,status,t_best,epochs,iters,params,file
+jdpilot,copts,200_1,JD,1,300.0,41,52050.978,64350.978,40,52083.374,64083.374,0.4176,worse,34.31,152,45350,{},200_1_copts_s1_20260914-221842_jdpilot
+jdpilot,copts,200_1,JD,1,300.0,40,52253.894,64253.894,40,52083.374,64083.374,0.2661,worse,53.65,154,45950,"{""allow_open"": false}",200_1_copts_s1_20260914-222343_jdpilot

@@ -1,0 +1,13 @@
+tag,algo,instance,kind,seed,time_budget,M,D,total,bks_M,bks_D,bks_total,gap_pct,status,t_best,epochs,iters,params,file
+tune_noopen,copts,rdp211,WC,1,60.0,2,931.4618,4931.4618,2,885.71139,4885.71139,0.9364,worse,31.31,16,4600,"{""allow_open"": false}",Rdp211_copts_s1_20260919-182302_tune_noopen
+tune_noopen,copts,rdp211,WC,2,60.0,2,987.9136,4987.9136,2,885.71139,4885.71139,2.0919,worse,23.43,16,4550,"{""allow_open"": false}",Rdp211_copts_s2_20260919-182402_tune_noopen
+tune_noopen,copts,rdp203,WC,1,60.0,3,942.5508,6942.5508,3,939.50332,6939.50332,0.0439,worse,60.43,19,5450,"{""allow_open"": false}",Rdp203_copts_s1_20260919-182503_tune_noopen
+tune_noopen,copts,rdp203,WC,2,60.0,3,944.4072,6944.4072,3,939.50332,6939.50332,0.0707,worse,60.2,18,5400,"{""allow_open"": false}",Rdp203_copts_s2_20260919-182603_tune_noopen
+tune_noopen,copts,rdp112,WC,1,60.0,10,953.6345,20953.6345,9,997.264803,18997.264803,10.2982,worse,59.55,18,5150,"{""allow_open"": false}",Rdp112_copts_s1_20260919-182703_tune_noopen
+tune_noopen,copts,rdp112,WC,2,60.0,10,958.7024,20958.7024,9,997.264803,18997.264803,10.3248,worse,49.1,18,5150,"{""allow_open"": false}",Rdp112_copts_s2_20260919-182803_tune_noopen
+tune_noopen,copts,rcdp107,WC,1,60.0,11,1274.3141,23274.3141,11,1252.790063,23252.790063,0.0926,worse,49.79,27,7950,"{""allow_open"": false}",RCdp107_copts_s1_20260919-182904_tune_noopen
+tune_noopen,copts,rcdp107,WC,2,60.0,11,1255.7199,23255.7199,11,1252.790063,23252.790063,0.0126,worse,48.96,27,8050,"{""allow_open"": false}",RCdp107_copts_s2_20260919-183004_tune_noopen
+tune_noopen,copts,rcdp208,WC,1,60.0,3,833.9748,6833.9748,3,828.141442,6828.141442,0.0854,worse,59.62,17,4850,"{""allow_open"": false}",RCdp208_copts_s1_20260919-183104_tune_noopen
+tune_noopen,copts,rcdp208,WC,2,60.0,3,834.1583,6834.1583,3,828.141442,6828.141442,0.0881,worse,52.04,17,4850,"{""allow_open"": false}",RCdp208_copts_s2_20260919-183204_tune_noopen
+tune_noopen,copts,rdp209,WC,1,60.0,3,914.1311,6914.1311,3,909.163356,6909.163356,0.0719,worse,11.94,24,7000,"{""allow_open"": false}",Rdp209_copts_s1_20260919-183304_tune_noopen
+tune_noopen,copts,rdp209,WC,2,60.0,3,914.1311,6914.1311,3,909.163356,6909.163356,0.0719,worse,16.64,24,7150,"{""allow_open"": false}",Rdp209_copts_s2_20260919-183405_tune_noopen

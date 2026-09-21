@@ -1,0 +1,34 @@
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 3 4 5 --time 600.0 --tag phases_partial_global --params {"B": 512, "allow_open": false, "K": 30, "ends_len": 1, "stall_epochs": 15, "restart_mode": "partial", "stall_ref": "global"} --inst 200_1
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[phases_partial_global] 200_1 seed=1: M=40 D=52153.02 gap=0.1087 worse t_best=36.2s wall=600s
+[phases_partial_global] 200_1 seed=2: M=40 D=52153.02 gap=0.1087 worse t_best=25.5s wall=600s
+[phases_partial_global] 200_1 seed=3: M=40 D=52083.29 gap=-0.0001 NEW_BEST t_best=232.1s wall=600s
+[phases_partial_global] 200_1 seed=4: M=40 D=52123.32 gap=0.0623 worse t_best=277.1s wall=600s
+[phases_partial_global] 200_1 seed=5: M=40 D=52083.29 gap=-0.0001 NEW_BEST t_best=263.4s wall=600s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 3 4 5 --time 600.0 --tag phases_partial_phase --params {"B": 512, "allow_open": false, "K": 30, "ends_len": 1, "stall_epochs": 15, "restart_mode": "partial", "stall_ref": "phase"} --inst 200_1
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[phases_partial_phase] 200_1 seed=1: M=40 D=52083.37 gap=-0.0 TIE t_best=157.0s wall=602s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 3 4 5 --time 600.0 --tag phases_full_global --params {"B": 512, "allow_open": false, "K": 30, "ends_len": 1, "stall_epochs": 15, "restart_mode": "full", "stall_ref": "global"} --inst 200_1
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 3 4 5 --time 600.0 --tag phases_full_phase --params {"B": 512, "allow_open": false, "K": 30, "ends_len": 1, "stall_epochs": 15, "restart_mode": "full", "stall_ref": "phase"} --inst 200_1
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[phases_partial_phase] 200_1 seed=2: M=40 D=52083.29 gap=-0.0001 NEW_BEST t_best=451.5s wall=601s
+[phases_partial_phase] 200_1 seed=3: M=40 D=52123.32 gap=0.0623 worse t_best=56.6s wall=600s
+[phases_partial_phase] 200_1 seed=4: M=40 D=52153.02 gap=0.1087 worse t_best=27.1s wall=600s
+[phases_partial_phase] 200_1 seed=5: M=40 D=52083.29 gap=-0.0001 NEW_BEST t_best=515.8s wall=600s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[phases_full_global] 200_1 seed=1: M=40 D=52153.02 gap=0.1087 worse t_best=35.7s wall=600s
+[phases_full_global] 200_1 seed=2: M=40 D=52153.02 gap=0.1087 worse t_best=25.0s wall=600s
+[phases_full_global] 200_1 seed=3: M=40 D=52153.02 gap=0.1087 worse t_best=15.1s wall=600s
+[phases_full_global] 200_1 seed=4: M=40 D=52083.37 gap=-0.0 TIE t_best=166.8s wall=600s
+[phases_full_global] 200_1 seed=5: M=40 D=52153.02 gap=0.1087 worse t_best=21.7s wall=600s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[phases_full_phase] 200_1 seed=1: M=40 D=52083.29 gap=-0.0001 NEW_BEST t_best=420.3s wall=600s
+[phases_full_phase] 200_1 seed=2: M=40 D=52077.66 gap=-0.0089 NEW_BEST t_best=183.6s wall=600s
+[phases_full_phase] 200_1 seed=3: M=40 D=52083.37 gap=-0.0 TIE t_best=263.1s wall=600s
+[phases_full_phase] 200_1 seed=4: M=40 D=52123.32 gap=0.0623 worse t_best=580.7s wall=600s
+[phases_full_phase] 200_1 seed=5: M=40 D=52083.37 gap=-0.0 TIE t_best=282.1s wall=600s

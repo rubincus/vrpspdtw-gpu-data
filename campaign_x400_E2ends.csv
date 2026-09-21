@@ -1,0 +1,2 @@
+tag,algo,instance,kind,seed,time_budget,M,D,total,bks_M,bks_D,bks_total,gap_pct,status,t_best,epochs,iters,params,file
+x400_E2ends,copts,400_1,JD,1,300.0,75,94529.862,117029.862,75,93375.604,115875.604,0.9961,worse,180.4,174,52150,"{""allow_open"": false, ""stall_epochs"": 15, ""restart_mode"": ""full"", ""ends_len"": 1}",400_1_copts_s1_20260915-134018_x400_E2ends

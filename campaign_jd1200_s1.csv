@@ -1,0 +1,7 @@
+tag,algo,instance,kind,seed,time_budget,M,D,total,bks_M,bks_D,bks_total,gap_pct,status,t_best,epochs,iters,params,file
+jd1200_s1,copts,200_1,JD,1,1200.0,40,52253.894,64253.894,40,52083.374,64083.374,0.2661,worse,18.79,1763,528650,"{""allow_open"": false, ""stall_epochs"": 20, ""restart_frac"": 0.5}",200_1_copts_s1_20260915-001655_jd1200_s1
+jd1200_s1,copts,200_2,JD,1,1200.0,42,51803.682,64403.682,42,51778.146,64378.146,0.0397,worse,41.58,1791,537150,"{""allow_open"": false, ""stall_epochs"": 20, ""restart_frac"": 0.5}",200_2_copts_s1_20260915-003655_jd1200_s1
+jd1200_s1,copts,200_3,JD,1,1200.0,40,53350.696,65350.696,41,53247.446,65547.446,-0.3002,NEW_BEST,41.68,1827,547850,"{""allow_open"": false, ""stall_epochs"": 20, ""restart_frac"": 0.5}",200_3_copts_s1_20260915-005655_jd1200_s1
+jd1200_s1,copts,200_4,JD,1,1200.0,41,51694.832,63994.832,41,51737.35,64037.35,-0.0664,NEW_BEST,24.13,1826,547550,"{""allow_open"": false, ""stall_epochs"": 20, ""restart_frac"": 0.5}",200_4_copts_s1_20260915-011655_jd1200_s1
+jd1200_s1,copts,400_1,JD,1,1200.0,78,95862.354,119262.354,75,93375.604,115875.604,2.9227,worse,638.23,912,273400,"{""allow_open"": false, ""stall_epochs"": 15, ""restart_mode"": ""full""}",400_1_copts_s1_20260915-130946_jd1200_s1
+jd1200_s1,copts,400_2,JD,1,1200.0,80,99444.114,123444.114,79,98297.108,121997.108,1.1861,worse,281.95,901,270150,"{""allow_open"": false, ""stall_epochs"": 15, ""restart_mode"": ""full""}",400_2_copts_s1_20260915-132946_jd1200_s1

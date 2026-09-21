@@ -1,0 +1,39 @@
+copts WC campaign finished at Mon Sep 14 23:56:54 HSP 2026
+starting JD campaign at Mon Sep 14 23:56:54 HSP 2026 with params {"allow_open": false, "stall_epochs": 20, "restart_frac": 0.5}
+queue3 started at mar., 15 de sep. de 2026 12:49:45 p. m.
+queue3: JD (400-1000) at mar., 15 de sep. de 2026 12:49:45 p. m. with params {"allow_open": false, "stall_epochs": 15, "restart_mode": "full"}
+queue stopped at Tue Sep 15 13:34:57 HSP 2026 for large-instance experiments
+queue4 started at mar., 15 de sep. de 2026 02:01:00 p. m.
+queue4: JD (400-1000) at mar., 15 de sep. de 2026 02:01:00 p. m. with params {"allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 1, "K": 30}
+queue4: JD 400/600 finished at mar., 15 de sep. de 2026 01:41:07 p. m.
+queue4 bash stopped at Tue Sep 15 13:59:54 HSP 2026 (JD v2 python run kept; GMA/hard/tuning skipped)
+queue5 started at mar., 15 de sep. de 2026 02:00:37 p. m.
+queue6 started at mar., 15 de sep. de 2026 03:02:07 p. m., waiting for queue5
+queue5 replaced by queue7 at Tue Sep 15 15:52:10 HSP 2026 (more time for 800/1000)
+queue7 started at mar., 15 de sep. de 2026 03:52:11 p. m.
+jd v2 campaign finished at mar., 15 de sep. de 2026 05:42:24 p. m.
+queue7: WC 30 runs x 60 s at mar., 15 de sep. de 2026 05:42:24 p. m.
+queue8 started at mar., 15 de sep. de 2026 06:04:13 p. m., waiting for queue6
+wc60_30s finished at mié., 16 de sep. de 2026 09:46:08 p. m.
+queue7: rdp211 30 x 180 s at mié., 16 de sep. de 2026 09:46:08 p. m.
+rdp211 180 s finished at mié., 16 de sep. de 2026 11:16:17 p. m.
+queue7: JD 5 runs at mié., 16 de sep. de 2026 11:16:17 p. m. with params {"allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 1, "K": 30}
+jd_v2 5-run campaign finished at sáb., 19 de sep. de 2026 08:37:30 a. m.
+queue5 finished at sáb., 19 de sep. de 2026 08:37:30 a. m. (queue7 done; trigger for queue6)
+queue6: small WC at sáb., 19 de sep. de 2026 08:39:04 a. m.
+queue6: GMA WC at sáb., 19 de sep. de 2026 09:39:19 a. m.
+gma campaign finished at sáb., 19 de sep. de 2026 11:00:33 a. m.
+queue6: ablation WC (8 configs x 6 inst x 5 seeds x 60 s) at sáb., 19 de sep. de 2026 11:00:33 a. m.
+queue6: ablation JD (4 configs x 2 inst x 2 seeds x 300 s) at sáb., 19 de sep. de 2026 03:01:23 p. m.
+queue6: ablation finished at sáb., 19 de sep. de 2026 04:21:34 p. m.
+queue6: tuning sweep at sáb., 19 de sep. de 2026 04:21:34 p. m.
+queue6: tuning finished at sáb., 19 de sep. de 2026 08:46:37 p. m.
+queue6: hard runs finished at sáb., 19 de sep. de 2026 09:46:39 p. m.
+queue6 finished at sáb., 19 de sep. de 2026 09:46:39 p. m.
+queue8 started at sáb., 19 de sep. de 2026 09:55:53 p. m., waiting for queue6
+queue8: WC slow instances 30 x 180 s at sáb., 19 de sep. de 2026 09:55:53 p. m.
+queue8 finished at dom., 20 de sep. de 2026 05:26:22 a. m.
+queue9 started at dom., 20 de sep. de 2026 09:22:17 a. m.
+queue9: convergence traces, 4 restart rules x 5 seeds x 600 s on JD 200_1 at dom., 20 de sep. de 2026 09:22:17 a. m.
+queue9b (resume of queue9) started at Mon Sep 21 13:49:33 HSP 2026
+queue9b finished at Mon Sep 21 16:09:39 HSP 2026

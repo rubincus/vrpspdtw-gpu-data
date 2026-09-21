@@ -1,0 +1,5 @@
+tag,algo,instance,kind,seed,time_budget,M,D,total,bks_M,bks_D,bks_total,gap_pct,status,t_best,epochs,iters,params,file
+abljd_base,copts,400_1,JD,1,300.0,76,94142.454,116942.454,75,93375.604,115875.604,0.9207,worse,274.36,133,39750,"{""allow_open"": false, ""stall_epochs"": 15, ""restart_mode"": ""full"", ""ends_len"": 1, ""K"": 30}",400_1_copts_s1_20260919-150624_abljd_base
+abljd_base,copts,400_1,JD,2,300.0,77,94724.35,117824.35,75,93375.604,115875.604,1.6818,worse,238.0,135,40400,"{""allow_open"": false, ""stall_epochs"": 15, ""restart_mode"": ""full"", ""ends_len"": 1, ""K"": 30}",400_1_copts_s2_20260919-151124_abljd_base
+abljd_base,copts,600_4,JD,1,300.0,116,144609.444,179409.444,114,144000.64,178200.64,0.6783,worse,300.34,80,23950,"{""allow_open"": false, ""stall_epochs"": 15, ""restart_mode"": ""full"", ""ends_len"": 1, ""K"": 30}",600_4_copts_s1_20260919-151625_abljd_base
+abljd_base,copts,600_4,JD,2,300.0,116,143933.86,178733.86,114,144000.64,178200.64,0.2992,worse,300.45,80,23950,"{""allow_open"": false, ""stall_epochs"": 15, ""restart_mode"": ""full"", ""ends_len"": 1, ""K"": 30}",600_4_copts_s2_20260919-152125_abljd_base

@@ -1,0 +1,2 @@
+tag,algo,instance,kind,seed,time_budget,M,D,total,bks_M,bks_D,bks_total,gap_pct,status,t_best,epochs,iters,params,file
+test_fullrestart2,copts,200_1,JD,1,420.0,40,52083.374,64083.374,40,52083.374,64083.374,-0.0,TIE,409.06,588,176200,"{""stall_epochs"": 15, ""allow_open"": false, ""restart_mode"": ""full""}",200_1_copts_s1_20260915-124924_test_fullrestart2

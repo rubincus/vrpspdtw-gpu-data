@@ -1,0 +1,13 @@
+tag,algo,instance,kind,seed,time_budget,M,D,total,bks_M,bks_D,bks_total,gap_pct,status,t_best,epochs,iters,params,file
+tune_pool8,copts,rdp211,WC,1,60.0,2,893.1439,4893.1439,2,885.71139,4885.71139,0.1521,worse,31.76,23,6750,"{""pool_size"": 8}",Rdp211_copts_s1_20260919-185911_tune_pool8
+tune_pool8,copts,rdp211,WC,2,60.0,2,900.1915,4900.1915,2,885.71139,4885.71139,0.2964,worse,26.84,22,6600,"{""pool_size"": 8}",Rdp211_copts_s2_20260919-190011_tune_pool8
+tune_pool8,copts,rdp203,WC,1,60.0,3,941.0832,6941.0832,3,939.50332,6939.50332,0.0228,worse,6.52,28,8350,"{""pool_size"": 8}",Rdp203_copts_s1_20260919-190111_tune_pool8
+tune_pool8,copts,rdp203,WC,2,60.0,3,939.5033,6939.5033,3,939.50332,6939.50332,-0.0,TIE,25.81,28,8350,"{""pool_size"": 8}",Rdp203_copts_s2_20260919-190211_tune_pool8
+tune_pool8,copts,rdp112,WC,1,60.0,9,997.2648,18997.2648,9,997.264803,18997.264803,0.0,TIE,34.43,42,12600,"{""pool_size"": 8}",Rdp112_copts_s1_20260919-190311_tune_pool8
+tune_pool8,copts,rdp112,WC,2,60.0,9,999.435,18999.435,9,997.264803,18997.264803,0.0114,worse,8.6,42,12550,"{""pool_size"": 8}",Rdp112_copts_s2_20260919-190412_tune_pool8
+tune_pool8,copts,rcdp107,WC,1,60.0,11,1255.0629,23255.0629,11,1252.790063,23252.790063,0.0098,worse,11.56,57,17100,"{""pool_size"": 8}",RCdp107_copts_s1_20260919-190512_tune_pool8
+tune_pool8,copts,rcdp107,WC,2,60.0,11,1252.7901,23252.7901,11,1252.790063,23252.790063,-0.0,TIE,15.96,57,17100,"{""pool_size"": 8}",RCdp107_copts_s2_20260919-190612_tune_pool8
+tune_pool8,copts,rcdp208,WC,1,60.0,3,828.7091,6828.7091,3,828.141442,6828.141442,0.0083,worse,28.35,24,7000,"{""pool_size"": 8}",RCdp208_copts_s1_20260919-190712_tune_pool8
+tune_pool8,copts,rcdp208,WC,2,60.0,3,828.7091,6828.7091,3,828.141442,6828.141442,0.0083,worse,33.22,24,7050,"{""pool_size"": 8}",RCdp208_copts_s2_20260919-190812_tune_pool8
+tune_pool8,copts,rdp209,WC,1,60.0,3,910.5538,6910.5538,3,909.163356,6909.163356,0.0201,worse,7.28,33,9750,"{""pool_size"": 8}",Rdp209_copts_s1_20260919-190913_tune_pool8
+tune_pool8,copts,rdp209,WC,2,60.0,3,909.1634,6909.1634,3,909.163356,6909.163356,0.0,TIE,14.52,34,10000,"{""pool_size"": 8}",Rdp209_copts_s2_20260919-191013_tune_pool8

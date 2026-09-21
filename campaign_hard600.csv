@@ -1,0 +1,7 @@
+tag,algo,instance,kind,seed,time_budget,M,D,total,bks_M,bks_D,bks_total,gap_pct,status,t_best,epochs,iters,params,file
+hard600,copts,rdp211,WC,1,600.0,2,890.9343,4890.9343,2,885.71139,4885.71139,0.1069,worse,42.53,223,66900,"{""stall_epochs"": 20}",Rdp211_copts_s1_20260919-205637_hard600
+hard600,copts,rdp211,WC,2,600.0,2,899.2779,4899.2779,2,885.71139,4885.71139,0.2777,worse,254.66,210,62850,"{""stall_epochs"": 20}",Rdp211_copts_s2_20260919-210638_hard600
+hard600,copts,rdp211,WC,3,600.0,2,885.7114,4885.7114,2,885.71139,4885.71139,0.0,TIE,485.47,228,68200,"{""stall_epochs"": 20}",Rdp211_copts_s3_20260919-211638_hard600
+hard600,copts,rdp203,WC,1,600.0,3,939.5033,6939.5033,3,939.50332,6939.50332,-0.0,TIE,94.39,274,82000,"{""stall_epochs"": 20}",Rdp203_copts_s1_20260919-212638_hard600
+hard600,copts,rdp203,WC,2,600.0,3,939.5033,6939.5033,3,939.50332,6939.50332,-0.0,TIE,8.76,271,81150,"{""stall_epochs"": 20}",Rdp203_copts_s2_20260919-213638_hard600
+hard600,copts,rdp203,WC,3,600.0,3,939.5033,6939.5033,3,939.50332,6939.50332,-0.0,TIE,70.6,275,82250,"{""stall_epochs"": 20}",Rdp203_copts_s3_20260919-214638_hard600

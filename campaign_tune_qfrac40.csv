@@ -1,0 +1,13 @@
+tag,algo,instance,kind,seed,time_budget,M,D,total,bks_M,bks_D,bks_total,gap_pct,status,t_best,epochs,iters,params,file
+tune_qfrac40,copts,rdp211,WC,1,60.0,2,893.1439,4893.1439,2,885.71139,4885.71139,0.1521,worse,47.81,23,6800,"{""q_related_frac"": 0.4}",Rdp211_copts_s1_20260919-203535_tune_qfrac40
+tune_qfrac40,copts,rdp211,WC,2,60.0,2,891.942,4891.942,2,885.71139,4885.71139,0.1275,worse,32.27,23,6700,"{""q_related_frac"": 0.4}",Rdp211_copts_s2_20260919-203635_tune_qfrac40
+tune_qfrac40,copts,rdp203,WC,1,60.0,3,941.0832,6941.0832,3,939.50332,6939.50332,0.0228,worse,8.67,28,8400,"{""q_related_frac"": 0.4}",Rdp203_copts_s1_20260919-203735_tune_qfrac40
+tune_qfrac40,copts,rdp203,WC,2,60.0,3,941.6238,6941.6238,3,939.50332,6939.50332,0.0306,worse,10.96,28,8400,"{""q_related_frac"": 0.4}",Rdp203_copts_s2_20260919-203835_tune_qfrac40
+tune_qfrac40,copts,rdp112,WC,1,60.0,9,997.2648,18997.2648,9,997.264803,18997.264803,0.0,TIE,48.55,43,12650,"{""q_related_frac"": 0.4}",Rdp112_copts_s1_20260919-203935_tune_qfrac40
+tune_qfrac40,copts,rdp112,WC,2,60.0,9,999.435,18999.435,9,997.264803,18997.264803,0.0114,worse,18.66,42,12600,"{""q_related_frac"": 0.4}",Rdp112_copts_s2_20260919-204036_tune_qfrac40
+tune_qfrac40,copts,rcdp107,WC,1,60.0,11,1255.0629,23255.0629,11,1252.790063,23252.790063,0.0098,worse,7.44,57,17100,"{""q_related_frac"": 0.4}",RCdp107_copts_s1_20260919-204136_tune_qfrac40
+tune_qfrac40,copts,rcdp107,WC,2,60.0,11,1255.0629,23255.0629,11,1252.790063,23252.790063,0.0098,worse,13.7,58,17150,"{""q_related_frac"": 0.4}",RCdp107_copts_s2_20260919-204236_tune_qfrac40
+tune_qfrac40,copts,rcdp208,WC,1,60.0,3,828.1414,6828.1414,3,828.141442,6828.141442,0.0,TIE,30.89,24,7050,"{""q_related_frac"": 0.4}",RCdp208_copts_s1_20260919-204336_tune_qfrac40
+tune_qfrac40,copts,rcdp208,WC,2,60.0,3,828.1414,6828.1414,3,828.141442,6828.141442,0.0,TIE,17.96,24,7050,"{""q_related_frac"": 0.4}",RCdp208_copts_s2_20260919-204436_tune_qfrac40
+tune_qfrac40,copts,rdp209,WC,1,60.0,3,909.6566,6909.6566,3,909.163356,6909.163356,0.0071,worse,16.44,33,9900,"{""q_related_frac"": 0.4}",Rdp209_copts_s1_20260919-204536_tune_qfrac40
+tune_qfrac40,copts,rdp209,WC,2,60.0,3,909.1634,6909.1634,3,909.163356,6909.163356,0.0,TIE,31.1,33,9850,"{""q_related_frac"": 0.4}",Rdp209_copts_s2_20260919-204637_tune_qfrac40

@@ -1,0 +1,13 @@
+tag,algo,instance,kind,seed,time_budget,M,D,total,bks_M,bks_D,bks_total,gap_pct,status,t_best,epochs,iters,params,file
+tune_stall20,copts,rdp211,WC,1,60.0,2,890.9343,4890.9343,2,885.71139,4885.71139,0.1069,worse,42.51,23,6800,"{""stall_epochs"": 20}",Rdp211_copts_s1_20260919-201128_tune_stall20
+tune_stall20,copts,rdp211,WC,2,60.0,2,899.9658,4899.9658,2,885.71139,4885.71139,0.2918,worse,60.2,23,6700,"{""stall_epochs"": 20}",Rdp211_copts_s2_20260919-201228_tune_stall20
+tune_stall20,copts,rdp203,WC,1,60.0,3,939.8843,6939.8843,3,939.50332,6939.50332,0.0055,worse,57.92,28,8400,"{""stall_epochs"": 20}",Rdp203_copts_s1_20260919-201328_tune_stall20
+tune_stall20,copts,rdp203,WC,2,60.0,3,939.5033,6939.5033,3,939.50332,6939.50332,-0.0,TIE,8.76,28,8200,"{""stall_epochs"": 20}",Rdp203_copts_s2_20260919-201428_tune_stall20
+tune_stall20,copts,rdp112,WC,1,60.0,9,997.2648,18997.2648,9,997.264803,18997.264803,0.0,TIE,53.19,42,12550,"{""stall_epochs"": 20}",Rdp112_copts_s1_20260919-201528_tune_stall20
+tune_stall20,copts,rdp112,WC,2,60.0,9,999.435,18999.435,9,997.264803,18997.264803,0.0114,worse,18.65,42,12600,"{""stall_epochs"": 20}",Rdp112_copts_s2_20260919-201629_tune_stall20
+tune_stall20,copts,rcdp107,WC,1,60.0,11,1255.0629,23255.0629,11,1252.790063,23252.790063,0.0098,worse,11.6,58,17150,"{""stall_epochs"": 20}",RCdp107_copts_s1_20260919-201729_tune_stall20
+tune_stall20,copts,rcdp107,WC,2,60.0,11,1252.7901,23252.7901,11,1252.790063,23252.790063,-0.0,TIE,21.1,58,17150,"{""stall_epochs"": 20}",RCdp107_copts_s2_20260919-201829_tune_stall20
+tune_stall20,copts,rcdp208,WC,1,60.0,3,828.1414,6828.1414,3,828.141442,6828.141442,0.0,TIE,46.2,24,7050,"{""stall_epochs"": 20}",RCdp208_copts_s1_20260919-201929_tune_stall20
+tune_stall20,copts,rcdp208,WC,2,60.0,3,828.7091,6828.7091,3,828.141442,6828.141442,0.0083,worse,20.58,24,7050,"{""stall_epochs"": 20}",RCdp208_copts_s2_20260919-202030_tune_stall20
+tune_stall20,copts,rdp209,WC,1,60.0,3,909.1634,6909.1634,3,909.163356,6909.163356,0.0,TIE,23.73,33,9900,"{""stall_epochs"": 20}",Rdp209_copts_s1_20260919-202130_tune_stall20
+tune_stall20,copts,rdp209,WC,2,60.0,3,909.1634,6909.1634,3,909.163356,6909.163356,0.0,TIE,18.3,34,9950,"{""stall_epochs"": 20}",Rdp209_copts_s2_20260919-202230_tune_stall20

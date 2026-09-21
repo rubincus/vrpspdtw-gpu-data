@@ -1,0 +1,13 @@
+tag,algo,instance,kind,seed,time_budget,M,D,total,bks_M,bks_D,bks_total,gap_pct,status,t_best,epochs,iters,params,file
+tune_cross80,copts,rdp211,WC,1,60.0,2,893.1439,4893.1439,2,885.71139,4885.71139,0.1521,worse,48.31,23,6700,"{""p_cross"": 0.8}",Rdp211_copts_s1_20260919-184708_tune_cross80
+tune_cross80,copts,rdp211,WC,2,60.0,2,898.1501,4898.1501,2,885.71139,4885.71139,0.2546,worse,46.72,22,6550,"{""p_cross"": 0.8}",Rdp211_copts_s2_20260919-184808_tune_cross80
+tune_cross80,copts,rdp203,WC,1,60.0,3,941.0832,6941.0832,3,939.50332,6939.50332,0.0228,worse,17.07,29,8450,"{""p_cross"": 0.8}",Rdp203_copts_s1_20260919-184909_tune_cross80
+tune_cross80,copts,rdp203,WC,2,60.0,3,939.581,6939.581,3,939.50332,6939.50332,0.0011,worse,60.03,28,8350,"{""p_cross"": 0.8}",Rdp203_copts_s2_20260919-185009_tune_cross80
+tune_cross80,copts,rdp112,WC,1,60.0,9,999.435,18999.435,9,997.264803,18997.264803,0.0114,worse,30.17,42,12550,"{""p_cross"": 0.8}",Rdp112_copts_s1_20260919-185109_tune_cross80
+tune_cross80,copts,rdp112,WC,2,60.0,9,997.2648,18997.2648,9,997.264803,18997.264803,0.0,TIE,23.02,42,12500,"{""p_cross"": 0.8}",Rdp112_copts_s2_20260919-185209_tune_cross80
+tune_cross80,copts,rcdp107,WC,1,60.0,11,1255.0629,23255.0629,11,1252.790063,23252.790063,0.0098,worse,9.48,57,17050,"{""p_cross"": 0.8}",RCdp107_copts_s1_20260919-185309_tune_cross80
+tune_cross80,copts,rcdp107,WC,2,60.0,11,1252.7901,23252.7901,11,1252.790063,23252.790063,-0.0,TIE,15.84,57,16850,"{""p_cross"": 0.8}",RCdp107_copts_s2_20260919-185409_tune_cross80
+tune_cross80,copts,rcdp208,WC,1,60.0,3,828.7091,6828.7091,3,828.141442,6828.141442,0.0083,worse,28.27,24,7000,"{""p_cross"": 0.8}",RCdp208_copts_s1_20260919-185510_tune_cross80
+tune_cross80,copts,rcdp208,WC,2,60.0,3,828.1414,6828.1414,3,828.141442,6828.141442,0.0,TIE,56.67,24,7000,"{""p_cross"": 0.8}",RCdp208_copts_s2_20260919-185610_tune_cross80
+tune_cross80,copts,rdp209,WC,1,60.0,3,909.1634,6909.1634,3,909.163356,6909.163356,0.0,TIE,27.65,33,9850,"{""p_cross"": 0.8}",Rdp209_copts_s1_20260919-185710_tune_cross80
+tune_cross80,copts,rdp209,WC,2,60.0,3,909.1634,6909.1634,3,909.163356,6909.163356,0.0,TIE,14.7,33,9800,"{""p_cross"": 0.8}",Rdp209_copts_s2_20260919-185810_tune_cross80

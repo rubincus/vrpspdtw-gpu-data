@@ -1,0 +1,5 @@
+tag,algo,instance,kind,seed,time_budget,M,D,total,bks_M,bks_D,bks_total,gap_pct,status,t_best,epochs,iters,params,file
+abljd_noends,copts,400_1,JD,1,300.0,76,94569.552,117369.552,75,93375.604,115875.604,1.2893,worse,245.31,156,46600,"{""allow_open"": false, ""stall_epochs"": 15, ""restart_mode"": ""full"", ""ends_len"": 0, ""K"": 30}",400_1_copts_s1_20260919-154628_abljd_noends
+abljd_noends,copts,400_1,JD,2,300.0,76,95452.28,118252.28,75,93375.604,115875.604,2.0511,worse,300.0,163,48850,"{""allow_open"": false, ""stall_epochs"": 15, ""restart_mode"": ""full"", ""ends_len"": 0, ""K"": 30}",400_1_copts_s2_20260919-155128_abljd_noends
+abljd_noends,copts,600_4,JD,1,300.0,118,146955.074,182355.074,114,144000.64,178200.64,2.3313,worse,300.17,99,29550,"{""allow_open"": false, ""stall_epochs"": 15, ""restart_mode"": ""full"", ""ends_len"": 0, ""K"": 30}",600_4_copts_s1_20260919-155629_abljd_noends
+abljd_noends,copts,600_4,JD,2,300.0,118,146192.55,181592.55,114,144000.64,178200.64,1.9034,worse,295.87,99,29550,"{""allow_open"": false, ""stall_epochs"": 15, ""restart_mode"": ""full"", ""ends_len"": 0, ""K"": 30}",600_4_copts_s2_20260919-160130_abljd_noends

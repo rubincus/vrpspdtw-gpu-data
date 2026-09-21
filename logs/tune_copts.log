@@ -1,0 +1,330 @@
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_base --params {} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_base] rdp211 seed=1: M=2 D=890.93 gap=0.1069 worse t_best=42.7s wall=60s
+[tune_base] rdp211 seed=2: M=2 D=899.97 gap=0.2918 worse t_best=60.2s wall=60s
+[tune_base] rdp203 seed=1: M=3 D=939.88 gap=0.0055 worse t_best=57.9s wall=60s
+[tune_base] rdp203 seed=2: M=3 D=939.50 gap=-0.0 TIE t_best=8.8s wall=60s
+[tune_base] rdp112 seed=1: M=9 D=997.26 gap=0.0 TIE t_best=53.0s wall=60s
+[tune_base] rdp112 seed=2: M=9 D=999.44 gap=0.0114 worse t_best=18.6s wall=60s
+[tune_base] rcdp107 seed=1: M=11 D=1252.79 gap=-0.0 TIE t_best=52.5s wall=60s
+[tune_base] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=21.1s wall=60s
+[tune_base] rcdp208 seed=1: M=3 D=828.14 gap=0.0 TIE t_best=46.2s wall=60s
+[tune_base] rcdp208 seed=2: M=3 D=828.71 gap=0.0083 worse t_best=20.6s wall=60s
+[tune_base] rdp209 seed=1: M=3 D=909.16 gap=0.0 TIE t_best=23.7s wall=60s
+[tune_base] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=18.3s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_K12 --params {"K": 12} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_K12] rdp211 seed=1: M=2 D=891.89 gap=0.1265 worse t_best=25.0s wall=60s
+[tune_K12] rdp211 seed=2: M=2 D=900.80 gap=0.3089 worse t_best=27.0s wall=60s
+[tune_K12] rdp203 seed=1: M=3 D=939.58 gap=0.0011 worse t_best=60.1s wall=60s
+[tune_K12] rdp203 seed=2: M=3 D=939.50 gap=-0.0 TIE t_best=21.4s wall=60s
+[tune_K12] rdp112 seed=1: M=9 D=999.44 gap=0.0114 worse t_best=59.5s wall=60s
+[tune_K12] rdp112 seed=2: M=9 D=999.44 gap=0.0114 worse t_best=21.4s wall=60s
+[tune_K12] rcdp107 seed=1: M=11 D=1255.06 gap=0.0098 worse t_best=7.0s wall=60s
+[tune_K12] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=5.6s wall=60s
+[tune_K12] rcdp208 seed=1: M=3 D=828.71 gap=0.0083 worse t_best=4.6s wall=60s
+[tune_K12] rcdp208 seed=2: M=3 D=828.71 gap=0.0083 worse t_best=4.6s wall=60s
+[tune_K12] rdp209 seed=1: M=3 D=909.16 gap=0.0 TIE t_best=6.9s wall=60s
+[tune_K12] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=5.8s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_K30 --params {"K": 30} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_K30] rdp211 seed=1: M=2 D=898.15 gap=0.2546 worse t_best=31.3s wall=61s
+[tune_K30] rdp211 seed=2: M=2 D=899.28 gap=0.2777 worse t_best=48.0s wall=60s
+[tune_K30] rdp203 seed=1: M=3 D=939.50 gap=-0.0 TIE t_best=15.7s wall=60s
+[tune_K30] rdp203 seed=2: M=3 D=939.58 gap=0.0011 worse t_best=6.3s wall=60s
+[tune_K30] rdp112 seed=1: M=9 D=999.44 gap=0.0114 worse t_best=19.7s wall=60s
+[tune_K30] rdp112 seed=2: M=9 D=1001.00 gap=0.0197 worse t_best=45.6s wall=60s
+[tune_K30] rcdp107 seed=1: M=11 D=1255.06 gap=0.0098 worse t_best=36.6s wall=60s
+[tune_K30] rcdp107 seed=2: M=11 D=1255.06 gap=0.0098 worse t_best=12.1s wall=60s
+[tune_K30] rcdp208 seed=1: M=3 D=828.14 gap=0.0 TIE t_best=49.7s wall=61s
+[tune_K30] rcdp208 seed=2: M=3 D=828.71 gap=0.0083 worse t_best=19.1s wall=60s
+[tune_K30] rdp209 seed=1: M=3 D=909.16 gap=0.0 TIE t_best=26.6s wall=60s
+[tune_K30] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=16.1s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_T8 --params {"tenure": 8} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_T8] rdp211 seed=1: M=2 D=898.15 gap=0.2546 worse t_best=32.8s wall=60s
+[tune_T8] rdp211 seed=2: M=2 D=899.28 gap=0.2777 worse t_best=21.6s wall=60s
+[tune_T8] rdp203 seed=1: M=3 D=941.08 gap=0.0228 worse t_best=51.0s wall=60s
+[tune_T8] rdp203 seed=2: M=3 D=941.62 gap=0.0306 worse t_best=4.4s wall=60s
+[tune_T8] rdp112 seed=1: M=9 D=997.26 gap=0.0 TIE t_best=34.5s wall=60s
+[tune_T8] rdp112 seed=2: M=9 D=997.26 gap=0.0 TIE t_best=27.2s wall=60s
+[tune_T8] rcdp107 seed=1: M=11 D=1252.79 gap=-0.0 TIE t_best=13.9s wall=60s
+[tune_T8] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=7.5s wall=60s
+[tune_T8] rcdp208 seed=1: M=3 D=828.14 gap=0.0 TIE t_best=38.8s wall=60s
+[tune_T8] rcdp208 seed=2: M=3 D=828.14 gap=0.0 TIE t_best=13.0s wall=60s
+[tune_T8] rdp209 seed=1: M=3 D=909.16 gap=0.0 TIE t_best=31.2s wall=60s
+[tune_T8] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=14.6s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_T25 --params {"tenure": 25} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_T25] rdp211 seed=1: M=2 D=899.28 gap=0.2777 worse t_best=34.6s wall=60s
+[tune_T25] rdp211 seed=2: M=2 D=898.15 gap=0.2546 worse t_best=60.1s wall=60s
+[tune_T25] rdp203 seed=1: M=3 D=939.50 gap=-0.0 TIE t_best=23.9s wall=60s
+[tune_T25] rdp203 seed=2: M=3 D=941.08 gap=0.0228 worse t_best=26.1s wall=60s
+[tune_T25] rdp112 seed=1: M=9 D=1000.58 gap=0.0174 worse t_best=53.4s wall=60s
+[tune_T25] rdp112 seed=2: M=9 D=999.44 gap=0.0114 worse t_best=21.7s wall=60s
+[tune_T25] rcdp107 seed=1: M=11 D=1255.06 gap=0.0098 worse t_best=11.7s wall=60s
+[tune_T25] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=10.6s wall=60s
+[tune_T25] rcdp208 seed=1: M=3 D=828.71 gap=0.0083 worse t_best=38.6s wall=60s
+[tune_T25] rcdp208 seed=2: M=3 D=828.71 gap=0.0083 worse t_best=49.0s wall=60s
+[tune_T25] rdp209 seed=1: M=3 D=909.66 gap=0.0071 worse t_best=14.7s wall=60s
+[tune_T25] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=11.0s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_L100 --params {"L": 100} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_L100] rdp211 seed=1: M=2 D=900.18 gap=0.2962 worse t_best=17.3s wall=60s
+[tune_L100] rdp211 seed=2: M=2 D=895.43 gap=0.1989 worse t_best=45.5s wall=60s
+[tune_L100] rdp203 seed=1: M=3 D=941.08 gap=0.0228 worse t_best=12.5s wall=60s
+[tune_L100] rdp203 seed=2: M=3 D=939.50 gap=-0.0 TIE t_best=15.6s wall=60s
+[tune_L100] rdp112 seed=1: M=9 D=999.44 gap=0.0114 worse t_best=36.6s wall=60s
+[tune_L100] rdp112 seed=2: M=9 D=1000.52 gap=0.0171 worse t_best=39.4s wall=60s
+[tune_L100] rcdp107 seed=1: M=11 D=1252.79 gap=-0.0 TIE t_best=60.0s wall=60s
+[tune_L100] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=33.3s wall=60s
+[tune_L100] rcdp208 seed=1: M=3 D=828.71 gap=0.0083 worse t_best=13.5s wall=60s
+[tune_L100] rcdp208 seed=2: M=3 D=828.71 gap=0.0083 worse t_best=15.3s wall=60s
+[tune_L100] rdp209 seed=1: M=3 D=909.16 gap=0.0 TIE t_best=29.8s wall=60s
+[tune_L100] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=13.7s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_L900 --params {"L": 900} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_L900] rdp211 seed=1: M=2 D=893.14 gap=0.1521 worse t_best=47.1s wall=60s
+[tune_L900] rdp211 seed=2: M=2 D=899.28 gap=0.2777 worse t_best=39.8s wall=60s
+[tune_L900] rdp203 seed=1: M=3 D=941.08 gap=0.0228 worse t_best=19.2s wall=60s
+[tune_L900] rdp203 seed=2: M=3 D=941.62 gap=0.0306 worse t_best=19.3s wall=60s
+[tune_L900] rdp112 seed=1: M=9 D=997.26 gap=0.0 TIE t_best=57.0s wall=60s
+[tune_L900] rdp112 seed=2: M=9 D=999.44 gap=0.0114 worse t_best=24.4s wall=60s
+[tune_L900] rcdp107 seed=1: M=11 D=1255.06 gap=0.0098 worse t_best=26.9s wall=60s
+[tune_L900] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=53.7s wall=60s
+[tune_L900] rcdp208 seed=1: M=3 D=828.71 gap=0.0083 worse t_best=53.0s wall=60s
+[tune_L900] rcdp208 seed=2: M=3 D=828.14 gap=0.0 TIE t_best=30.1s wall=60s
+[tune_L900] rdp209 seed=1: M=3 D=909.66 gap=0.0071 worse t_best=26.7s wall=60s
+[tune_L900] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=42.5s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_rho10 --params {"rho": 0.1} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_rho10] rdp211 seed=1: M=2 D=893.14 gap=0.1521 worse t_best=47.8s wall=60s
+[tune_rho10] rdp211 seed=2: M=2 D=900.18 gap=0.2962 worse t_best=24.2s wall=60s
+[tune_rho10] rdp203 seed=1: M=3 D=939.58 gap=0.0011 worse t_best=17.2s wall=60s
+[tune_rho10] rdp203 seed=2: M=3 D=939.58 gap=0.0011 worse t_best=52.0s wall=60s
+[tune_rho10] rdp112 seed=1: M=9 D=997.26 gap=0.0 TIE t_best=52.2s wall=60s
+[tune_rho10] rdp112 seed=2: M=9 D=999.44 gap=0.0114 worse t_best=40.9s wall=60s
+[tune_rho10] rcdp107 seed=1: M=11 D=1252.79 gap=-0.0 TIE t_best=29.0s wall=60s
+[tune_rho10] rcdp107 seed=2: M=11 D=1255.06 gap=0.0098 worse t_best=11.4s wall=60s
+[tune_rho10] rcdp208 seed=1: M=3 D=828.14 gap=0.0 TIE t_best=35.9s wall=60s
+[tune_rho10] rcdp208 seed=2: M=3 D=828.14 gap=0.0 TIE t_best=17.8s wall=60s
+[tune_rho10] rdp209 seed=1: M=3 D=909.16 gap=0.0 TIE t_best=25.4s wall=60s
+[tune_rho10] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=23.4s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_rho50 --params {"rho": 0.5} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_rho50] rdp211 seed=1: M=2 D=891.89 gap=0.1265 worse t_best=60.2s wall=60s
+[tune_rho50] rdp211 seed=2: M=2 D=898.19 gap=0.2554 worse t_best=19.1s wall=60s
+[tune_rho50] rdp203 seed=1: M=3 D=941.08 gap=0.0228 worse t_best=8.8s wall=60s
+[tune_rho50] rdp203 seed=2: M=3 D=939.50 gap=-0.0 TIE t_best=15.1s wall=60s
+[tune_rho50] rdp112 seed=1: M=9 D=999.44 gap=0.0114 worse t_best=14.6s wall=60s
+[tune_rho50] rdp112 seed=2: M=9 D=999.44 gap=0.0114 worse t_best=45.9s wall=60s
+[tune_rho50] rcdp107 seed=1: M=11 D=1252.79 gap=-0.0 TIE t_best=26.8s wall=60s
+[tune_rho50] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=9.7s wall=60s
+[tune_rho50] rcdp208 seed=1: M=3 D=828.71 gap=0.0083 worse t_best=15.6s wall=60s
+[tune_rho50] rcdp208 seed=2: M=3 D=828.14 gap=0.0 TIE t_best=23.3s wall=60s
+[tune_rho50] rdp209 seed=1: M=3 D=909.16 gap=0.0 TIE t_best=35.6s wall=60s
+[tune_rho50] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=9.2s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_nodedup --params {"dedup": false} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_nodedup] rdp211 seed=1: M=2 D=891.89 gap=0.1265 worse t_best=50.8s wall=60s
+[tune_nodedup] rdp211 seed=2: M=2 D=899.28 gap=0.2777 worse t_best=45.4s wall=60s
+[tune_nodedup] rdp203 seed=1: M=3 D=941.08 gap=0.0228 worse t_best=15.1s wall=60s
+[tune_nodedup] rdp203 seed=2: M=3 D=941.08 gap=0.0228 worse t_best=19.4s wall=60s
+[tune_nodedup] rdp112 seed=1: M=9 D=1001.71 gap=0.0234 worse t_best=22.8s wall=60s
+[tune_nodedup] rdp112 seed=2: M=9 D=999.44 gap=0.0114 worse t_best=42.8s wall=60s
+[tune_nodedup] rcdp107 seed=1: M=11 D=1255.06 gap=0.0098 worse t_best=12.7s wall=60s
+[tune_nodedup] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=27.4s wall=60s
+[tune_nodedup] rcdp208 seed=1: M=3 D=828.14 gap=0.0 TIE t_best=28.4s wall=60s
+[tune_nodedup] rcdp208 seed=2: M=3 D=828.14 gap=0.0 TIE t_best=23.2s wall=60s
+[tune_nodedup] rdp209 seed=1: M=3 D=909.66 gap=0.0071 worse t_best=7.3s wall=60s
+[tune_nodedup] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=60.1s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_noopen --params {"allow_open": false} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_noopen] rdp211 seed=1: M=2 D=931.46 gap=0.9364 worse t_best=31.3s wall=61s
+[tune_noopen] rdp211 seed=2: M=2 D=987.91 gap=2.0919 worse t_best=23.4s wall=60s
+[tune_noopen] rdp203 seed=1: M=3 D=942.55 gap=0.0439 worse t_best=60.4s wall=60s
+[tune_noopen] rdp203 seed=2: M=3 D=944.41 gap=0.0707 worse t_best=60.2s wall=60s
+[tune_noopen] rdp112 seed=1: M=10 D=953.63 gap=10.2982 worse t_best=59.5s wall=60s
+[tune_noopen] rdp112 seed=2: M=10 D=958.70 gap=10.3248 worse t_best=49.1s wall=60s
+[tune_noopen] rcdp107 seed=1: M=11 D=1274.31 gap=0.0926 worse t_best=49.8s wall=60s
+[tune_noopen] rcdp107 seed=2: M=11 D=1255.72 gap=0.0126 worse t_best=49.0s wall=60s
+[tune_noopen] rcdp208 seed=1: M=3 D=833.97 gap=0.0854 worse t_best=59.6s wall=60s
+[tune_noopen] rcdp208 seed=2: M=3 D=834.16 gap=0.0881 worse t_best=52.0s wall=60s
+[tune_noopen] rdp209 seed=1: M=3 D=914.13 gap=0.0719 worse t_best=11.9s wall=60s
+[tune_noopen] rdp209 seed=2: M=3 D=914.13 gap=0.0719 worse t_best=16.6s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_cross20 --params {"p_cross": 0.2} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_cross20] rdp211 seed=1: M=2 D=893.14 gap=0.1521 worse t_best=47.7s wall=60s
+[tune_cross20] rdp211 seed=2: M=2 D=891.89 gap=0.1265 worse t_best=50.5s wall=60s
+[tune_cross20] rdp203 seed=1: M=3 D=941.08 gap=0.0228 worse t_best=28.0s wall=60s
+[tune_cross20] rdp203 seed=2: M=3 D=939.50 gap=-0.0 TIE t_best=41.1s wall=60s
+[tune_cross20] rdp112 seed=1: M=9 D=998.22 gap=0.005 worse t_best=32.9s wall=60s
+[tune_cross20] rdp112 seed=2: M=9 D=999.44 gap=0.0114 worse t_best=18.7s wall=60s
+[tune_cross20] rcdp107 seed=1: M=11 D=1252.79 gap=-0.0 TIE t_best=14.7s wall=60s
+[tune_cross20] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=11.6s wall=60s
+[tune_cross20] rcdp208 seed=1: M=3 D=828.71 gap=0.0083 worse t_best=36.0s wall=60s
+[tune_cross20] rcdp208 seed=2: M=3 D=828.14 gap=0.0 TIE t_best=20.6s wall=60s
+[tune_cross20] rdp209 seed=1: M=3 D=909.16 gap=0.0 TIE t_best=57.7s wall=60s
+[tune_cross20] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=40.0s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_cross80 --params {"p_cross": 0.8} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_cross80] rdp211 seed=1: M=2 D=893.14 gap=0.1521 worse t_best=48.3s wall=60s
+[tune_cross80] rdp211 seed=2: M=2 D=898.15 gap=0.2546 worse t_best=46.7s wall=60s
+[tune_cross80] rdp203 seed=1: M=3 D=941.08 gap=0.0228 worse t_best=17.1s wall=60s
+[tune_cross80] rdp203 seed=2: M=3 D=939.58 gap=0.0011 worse t_best=60.0s wall=60s
+[tune_cross80] rdp112 seed=1: M=9 D=999.44 gap=0.0114 worse t_best=30.2s wall=60s
+[tune_cross80] rdp112 seed=2: M=9 D=997.26 gap=0.0 TIE t_best=23.0s wall=60s
+[tune_cross80] rcdp107 seed=1: M=11 D=1255.06 gap=0.0098 worse t_best=9.5s wall=60s
+[tune_cross80] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=15.8s wall=60s
+[tune_cross80] rcdp208 seed=1: M=3 D=828.71 gap=0.0083 worse t_best=28.3s wall=60s
+[tune_cross80] rcdp208 seed=2: M=3 D=828.14 gap=0.0 TIE t_best=56.7s wall=60s
+[tune_cross80] rdp209 seed=1: M=3 D=909.16 gap=0.0 TIE t_best=27.7s wall=60s
+[tune_cross80] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=14.7s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_pool8 --params {"pool_size": 8} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_pool8] rdp211 seed=1: M=2 D=893.14 gap=0.1521 worse t_best=31.8s wall=60s
+[tune_pool8] rdp211 seed=2: M=2 D=900.19 gap=0.2964 worse t_best=26.8s wall=60s
+[tune_pool8] rdp203 seed=1: M=3 D=941.08 gap=0.0228 worse t_best=6.5s wall=60s
+[tune_pool8] rdp203 seed=2: M=3 D=939.50 gap=-0.0 TIE t_best=25.8s wall=60s
+[tune_pool8] rdp112 seed=1: M=9 D=997.26 gap=0.0 TIE t_best=34.4s wall=60s
+[tune_pool8] rdp112 seed=2: M=9 D=999.44 gap=0.0114 worse t_best=8.6s wall=60s
+[tune_pool8] rcdp107 seed=1: M=11 D=1255.06 gap=0.0098 worse t_best=11.6s wall=60s
+[tune_pool8] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=16.0s wall=60s
+[tune_pool8] rcdp208 seed=1: M=3 D=828.71 gap=0.0083 worse t_best=28.3s wall=60s
+[tune_pool8] rcdp208 seed=2: M=3 D=828.71 gap=0.0083 worse t_best=33.2s wall=60s
+[tune_pool8] rdp209 seed=1: M=3 D=910.55 gap=0.0201 worse t_best=7.3s wall=60s
+[tune_pool8] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=14.5s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_pool64 --params {"pool_size": 64} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_pool64] rdp211 seed=1: M=2 D=893.14 gap=0.1521 worse t_best=48.1s wall=60s
+[tune_pool64] rdp211 seed=2: M=2 D=899.56 gap=0.2834 worse t_best=21.5s wall=60s
+[tune_pool64] rdp203 seed=1: M=3 D=939.50 gap=-0.0 TIE t_best=17.2s wall=60s
+[tune_pool64] rdp203 seed=2: M=3 D=939.58 gap=0.0011 worse t_best=19.6s wall=60s
+[tune_pool64] rdp112 seed=1: M=9 D=997.26 gap=0.0 TIE t_best=35.8s wall=60s
+[tune_pool64] rdp112 seed=2: M=9 D=999.44 gap=0.0114 worse t_best=28.8s wall=60s
+[tune_pool64] rcdp107 seed=1: M=11 D=1255.06 gap=0.0098 worse t_best=14.8s wall=60s
+[tune_pool64] rcdp107 seed=2: M=11 D=1255.06 gap=0.0098 worse t_best=11.8s wall=60s
+[tune_pool64] rcdp208 seed=1: M=3 D=828.71 gap=0.0083 worse t_best=18.2s wall=60s
+[tune_pool64] rcdp208 seed=2: M=3 D=828.14 gap=0.0 TIE t_best=41.1s wall=60s
+[tune_pool64] rdp209 seed=1: M=3 D=909.16 gap=0.0 TIE t_best=27.6s wall=60s
+[tune_pool64] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=42.2s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_regOsc --params {"regimes": [[1.0, 2.0, 1.0, 10000.0]]} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_regOsc] rdp211 seed=1: M=2 D=898.15 gap=0.2546 worse t_best=19.2s wall=60s
+[tune_regOsc] rdp211 seed=2: M=2 D=898.15 gap=0.2546 worse t_best=35.4s wall=60s
+[tune_regOsc] rdp203 seed=1: M=3 D=941.62 gap=0.0306 worse t_best=13.5s wall=60s
+[tune_regOsc] rdp203 seed=2: M=3 D=939.50 gap=-0.0 TIE t_best=20.1s wall=60s
+[tune_regOsc] rdp112 seed=1: M=9 D=999.44 gap=0.0114 worse t_best=49.0s wall=60s
+[tune_regOsc] rdp112 seed=2: M=9 D=999.44 gap=0.0114 worse t_best=21.6s wall=60s
+[tune_regOsc] rcdp107 seed=1: M=11 D=1252.79 gap=-0.0 TIE t_best=42.4s wall=60s
+[tune_regOsc] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=44.6s wall=60s
+[tune_regOsc] rcdp208 seed=1: M=3 D=828.71 gap=0.0083 worse t_best=18.6s wall=60s
+[tune_regOsc] rcdp208 seed=2: M=3 D=828.14 gap=0.0 TIE t_best=42.0s wall=60s
+[tune_regOsc] rdp209 seed=1: M=3 D=910.20 gap=0.0149 worse t_best=11.3s wall=60s
+[tune_regOsc] rdp209 seed=2: M=3 D=910.55 gap=0.0201 worse t_best=13.0s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_regHigh --params {"regimes": [[1.0, 1.0, 1000.0, 1000.0]]} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_regHigh] rdp211 seed=1: M=3 D=772.07 gap=38.6097 worse t_best=15.3s wall=60s
+[tune_regHigh] rdp211 seed=2: M=3 D=770.19 gap=38.5711 worse t_best=52.8s wall=60s
+[tune_regHigh] rdp203 seed=1: M=4 D=892.92 gap=28.1492 worse t_best=10.8s wall=60s
+[tune_regHigh] rdp203 seed=2: M=3 D=939.50 gap=-0.0 TIE t_best=41.9s wall=60s
+[tune_regHigh] rdp112 seed=1: M=10 D=953.63 gap=10.2982 worse t_best=5.7s wall=60s
+[tune_regHigh] rdp112 seed=2: M=10 D=953.63 gap=10.2982 worse t_best=30.3s wall=60s
+[tune_regHigh] rcdp107 seed=1: M=11 D=1255.06 gap=0.0098 worse t_best=9.4s wall=60s
+[tune_regHigh] rcdp107 seed=2: M=11 D=1253.45 gap=0.0028 worse t_best=22.7s wall=60s
+[tune_regHigh] rcdp208 seed=1: M=3 D=828.71 gap=0.0083 worse t_best=24.3s wall=60s
+[tune_regHigh] rcdp208 seed=2: M=3 D=828.71 gap=0.0083 worse t_best=22.1s wall=60s
+[tune_regHigh] rdp209 seed=1: M=3 D=909.16 gap=0.0 TIE t_best=30.2s wall=60s
+[tune_regHigh] rdp209 seed=2: M=4 D=862.67 gap=28.2742 worse t_best=2.8s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_B512 --params {"B": 512} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_B512] rdp211 seed=1: M=2 D=893.14 gap=0.1521 worse t_best=26.4s wall=60s
+[tune_B512] rdp211 seed=2: M=2 D=898.15 gap=0.2546 worse t_best=39.2s wall=60s
+[tune_B512] rdp203 seed=1: M=3 D=941.08 gap=0.0228 worse t_best=10.7s wall=60s
+[tune_B512] rdp203 seed=2: M=3 D=941.08 gap=0.0228 worse t_best=56.4s wall=60s
+[tune_B512] rdp112 seed=1: M=9 D=999.94 gap=0.0141 worse t_best=15.4s wall=60s
+[tune_B512] rdp112 seed=2: M=9 D=997.26 gap=0.0 TIE t_best=54.1s wall=60s
+[tune_B512] rcdp107 seed=1: M=11 D=1255.06 gap=0.0098 worse t_best=7.1s wall=60s
+[tune_B512] rcdp107 seed=2: M=11 D=1255.06 gap=0.0098 worse t_best=6.4s wall=60s
+[tune_B512] rcdp208 seed=1: M=3 D=828.14 gap=0.0 TIE t_best=12.4s wall=60s
+[tune_B512] rcdp208 seed=2: M=3 D=828.14 gap=0.0 TIE t_best=53.9s wall=60s
+[tune_B512] rdp209 seed=1: M=3 D=909.16 gap=0.0 TIE t_best=27.4s wall=60s
+[tune_B512] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=26.8s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_B2048 --params {"B": 2048} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_B2048] rdp211 seed=1: M=2 D=898.15 gap=0.2546 worse t_best=60.8s wall=61s
+[tune_B2048] rdp211 seed=2: M=2 D=898.15 gap=0.2546 worse t_best=29.9s wall=61s
+[tune_B2048] rdp203 seed=1: M=3 D=941.08 gap=0.0228 worse t_best=12.2s wall=60s
+[tune_B2048] rdp203 seed=2: M=3 D=939.73 gap=0.0032 worse t_best=48.3s wall=60s
+[tune_B2048] rdp112 seed=1: M=9 D=997.26 gap=0.0 TIE t_best=52.8s wall=60s
+[tune_B2048] rdp112 seed=2: M=9 D=997.26 gap=0.0 TIE t_best=53.0s wall=60s
+[tune_B2048] rcdp107 seed=1: M=11 D=1255.06 gap=0.0098 worse t_best=7.9s wall=60s
+[tune_B2048] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=14.0s wall=60s
+[tune_B2048] rcdp208 seed=1: M=3 D=828.71 gap=0.0083 worse t_best=24.2s wall=61s
+[tune_B2048] rcdp208 seed=2: M=3 D=828.71 gap=0.0083 worse t_best=29.1s wall=61s
+[tune_B2048] rdp209 seed=1: M=3 D=909.16 gap=0.0 TIE t_best=20.6s wall=60s
+[tune_B2048] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=17.2s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_stall20 --params {"stall_epochs": 20} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_stall20] rdp211 seed=1: M=2 D=890.93 gap=0.1069 worse t_best=42.5s wall=60s
+[tune_stall20] rdp211 seed=2: M=2 D=899.97 gap=0.2918 worse t_best=60.2s wall=60s
+[tune_stall20] rdp203 seed=1: M=3 D=939.88 gap=0.0055 worse t_best=57.9s wall=60s
+[tune_stall20] rdp203 seed=2: M=3 D=939.50 gap=-0.0 TIE t_best=8.8s wall=60s
+[tune_stall20] rdp112 seed=1: M=9 D=997.26 gap=0.0 TIE t_best=53.2s wall=60s
+[tune_stall20] rdp112 seed=2: M=9 D=999.44 gap=0.0114 worse t_best=18.6s wall=60s
+[tune_stall20] rcdp107 seed=1: M=11 D=1255.06 gap=0.0098 worse t_best=11.6s wall=60s
+[tune_stall20] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=21.1s wall=60s
+[tune_stall20] rcdp208 seed=1: M=3 D=828.14 gap=0.0 TIE t_best=46.2s wall=60s
+[tune_stall20] rcdp208 seed=2: M=3 D=828.71 gap=0.0083 worse t_best=20.6s wall=60s
+[tune_stall20] rdp209 seed=1: M=3 D=909.16 gap=0.0 TIE t_best=23.7s wall=60s
+[tune_stall20] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=18.3s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_stall20noopen --params {"stall_epochs": 20, "allow_open": false} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_stall20noopen] rdp211 seed=1: M=2 D=931.46 gap=0.9364 worse t_best=31.2s wall=61s
+[tune_stall20noopen] rdp211 seed=2: M=2 D=987.91 gap=2.0919 worse t_best=23.4s wall=60s
+[tune_stall20noopen] rdp203 seed=1: M=3 D=942.55 gap=0.0439 worse t_best=60.4s wall=60s
+[tune_stall20noopen] rdp203 seed=2: M=3 D=944.41 gap=0.0707 worse t_best=60.0s wall=60s
+[tune_stall20noopen] rdp112 seed=1: M=10 D=953.63 gap=10.2982 worse t_best=59.5s wall=60s
+[tune_stall20noopen] rdp112 seed=2: M=10 D=958.70 gap=10.3248 worse t_best=49.2s wall=60s
+[tune_stall20noopen] rcdp107 seed=1: M=11 D=1274.31 gap=0.0926 worse t_best=49.7s wall=60s
+[tune_stall20noopen] rcdp107 seed=2: M=11 D=1255.72 gap=0.0126 worse t_best=49.0s wall=60s
+[tune_stall20noopen] rcdp208 seed=1: M=3 D=833.97 gap=0.0854 worse t_best=59.6s wall=60s
+[tune_stall20noopen] rcdp208 seed=2: M=3 D=834.16 gap=0.0881 worse t_best=51.9s wall=61s
+[tune_stall20noopen] rdp209 seed=1: M=3 D=914.13 gap=0.0719 worse t_best=11.8s wall=60s
+[tune_stall20noopen] rdp209 seed=2: M=3 D=914.13 gap=0.0719 worse t_best=16.6s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 60.0 --tag tune_qfrac40 --params {"q_related_frac": 0.4} --inst rdp211 rdp203 rdp112 rcdp107 rcdp208 rdp209
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[tune_qfrac40] rdp211 seed=1: M=2 D=893.14 gap=0.1521 worse t_best=47.8s wall=60s
+[tune_qfrac40] rdp211 seed=2: M=2 D=891.94 gap=0.1275 worse t_best=32.3s wall=60s
+[tune_qfrac40] rdp203 seed=1: M=3 D=941.08 gap=0.0228 worse t_best=8.7s wall=60s
+[tune_qfrac40] rdp203 seed=2: M=3 D=941.62 gap=0.0306 worse t_best=11.0s wall=60s
+[tune_qfrac40] rdp112 seed=1: M=9 D=997.26 gap=0.0 TIE t_best=48.6s wall=60s
+[tune_qfrac40] rdp112 seed=2: M=9 D=999.44 gap=0.0114 worse t_best=18.7s wall=60s
+[tune_qfrac40] rcdp107 seed=1: M=11 D=1255.06 gap=0.0098 worse t_best=7.4s wall=60s
+[tune_qfrac40] rcdp107 seed=2: M=11 D=1255.06 gap=0.0098 worse t_best=13.7s wall=60s
+[tune_qfrac40] rcdp208 seed=1: M=3 D=828.14 gap=0.0 TIE t_best=30.9s wall=60s
+[tune_qfrac40] rcdp208 seed=2: M=3 D=828.14 gap=0.0 TIE t_best=18.0s wall=60s
+[tune_qfrac40] rdp209 seed=1: M=3 D=909.66 gap=0.0071 worse t_best=16.4s wall=60s
+[tune_qfrac40] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=31.1s wall=60s

@@ -1,0 +1,6 @@
+# Internal state of the manuscript build (not results)
+paper_update_state.json
+paper_es_update_state.json
+
+# Campaign launch scripts are kept with the code (private repository)
+queue*.sh

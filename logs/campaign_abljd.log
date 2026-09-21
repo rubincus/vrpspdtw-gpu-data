@@ -1,0 +1,24 @@
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[abljd_base] 400_1 seed=1: M=76 D=94142.45 gap=0.9207 worse t_best=274.4s wall=300s
+[abljd_base] 400_1 seed=2: M=77 D=94724.35 gap=1.6818 worse t_best=238.0s wall=300s
+[abljd_base] 600_4 seed=1: M=116 D=144609.44 gap=0.6783 worse t_best=300.3s wall=300s
+[abljd_base] 600_4 seed=2: M=116 D=143933.86 gap=0.2992 worse t_best=300.5s wall=301s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[abljd_nocoop] 400_1 seed=1: M=82 D=99757.21 gap=7.3196 worse t_best=187.8s wall=300s
+[abljd_nocoop] 400_1 seed=2: M=82 D=100205.36 gap=7.7063 worse t_best=185.8s wall=300s
+[abljd_nocoop] 600_4 seed=1: M=125 D=152670.67 gap=6.7172 worse t_best=272.4s wall=300s
+[abljd_nocoop] 600_4 seed=2: M=125 D=152895.40 gap=6.8433 worse t_best=16.0s wall=300s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[abljd_noends] 400_1 seed=1: M=76 D=94569.55 gap=1.2893 worse t_best=245.3s wall=300s
+[abljd_noends] 400_1 seed=2: M=76 D=95452.28 gap=2.0511 worse t_best=300.0s wall=300s
+[abljd_noends] 600_4 seed=1: M=118 D=146955.07 gap=2.3313 worse t_best=300.2s wall=300s
+[abljd_noends] 600_4 seed=2: M=118 D=146192.55 gap=1.9034 worse t_best=295.9s wall=301s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[abljd_norestart] 400_1 seed=1: M=76 D=94142.45 gap=0.9207 worse t_best=274.8s wall=302s
+[abljd_norestart] 400_1 seed=2: M=77 D=94724.35 gap=1.6818 worse t_best=241.4s wall=300s
+[abljd_norestart] 600_4 seed=1: M=117 D=145381.32 gap=1.2798 worse t_best=277.8s wall=301s
+[abljd_norestart] 600_4 seed=2: M=116 D=144078.76 gap=0.3805 worse t_best=300.4s wall=301s
