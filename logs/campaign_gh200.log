@@ -1,0 +1,280 @@
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[gh200] c1_2_1 seed=1: M=20 D=2698.60 gap=  t_best=1.0s wall=1800s
+[gh200_t300] c1_2_1 seed=1: M=20 D=2698.60 gap=  t_best=1.0s
+[gh200_t900] c1_2_1 seed=1: M=20 D=2698.60 gap=  t_best=1.0s
+[gh200] c1_2_5 seed=1: M=20 D=2694.90 gap=  t_best=1.4s wall=1800s
+[gh200_t300] c1_2_5 seed=1: M=20 D=2694.90 gap=  t_best=1.4s
+[gh200_t900] c1_2_5 seed=1: M=20 D=2694.90 gap=  t_best=1.4s
+[gh200] c1_2_10 seed=1: M=19 D=2624.70 gap=  t_best=15.6s wall=1800s
+[gh200_t300] c1_2_10 seed=1: M=19 D=2624.70 gap=  t_best=15.6s
+[gh200_t900] c1_2_10 seed=1: M=19 D=2624.70 gap=  t_best=15.6s
+[gh200] c2_2_1 seed=1: M=7 D=1922.10 gap=  t_best=2.5s wall=1800s
+[gh200_t300] c2_2_1 seed=1: M=7 D=1922.10 gap=  t_best=2.5s
+[gh200_t900] c2_2_1 seed=1: M=7 D=1922.10 gap=  t_best=2.5s
+[gh200] c2_2_5 seed=1: M=7 D=1869.60 gap=  t_best=5.2s wall=1800s
+[gh200_t300] c2_2_5 seed=1: M=7 D=1869.60 gap=  t_best=5.2s
+[gh200_t900] c2_2_5 seed=1: M=7 D=1869.60 gap=  t_best=5.2s
+[gh200] c2_2_10 seed=1: M=7 D=1791.20 gap=  t_best=19.0s wall=1800s
+[gh200_t300] c2_2_10 seed=1: M=7 D=1791.20 gap=  t_best=19.0s
+[gh200_t900] c2_2_10 seed=1: M=7 D=1791.20 gap=  t_best=19.0s
+[gh200] r1_2_1 seed=1: M=23 D=4667.20 gap=  t_best=12.2s wall=1800s
+[gh200_t300] r1_2_1 seed=1: M=23 D=4667.20 gap=  t_best=12.2s
+[gh200_t900] r1_2_1 seed=1: M=23 D=4667.20 gap=  t_best=12.2s
+[gh200] r1_2_5 seed=1: M=20 D=4053.20 gap=  t_best=13.2s wall=1800s
+[gh200_t300] r1_2_5 seed=1: M=20 D=4053.20 gap=  t_best=13.2s
+[gh200_t900] r1_2_5 seed=1: M=20 D=4053.20 gap=  t_best=13.2s
+[gh200] r1_2_10 seed=1: M=18 D=3300.90 gap=  t_best=299.9s wall=1800s
+[gh200_t300] r1_2_10 seed=1: M=18 D=3300.90 gap=  t_best=299.9s
+[gh200_t900] r1_2_10 seed=1: M=18 D=3300.90 gap=  t_best=299.9s
+[gh200] r2_2_1 seed=1: M=13 D=3468.00 gap=  t_best=32.4s wall=1800s
+[gh200_t300] r2_2_1 seed=1: M=13 D=3468.00 gap=  t_best=32.4s
+[gh200_t900] r2_2_1 seed=1: M=13 D=3468.00 gap=  t_best=32.4s
+[gh200] r2_2_5 seed=1: M=9 D=3064.30 gap=  t_best=59.8s wall=1800s
+[gh200_t300] r2_2_5 seed=1: M=9 D=3064.30 gap=  t_best=59.8s
+[gh200_t900] r2_2_5 seed=1: M=9 D=3064.30 gap=  t_best=59.8s
+[gh200] r2_2_10 seed=1: M=7 D=2553.60 gap=  t_best=48.8s wall=1801s
+[gh200_t300] r2_2_10 seed=1: M=7 D=2553.60 gap=  t_best=48.8s
+[gh200_t900] r2_2_10 seed=1: M=7 D=2553.60 gap=  t_best=48.8s
+[gh200] rc1_2_1 seed=1: M=20 D=3516.90 gap=  t_best=79.0s wall=1800s
+[gh200_t300] rc1_2_1 seed=1: M=20 D=3516.90 gap=  t_best=79.0s
+[gh200_t900] rc1_2_1 seed=1: M=20 D=3516.90 gap=  t_best=79.0s
+[gh200] rc1_2_5 seed=1: M=19 D=3327.30 gap=  t_best=77.6s wall=1800s
+[gh200_t300] rc1_2_5 seed=1: M=19 D=3327.30 gap=  t_best=77.6s
+[gh200_t900] rc1_2_5 seed=1: M=19 D=3327.30 gap=  t_best=77.6s
+[gh200] rc1_2_10 seed=1: M=19 D=2994.90 gap=  t_best=127.7s wall=1802s
+[gh200_t300] rc1_2_10 seed=1: M=19 D=2994.90 gap=  t_best=127.7s
+[gh200_t900] rc1_2_10 seed=1: M=19 D=2994.90 gap=  t_best=127.7s
+[gh200] rc2_2_1 seed=1: M=10 D=2797.40 gap=  t_best=188.9s wall=1800s
+[gh200_t300] rc2_2_1 seed=1: M=10 D=2797.40 gap=  t_best=188.9s
+[gh200_t900] rc2_2_1 seed=1: M=10 D=2797.40 gap=  t_best=188.9s
+[gh200] rc2_2_5 seed=1: M=8 D=2493.50 gap=  t_best=40.9s wall=1800s
+[gh200_t300] rc2_2_5 seed=1: M=8 D=2493.50 gap=  t_best=40.9s
+[gh200_t900] rc2_2_5 seed=1: M=8 D=2493.50 gap=  t_best=40.9s
+[gh200] rc2_2_10 seed=1: M=6 D=1998.90 gap=  t_best=64.4s wall=1800s
+[gh200_t300] rc2_2_10 seed=1: M=6 D=1998.90 gap=  t_best=64.4s
+[gh200_t900] rc2_2_10 seed=1: M=6 D=1998.90 gap=  t_best=64.4s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[gh200] c1_2_1 seed=2: M=20 D=2698.60 gap=  t_best=1.0s wall=1800s
+[gh200_t300] c1_2_1 seed=2: M=20 D=2698.60 gap=  t_best=1.0s
+[gh200_t900] c1_2_1 seed=2: M=20 D=2698.60 gap=  t_best=1.0s
+[gh200] c1_2_5 seed=2: M=20 D=2694.90 gap=  t_best=1.4s wall=1800s
+[gh200_t300] c1_2_5 seed=2: M=20 D=2694.90 gap=  t_best=1.4s
+[gh200_t900] c1_2_5 seed=2: M=20 D=2694.90 gap=  t_best=1.4s
+[gh200] c1_2_10 seed=2: M=19 D=2624.70 gap=  t_best=12.5s wall=1800s
+[gh200_t300] c1_2_10 seed=2: M=19 D=2624.70 gap=  t_best=12.5s
+[gh200_t900] c1_2_10 seed=2: M=19 D=2624.70 gap=  t_best=12.5s
+[gh200] c2_2_1 seed=2: M=7 D=1922.10 gap=  t_best=2.5s wall=1800s
+[gh200_t300] c2_2_1 seed=2: M=7 D=1922.10 gap=  t_best=2.5s
+[gh200_t900] c2_2_1 seed=2: M=7 D=1922.10 gap=  t_best=2.5s
+[gh200] c2_2_5 seed=2: M=7 D=1869.60 gap=  t_best=5.2s wall=1800s
+[gh200_t300] c2_2_5 seed=2: M=7 D=1869.60 gap=  t_best=5.2s
+[gh200_t900] c2_2_5 seed=2: M=7 D=1869.60 gap=  t_best=5.2s
+[gh200] c2_2_10 seed=2: M=7 D=1791.20 gap=  t_best=19.0s wall=1800s
+[gh200_t300] c2_2_10 seed=2: M=7 D=1791.20 gap=  t_best=19.0s
+[gh200_t900] c2_2_10 seed=2: M=7 D=1791.20 gap=  t_best=19.0s
+[gh200] r1_2_1 seed=2: M=23 D=4667.20 gap=  t_best=54.1s wall=1800s
+[gh200_t300] r1_2_1 seed=2: M=23 D=4667.20 gap=  t_best=54.1s
+[gh200_t900] r1_2_1 seed=2: M=23 D=4667.20 gap=  t_best=54.1s
+[gh200] r1_2_5 seed=2: M=20 D=4053.20 gap=  t_best=10.6s wall=1800s
+[gh200_t300] r1_2_5 seed=2: M=20 D=4053.20 gap=  t_best=10.6s
+[gh200_t900] r1_2_5 seed=2: M=20 D=4053.20 gap=  t_best=10.6s
+[gh200] r1_2_10 seed=2: M=18 D=3299.60 gap=  t_best=44.3s wall=1800s
+[gh200_t300] r1_2_10 seed=2: M=18 D=3299.60 gap=  t_best=44.3s
+[gh200_t900] r1_2_10 seed=2: M=18 D=3299.60 gap=  t_best=44.3s
+[gh200] r2_2_1 seed=2: M=13 D=3468.00 gap=  t_best=20.1s wall=1800s
+[gh200_t300] r2_2_1 seed=2: M=13 D=3468.00 gap=  t_best=20.1s
+[gh200_t900] r2_2_1 seed=2: M=13 D=3468.00 gap=  t_best=20.1s
+[gh200] r2_2_5 seed=2: M=9 D=3063.80 gap=  t_best=115.7s wall=1800s
+[gh200_t300] r2_2_5 seed=2: M=9 D=3063.80 gap=  t_best=115.7s
+[gh200_t900] r2_2_5 seed=2: M=9 D=3063.80 gap=  t_best=115.7s
+[gh200] r2_2_10 seed=2: M=7 D=2553.00 gap=  t_best=53.0s wall=1801s
+[gh200_t300] r2_2_10 seed=2: M=7 D=2553.00 gap=  t_best=53.0s
+[gh200_t900] r2_2_10 seed=2: M=7 D=2553.00 gap=  t_best=53.0s
+[gh200] rc1_2_1 seed=2: M=20 D=3516.90 gap=  t_best=17.6s wall=1800s
+[gh200_t300] rc1_2_1 seed=2: M=20 D=3516.90 gap=  t_best=17.6s
+[gh200_t900] rc1_2_1 seed=2: M=20 D=3516.90 gap=  t_best=17.6s
+[gh200] rc1_2_5 seed=2: M=19 D=3327.50 gap=  t_best=14.9s wall=1800s
+[gh200_t300] rc1_2_5 seed=2: M=19 D=3327.50 gap=  t_best=14.9s
+[gh200_t900] rc1_2_5 seed=2: M=19 D=3327.50 gap=  t_best=14.9s
+[gh200] rc1_2_10 seed=2: M=19 D=2994.90 gap=  t_best=220.7s wall=1802s
+[gh200_t300] rc1_2_10 seed=2: M=19 D=2994.90 gap=  t_best=220.7s
+[gh200_t900] rc1_2_10 seed=2: M=19 D=2994.90 gap=  t_best=220.7s
+[gh200] rc2_2_1 seed=2: M=10 D=2797.40 gap=  t_best=11.1s wall=1800s
+[gh200_t300] rc2_2_1 seed=2: M=10 D=2797.40 gap=  t_best=11.1s
+[gh200_t900] rc2_2_1 seed=2: M=10 D=2797.40 gap=  t_best=11.1s
+[gh200] rc2_2_5 seed=2: M=8 D=2493.50 gap=  t_best=807.2s wall=1800s
+[gh200_t300] rc2_2_5 seed=2: M=8 D=2494.20 gap=  t_best=54.3s
+[gh200_t900] rc2_2_5 seed=2: M=8 D=2493.50 gap=  t_best=807.2s
+[gh200] rc2_2_10 seed=2: M=6 D=1998.90 gap=  t_best=44.7s wall=1801s
+[gh200_t300] rc2_2_10 seed=2: M=6 D=1998.90 gap=  t_best=44.7s
+[gh200_t900] rc2_2_10 seed=2: M=6 D=1998.90 gap=  t_best=44.7s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[gh200] c1_2_1 seed=3: M=20 D=2698.60 gap=  t_best=1.0s wall=1801s
+[gh200_t300] c1_2_1 seed=3: M=20 D=2698.60 gap=  t_best=1.0s
+[gh200_t900] c1_2_1 seed=3: M=20 D=2698.60 gap=  t_best=1.0s
+[gh200] c1_2_5 seed=3: M=20 D=2694.90 gap=  t_best=1.4s wall=1800s
+[gh200_t300] c1_2_5 seed=3: M=20 D=2694.90 gap=  t_best=1.4s
+[gh200_t900] c1_2_5 seed=3: M=20 D=2694.90 gap=  t_best=1.4s
+[gh200] c1_2_10 seed=3: M=19 D=2624.70 gap=  t_best=15.5s wall=1800s
+[gh200_t300] c1_2_10 seed=3: M=19 D=2624.70 gap=  t_best=15.5s
+[gh200_t900] c1_2_10 seed=3: M=19 D=2624.70 gap=  t_best=15.5s
+[gh200] c2_2_1 seed=3: M=7 D=1922.10 gap=  t_best=2.5s wall=1800s
+[gh200_t300] c2_2_1 seed=3: M=7 D=1922.10 gap=  t_best=2.5s
+[gh200_t900] c2_2_1 seed=3: M=7 D=1922.10 gap=  t_best=2.5s
+[gh200] c2_2_5 seed=3: M=7 D=1869.60 gap=  t_best=5.2s wall=1800s
+[gh200_t300] c2_2_5 seed=3: M=7 D=1869.60 gap=  t_best=5.2s
+[gh200_t900] c2_2_5 seed=3: M=7 D=1869.60 gap=  t_best=5.2s
+[gh200] c2_2_10 seed=3: M=7 D=1791.20 gap=  t_best=18.9s wall=1801s
+[gh200_t300] c2_2_10 seed=3: M=7 D=1791.20 gap=  t_best=18.9s
+[gh200_t900] c2_2_10 seed=3: M=7 D=1791.20 gap=  t_best=18.9s
+[gh200] r1_2_1 seed=3: M=23 D=4667.20 gap=  t_best=631.5s wall=1800s
+[gh200_t300] r1_2_1 seed=3: M=24 D=4670.60 gap=  t_best=6.8s
+[gh200_t900] r1_2_1 seed=3: M=23 D=4667.20 gap=  t_best=631.5s
+[gh200] r1_2_5 seed=3: M=20 D=4053.20 gap=  t_best=28.6s wall=1800s
+[gh200_t300] r1_2_5 seed=3: M=20 D=4053.20 gap=  t_best=28.6s
+[gh200_t900] r1_2_5 seed=3: M=20 D=4053.20 gap=  t_best=28.6s
+[gh200] r1_2_10 seed=3: M=18 D=3293.10 gap=  t_best=311.1s wall=1800s
+[gh200_t300] r1_2_10 seed=3: M=18 D=3306.90 gap=  t_best=25.9s
+[gh200_t900] r1_2_10 seed=3: M=18 D=3293.10 gap=  t_best=311.1s
+[gh200] r2_2_1 seed=3: M=13 D=3468.00 gap=  t_best=12.4s wall=1800s
+[gh200_t300] r2_2_1 seed=3: M=13 D=3468.00 gap=  t_best=12.4s
+[gh200_t900] r2_2_1 seed=3: M=13 D=3468.00 gap=  t_best=12.4s
+[gh200] r2_2_5 seed=3: M=8 D=3061.10 gap=  t_best=130.3s wall=1800s
+[gh200_t300] r2_2_5 seed=3: M=8 D=3061.10 gap=  t_best=130.3s
+[gh200_t900] r2_2_5 seed=3: M=8 D=3061.10 gap=  t_best=130.3s
+[gh200] r2_2_10 seed=3: M=7 D=2554.20 gap=  t_best=38.1s wall=1800s
+[gh200_t300] r2_2_10 seed=3: M=7 D=2554.20 gap=  t_best=38.1s
+[gh200_t900] r2_2_10 seed=3: M=7 D=2554.20 gap=  t_best=38.1s
+[gh200] rc1_2_1 seed=3: M=20 D=3516.90 gap=  t_best=92.8s wall=1800s
+[gh200_t300] rc1_2_1 seed=3: M=20 D=3516.90 gap=  t_best=92.8s
+[gh200_t900] rc1_2_1 seed=3: M=20 D=3516.90 gap=  t_best=92.8s
+[gh200] rc1_2_5 seed=3: M=19 D=3327.30 gap=  t_best=29.6s wall=1800s
+[gh200_t300] rc1_2_5 seed=3: M=19 D=3327.30 gap=  t_best=29.6s
+[gh200_t900] rc1_2_5 seed=3: M=19 D=3327.30 gap=  t_best=29.6s
+[gh200] rc1_2_10 seed=3: M=19 D=2994.90 gap=  t_best=78.9s wall=1802s
+[gh200_t300] rc1_2_10 seed=3: M=19 D=2994.90 gap=  t_best=78.9s
+[gh200_t900] rc1_2_10 seed=3: M=19 D=2994.90 gap=  t_best=78.9s
+[gh200] rc2_2_1 seed=3: M=10 D=2797.40 gap=  t_best=13.0s wall=1800s
+[gh200_t300] rc2_2_1 seed=3: M=10 D=2797.40 gap=  t_best=13.0s
+[gh200_t900] rc2_2_1 seed=3: M=10 D=2797.40 gap=  t_best=13.0s
+[gh200] rc2_2_5 seed=3: M=8 D=2493.50 gap=  t_best=217.5s wall=1800s
+[gh200_t300] rc2_2_5 seed=3: M=8 D=2493.50 gap=  t_best=217.5s
+[gh200_t900] rc2_2_5 seed=3: M=8 D=2493.50 gap=  t_best=217.5s
+[gh200] rc2_2_10 seed=3: M=6 D=1998.90 gap=  t_best=328.2s wall=1800s
+[gh200_t300] rc2_2_10 seed=3: M=6 D=2004.80 gap=  t_best=72.0s
+[gh200_t900] rc2_2_10 seed=3: M=6 D=1998.90 gap=  t_best=328.2s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[gh200] c1_2_1 seed=4: M=20 D=2698.60 gap=  t_best=1.0s wall=1801s
+[gh200_t300] c1_2_1 seed=4: M=20 D=2698.60 gap=  t_best=1.0s
+[gh200_t900] c1_2_1 seed=4: M=20 D=2698.60 gap=  t_best=1.0s
+[gh200] c1_2_5 seed=4: M=20 D=2694.90 gap=  t_best=1.4s wall=1800s
+[gh200_t300] c1_2_5 seed=4: M=20 D=2694.90 gap=  t_best=1.4s
+[gh200_t900] c1_2_5 seed=4: M=20 D=2694.90 gap=  t_best=1.4s
+[gh200] c1_2_10 seed=4: M=19 D=2624.70 gap=  t_best=15.5s wall=1800s
+[gh200_t300] c1_2_10 seed=4: M=19 D=2624.70 gap=  t_best=15.5s
+[gh200_t900] c1_2_10 seed=4: M=19 D=2624.70 gap=  t_best=15.5s
+[gh200] c2_2_1 seed=4: M=7 D=1922.10 gap=  t_best=2.5s wall=1800s
+[gh200_t300] c2_2_1 seed=4: M=7 D=1922.10 gap=  t_best=2.5s
+[gh200_t900] c2_2_1 seed=4: M=7 D=1922.10 gap=  t_best=2.5s
+[gh200] c2_2_5 seed=4: M=7 D=1869.60 gap=  t_best=5.2s wall=1800s
+[gh200_t300] c2_2_5 seed=4: M=7 D=1869.60 gap=  t_best=5.2s
+[gh200_t900] c2_2_5 seed=4: M=7 D=1869.60 gap=  t_best=5.2s
+[gh200] c2_2_10 seed=4: M=7 D=1791.20 gap=  t_best=14.9s wall=1800s
+[gh200_t300] c2_2_10 seed=4: M=7 D=1791.20 gap=  t_best=14.9s
+[gh200_t900] c2_2_10 seed=4: M=7 D=1791.20 gap=  t_best=14.9s
+[gh200] r1_2_1 seed=4: M=23 D=4667.20 gap=  t_best=5.7s wall=1800s
+[gh200_t300] r1_2_1 seed=4: M=23 D=4667.20 gap=  t_best=5.7s
+[gh200_t900] r1_2_1 seed=4: M=23 D=4667.20 gap=  t_best=5.7s
+[gh200] r1_2_5 seed=4: M=20 D=4053.20 gap=  t_best=15.7s wall=1800s
+[gh200_t300] r1_2_5 seed=4: M=20 D=4053.20 gap=  t_best=15.7s
+[gh200_t900] r1_2_5 seed=4: M=20 D=4053.20 gap=  t_best=15.7s
+[gh200] r1_2_10 seed=4: M=18 D=3300.90 gap=  t_best=115.0s wall=1800s
+[gh200_t300] r1_2_10 seed=4: M=18 D=3300.90 gap=  t_best=115.0s
+[gh200_t900] r1_2_10 seed=4: M=18 D=3300.90 gap=  t_best=115.0s
+[gh200] r2_2_1 seed=4: M=13 D=3468.00 gap=  t_best=11.0s wall=1800s
+[gh200_t300] r2_2_1 seed=4: M=13 D=3468.00 gap=  t_best=11.0s
+[gh200_t900] r2_2_1 seed=4: M=13 D=3468.00 gap=  t_best=11.0s
+[gh200] r2_2_5 seed=4: M=9 D=3068.60 gap=  t_best=1392.0s wall=1800s
+[gh200_t300] r2_2_5 seed=4: M=10 D=3075.70 gap=  t_best=19.4s
+[gh200_t900] r2_2_5 seed=4: M=10 D=3075.70 gap=  t_best=19.4s
+[gh200] r2_2_10 seed=4: M=7 D=2554.20 gap=  t_best=41.8s wall=1801s
+[gh200_t300] r2_2_10 seed=4: M=7 D=2554.20 gap=  t_best=41.8s
+[gh200_t900] r2_2_10 seed=4: M=7 D=2554.20 gap=  t_best=41.8s
+[gh200] rc1_2_1 seed=4: M=20 D=3516.90 gap=  t_best=40.2s wall=1800s
+[gh200_t300] rc1_2_1 seed=4: M=20 D=3516.90 gap=  t_best=40.2s
+[gh200_t900] rc1_2_1 seed=4: M=20 D=3516.90 gap=  t_best=40.2s
+[gh200] rc1_2_5 seed=4: M=19 D=3327.50 gap=  t_best=10.7s wall=1800s
+[gh200_t300] rc1_2_5 seed=4: M=19 D=3327.50 gap=  t_best=10.7s
+[gh200_t900] rc1_2_5 seed=4: M=19 D=3327.50 gap=  t_best=10.7s
+[gh200] rc1_2_10 seed=4: M=19 D=2995.70 gap=  t_best=1736.8s wall=1801s
+[gh200_t300] rc1_2_10 seed=4: M=18 D=3008.00 gap=  t_best=78.6s
+[gh200_t900] rc1_2_10 seed=4: M=19 D=3005.10 gap=  t_best=875.7s
+[gh200] rc2_2_1 seed=4: M=10 D=2797.40 gap=  t_best=14.8s wall=1800s
+[gh200_t300] rc2_2_1 seed=4: M=10 D=2797.40 gap=  t_best=14.8s
+[gh200_t900] rc2_2_1 seed=4: M=10 D=2797.40 gap=  t_best=14.8s
+[gh200] rc2_2_5 seed=4: M=8 D=2493.50 gap=  t_best=640.1s wall=1800s
+[gh200_t300] rc2_2_5 seed=4: M=8 D=2494.20 gap=  t_best=158.5s
+[gh200_t900] rc2_2_5 seed=4: M=8 D=2493.50 gap=  t_best=640.1s
+[gh200] rc2_2_10 seed=4: M=6 D=1998.90 gap=  t_best=40.2s wall=1801s
+[gh200_t300] rc2_2_10 seed=4: M=6 D=1998.90 gap=  t_best=40.2s
+[gh200_t900] rc2_2_10 seed=4: M=6 D=1998.90 gap=  t_best=40.2s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[gh200] c1_2_1 seed=5: M=20 D=2698.60 gap=  t_best=1.0s wall=1801s
+[gh200_t300] c1_2_1 seed=5: M=20 D=2698.60 gap=  t_best=1.0s
+[gh200_t900] c1_2_1 seed=5: M=20 D=2698.60 gap=  t_best=1.0s
+[gh200] c1_2_5 seed=5: M=20 D=2694.90 gap=  t_best=1.4s wall=1800s
+[gh200_t300] c1_2_5 seed=5: M=20 D=2694.90 gap=  t_best=1.4s
+[gh200_t900] c1_2_5 seed=5: M=20 D=2694.90 gap=  t_best=1.4s
+[gh200] c1_2_10 seed=5: M=19 D=2624.70 gap=  t_best=15.7s wall=1800s
+[gh200_t300] c1_2_10 seed=5: M=19 D=2624.70 gap=  t_best=15.7s
+[gh200_t900] c1_2_10 seed=5: M=19 D=2624.70 gap=  t_best=15.7s
+[gh200] c2_2_1 seed=5: M=7 D=1922.10 gap=  t_best=2.5s wall=1800s
+[gh200_t300] c2_2_1 seed=5: M=7 D=1922.10 gap=  t_best=2.5s
+[gh200_t900] c2_2_1 seed=5: M=7 D=1922.10 gap=  t_best=2.5s
+[gh200] c2_2_5 seed=5: M=7 D=1869.60 gap=  t_best=5.2s wall=1800s
+[gh200_t300] c2_2_5 seed=5: M=7 D=1869.60 gap=  t_best=5.2s
+[gh200_t900] c2_2_5 seed=5: M=7 D=1869.60 gap=  t_best=5.2s
+[gh200] c2_2_10 seed=5: M=7 D=1791.20 gap=  t_best=19.0s wall=1800s
+[gh200_t300] c2_2_10 seed=5: M=7 D=1791.20 gap=  t_best=19.0s
+[gh200_t900] c2_2_10 seed=5: M=7 D=1791.20 gap=  t_best=19.0s
+[gh200] r1_2_1 seed=5: M=23 D=4667.20 gap=  t_best=8.0s wall=1800s
+[gh200_t300] r1_2_1 seed=5: M=23 D=4667.20 gap=  t_best=8.0s
+[gh200_t900] r1_2_1 seed=5: M=23 D=4667.20 gap=  t_best=8.0s
+[gh200] r1_2_5 seed=5: M=20 D=4053.20 gap=  t_best=14.7s wall=1800s
+[gh200_t300] r1_2_5 seed=5: M=20 D=4053.20 gap=  t_best=14.7s
+[gh200_t900] r1_2_5 seed=5: M=20 D=4053.20 gap=  t_best=14.7s
+[gh200] r1_2_10 seed=5: M=18 D=3300.90 gap=  t_best=107.1s wall=1800s
+[gh200_t300] r1_2_10 seed=5: M=18 D=3300.90 gap=  t_best=107.1s
+[gh200_t900] r1_2_10 seed=5: M=18 D=3300.90 gap=  t_best=107.1s
+[gh200] r2_2_1 seed=5: M=13 D=3468.00 gap=  t_best=23.4s wall=1800s
+[gh200_t300] r2_2_1 seed=5: M=13 D=3468.00 gap=  t_best=23.4s
+[gh200_t900] r2_2_1 seed=5: M=13 D=3468.00 gap=  t_best=23.4s
+[gh200] r2_2_5 seed=5: M=9 D=3063.80 gap=  t_best=453.8s wall=1800s
+[gh200_t300] r2_2_5 seed=5: M=10 D=3075.70 gap=  t_best=23.8s
+[gh200_t900] r2_2_5 seed=5: M=9 D=3063.80 gap=  t_best=453.8s
+[gh200] r2_2_10 seed=5: M=8 D=2552.80 gap=  t_best=45.9s wall=1800s
+[gh200_t300] r2_2_10 seed=5: M=8 D=2552.80 gap=  t_best=45.9s
+[gh200_t900] r2_2_10 seed=5: M=8 D=2552.80 gap=  t_best=45.9s
+[gh200] rc1_2_1 seed=5: M=20 D=3516.90 gap=  t_best=248.6s wall=1800s
+[gh200_t300] rc1_2_1 seed=5: M=20 D=3516.90 gap=  t_best=248.6s
+[gh200_t900] rc1_2_1 seed=5: M=20 D=3516.90 gap=  t_best=248.6s
+[gh200] rc1_2_5 seed=5: M=19 D=3325.60 gap=  t_best=505.2s wall=1800s
+[gh200_t300] rc1_2_5 seed=5: M=19 D=3327.30 gap=  t_best=256.1s
+[gh200_t900] rc1_2_5 seed=5: M=19 D=3325.60 gap=  t_best=505.2s
+[gh200] rc1_2_10 seed=5: M=19 D=2994.90 gap=  t_best=48.8s wall=1802s
+[gh200_t300] rc1_2_10 seed=5: M=19 D=2994.90 gap=  t_best=48.8s
+[gh200_t900] rc1_2_10 seed=5: M=19 D=2994.90 gap=  t_best=48.8s
+[gh200] rc2_2_1 seed=5: M=10 D=2797.40 gap=  t_best=18.9s wall=1800s
+[gh200_t300] rc2_2_1 seed=5: M=10 D=2797.40 gap=  t_best=18.9s
+[gh200_t900] rc2_2_1 seed=5: M=10 D=2797.40 gap=  t_best=18.9s
+[gh200] rc2_2_5 seed=5: M=8 D=2493.50 gap=  t_best=171.4s wall=1800s
+[gh200_t300] rc2_2_5 seed=5: M=8 D=2493.50 gap=  t_best=171.4s
+[gh200_t900] rc2_2_5 seed=5: M=8 D=2493.50 gap=  t_best=171.4s
+[gh200] rc2_2_10 seed=5: M=6 D=1998.90 gap=  t_best=57.6s wall=1801s
+[gh200_t300] rc2_2_10 seed=5: M=6 D=1998.90 gap=  t_best=57.6s
+[gh200_t900] rc2_2_10 seed=5: M=6 D=1998.90 gap=  t_best=57.6s

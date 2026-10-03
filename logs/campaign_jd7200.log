@@ -1,0 +1,495 @@
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_1 seed=1: M=110 D=140382.00 gap=-0.4171 NEW_BEST t_best=5107.2s wall=7201s
+[jd7200_t1200] 600_1 seed=1: M=111 D=140758.66 gap=-0.0284 NEW_BEST t_best=1062.8s
+[jd7200_t3600] 600_1 seed=1: M=110 D=140414.30 gap=-0.3985 NEW_BEST t_best=3261.2s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_2 seed=1: M=112 D=143582.43 gap=-0.6365 NEW_BEST t_best=5148.4s wall=7201s
+[jd7200_t1200] 600_2 seed=1: M=113 D=144682.61 gap=0.1487 worse t_best=540.4s
+[jd7200_t3600] 600_2 seed=1: M=113 D=144182.47 gap=-0.1317 NEW_BEST t_best=1737.0s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_3 seed=1: M=112 D=143055.01 gap=-0.7441 NEW_BEST t_best=4695.9s wall=7202s
+[jd7200_t1200] 600_3 seed=1: M=112 D=143781.51 gap=-0.3359 NEW_BEST t_best=1188.0s
+[jd7200_t3600] 600_3 seed=1: M=112 D=143195.22 gap=-0.6654 NEW_BEST t_best=1798.8s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_4 seed=1: M=113 D=142517.44 gap=-1.0007 NEW_BEST t_best=5314.4s wall=7201s
+[jd7200_t1200] 600_4 seed=1: M=114 D=142607.39 gap=-0.7818 NEW_BEST t_best=1128.7s
+[jd7200_t3600] 600_4 seed=1: M=114 D=142331.42 gap=-0.9367 NEW_BEST t_best=1613.6s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_1 seed=1: M=146 D=161390.82 gap=-1.5045 NEW_BEST t_best=5384.9s wall=7202s
+[jd7200_t1200] 800_1 seed=1: M=148 D=162882.43 gap=-0.5005 NEW_BEST t_best=1198.3s
+[jd7200_t3600] 800_1 seed=1: M=147 D=161946.43 gap=-1.0938 NEW_BEST t_best=2269.0s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_2 seed=1: M=145 D=159862.81 gap=-1.3826 NEW_BEST t_best=4732.2s wall=7202s
+[jd7200_t1200] 800_2 seed=1: M=147 D=161020.94 gap=-0.53 NEW_BEST t_best=672.5s
+[jd7200_t3600] 800_2 seed=1: M=146 D=160106.06 gap=-1.1192 NEW_BEST t_best=3426.3s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_3 seed=1: M=150 D=162958.07 gap=-1.0725 NEW_BEST t_best=3909.9s wall=7202s
+[jd7200_t1200] 800_3 seed=1: M=150 D=163119.89 gap=-0.9955 NEW_BEST t_best=872.6s
+[jd7200_t3600] 800_3 seed=1: M=150 D=162960.91 gap=-1.0711 NEW_BEST t_best=2701.5s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_4 seed=1: M=145 D=158194.39 gap=-1.1163 NEW_BEST t_best=6652.4s wall=7203s
+[jd7200_t1200] 800_4 seed=1: M=144 D=159198.33 gap=-0.7711 NEW_BEST t_best=887.1s
+[jd7200_t3600] 800_4 seed=1: M=145 D=158417.14 gap=-1.0071 NEW_BEST t_best=2467.6s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 1000_1 seed=1: M=193 D=239351.92 gap=-1.9336 NEW_BEST t_best=7083.0s wall=7204s
+[jd7200_t1200] 1000_1 seed=1: M=194 D=242229.65 gap=-0.8852 NEW_BEST t_best=1189.5s
+[jd7200_t3600] 1000_1 seed=1: M=194 D=240075.08 gap=-1.5961 NEW_BEST t_best=3438.0s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 1000_2 seed=1: M=194 D=236942.06 gap=-1.5646 NEW_BEST t_best=6438.4s wall=7204s
+[jd7200_t1200] 1000_2 seed=1: M=195 D=237886.43 gap=-1.1495 NEW_BEST t_best=1188.6s
+[jd7200_t3600] 1000_2 seed=1: M=194 D=237673.24 gap=-1.3207 NEW_BEST t_best=2071.3s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 1000_3 seed=1: M=193 D=237053.91 gap=-2.0251 NEW_BEST t_best=7198.7s wall=7204s
+[jd7200_t1200] 1000_3 seed=1: M=196 D=240410.87 gap=-0.6111 NEW_BEST t_best=1151.3s
+[jd7200_t3600] 1000_3 seed=1: M=194 D=237493.75 gap=-1.7794 NEW_BEST t_best=2966.0s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_1 seed=2: M=110 D=140495.22 gap=-0.352 NEW_BEST t_best=6623.0s wall=7203s
+[jd7200_t1200] 600_1 seed=2: M=110 D=140730.56 gap=-0.2169 NEW_BEST t_best=917.1s
+[jd7200_t3600] 600_1 seed=2: M=110 D=140506.67 gap=-0.3455 NEW_BEST t_best=2718.2s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_2 seed=2: M=112 D=143981.70 gap=-0.4126 NEW_BEST t_best=2403.8s wall=7201s
+[jd7200_t1200] 600_2 seed=2: M=114 D=144800.50 gap=0.3831 worse t_best=1197.9s
+[jd7200_t3600] 600_2 seed=2: M=112 D=143981.70 gap=-0.4126 NEW_BEST t_best=2403.8s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_3 seed=2: M=112 D=142737.83 gap=-0.9224 NEW_BEST t_best=7197.7s wall=7201s
+[jd7200_t1200] 600_3 seed=2: M=114 D=143713.81 gap=-0.0369 NEW_BEST t_best=771.9s
+[jd7200_t3600] 600_3 seed=2: M=113 D=143274.21 gap=-0.4524 NEW_BEST t_best=3209.0s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_4 seed=2: M=114 D=142606.02 gap=-0.7826 NEW_BEST t_best=7106.0s wall=7201s
+[jd7200_t1200] 600_4 seed=2: M=114 D=143536.90 gap=-0.2602 NEW_BEST t_best=1115.3s
+[jd7200_t3600] 600_4 seed=2: M=114 D=142718.11 gap=-0.7197 NEW_BEST t_best=2570.5s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_1 seed=2: M=147 D=161078.48 gap=-1.5105 NEW_BEST t_best=5284.7s wall=7202s
+[jd7200_t1200] 800_1 seed=2: M=149 D=163150.54 gap=-0.2278 NEW_BEST t_best=793.8s
+[jd7200_t3600] 800_1 seed=2: M=148 D=161841.05 gap=-1.0004 NEW_BEST t_best=3378.6s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_2 seed=2: M=146 D=160898.85 gap=-0.7347 NEW_BEST t_best=3002.3s wall=7204s
+[jd7200_t1200] 800_2 seed=2: M=147 D=161489.94 gap=-0.3026 NEW_BEST t_best=650.8s
+[jd7200_t3600] 800_2 seed=2: M=146 D=160898.85 gap=-0.7347 NEW_BEST t_best=3002.3s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_3 seed=2: M=150 D=162901.31 gap=-1.0995 NEW_BEST t_best=3914.6s wall=7202s
+[jd7200_t1200] 800_3 seed=2: M=150 D=163500.34 gap=-0.8145 NEW_BEST t_best=827.5s
+[jd7200_t3600] 800_3 seed=2: M=150 D=163349.62 gap=-0.8862 NEW_BEST t_best=1812.8s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_4 seed=2: M=145 D=157447.07 gap=-1.4826 NEW_BEST t_best=7123.2s wall=7201s
+[jd7200_t1200] 800_4 seed=2: M=145 D=158481.67 gap=-0.9754 NEW_BEST t_best=975.6s
+[jd7200_t3600] 800_4 seed=2: M=145 D=157752.35 gap=-1.333 NEW_BEST t_best=3379.1s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 1000_1 seed=2: M=194 D=239804.03 gap=-1.6855 NEW_BEST t_best=6684.0s wall=7203s
+[jd7200_t1200] 1000_1 seed=2: M=194 D=241774.69 gap=-1.0353 NEW_BEST t_best=1198.5s
+[jd7200_t3600] 1000_1 seed=2: M=194 D=239907.05 gap=-1.6515 NEW_BEST t_best=2556.8s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 1000_2 seed=2: M=191 D=235827.94 gap=-2.2363 NEW_BEST t_best=7198.4s wall=7205s
+[jd7200_t1200] 1000_2 seed=2: M=195 D=239065.64 gap=-0.7563 NEW_BEST t_best=1199.4s
+[jd7200_t3600] 1000_2 seed=2: M=193 D=236720.36 gap=-1.7386 NEW_BEST t_best=2104.6s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 1000_3 seed=2: M=193 D=237441.09 gap=-1.8965 NEW_BEST t_best=6984.5s wall=7205s
+[jd7200_t1200] 1000_3 seed=2: M=195 D=239518.62 gap=-1.0071 NEW_BEST t_best=1171.4s
+[jd7200_t3600] 1000_3 seed=2: M=193 D=237865.45 gap=-1.7556 NEW_BEST t_best=2800.9s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 1000_4 seed=2: M=192 D=235523.48 gap=-1.8193 NEW_BEST t_best=7130.0s wall=7205s
+[jd7200_t1200] 1000_4 seed=2: M=196 D=239473.14 gap=-0.0945 NEW_BEST t_best=1185.7s
+[jd7200_t3600] 1000_4 seed=2: M=195 D=237480.33 gap=-0.8624 NEW_BEST t_best=3592.2s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_1 seed=3: M=109 D=139920.26 gap=-0.8546 NEW_BEST t_best=5637.1s wall=7201s
+[jd7200_t1200] 600_1 seed=3: M=110 D=140753.79 gap=-0.2035 NEW_BEST t_best=394.6s
+[jd7200_t3600] 600_1 seed=3: M=109 D=140088.34 gap=-0.758 NEW_BEST t_best=3196.8s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_2 seed=3: M=113 D=143517.02 gap=-0.5049 NEW_BEST t_best=6601.2s wall=7201s
+[jd7200_t1200] 600_2 seed=3: M=114 D=145190.88 gap=0.602 worse t_best=982.9s
+[jd7200_t3600] 600_2 seed=3: M=113 D=143838.24 gap=-0.3248 NEW_BEST t_best=3504.6s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_3 seed=3: M=112 D=142575.83 gap=-1.0134 NEW_BEST t_best=6681.3s wall=7203s
+[jd7200_t1200] 600_3 seed=3: M=113 D=143032.71 gap=-0.5881 NEW_BEST t_best=1135.1s
+[jd7200_t3600] 600_3 seed=3: M=113 D=142492.52 gap=-0.8916 NEW_BEST t_best=3034.5s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_4 seed=3: M=114 D=142614.50 gap=-0.7779 NEW_BEST t_best=4860.6s wall=7201s
+[jd7200_t1200] 600_4 seed=3: M=114 D=143248.70 gap=-0.422 NEW_BEST t_best=1174.7s
+[jd7200_t3600] 600_4 seed=3: M=114 D=143032.89 gap=-0.5431 NEW_BEST t_best=1420.1s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_1 seed=3: M=147 D=161348.35 gap=-1.3809 NEW_BEST t_best=7002.2s wall=7202s
+[jd7200_t1200] 800_1 seed=3: M=148 D=162510.57 gap=-0.679 NEW_BEST t_best=1193.8s
+[jd7200_t3600] 800_1 seed=3: M=147 D=161391.97 gap=-1.36 NEW_BEST t_best=1681.1s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_2 seed=3: M=146 D=159938.18 gap=-1.2006 NEW_BEST t_best=6813.8s wall=7202s
+[jd7200_t1200] 800_2 seed=3: M=146 D=161628.52 gap=-0.3809 NEW_BEST t_best=614.9s
+[jd7200_t3600] 800_2 seed=3: M=146 D=161101.16 gap=-0.6366 NEW_BEST t_best=3497.6s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_3 seed=3: M=149 D=162034.81 gap=-1.6544 NEW_BEST t_best=7197.1s wall=7203s
+[jd7200_t1200] 800_3 seed=3: M=150 D=162767.75 gap=-1.163 NEW_BEST t_best=582.5s
+[jd7200_t3600] 800_3 seed=3: M=149 D=162204.15 gap=-1.5738 NEW_BEST t_best=2960.5s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_4 seed=3: M=144 D=158699.93 gap=-1.0155 NEW_BEST t_best=6621.3s wall=7201s
+[jd7200_t1200] 800_4 seed=3: M=147 D=160721.50 gap=0.4169 worse t_best=937.6s
+[jd7200_t3600] 800_4 seed=3: M=145 D=158450.68 gap=-0.9906 NEW_BEST t_best=3369.1s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 1000_1 seed=3: M=193 D=238870.06 gap=-2.0926 NEW_BEST t_best=7202.3s wall=7205s
+[jd7200_t1200] 1000_1 seed=3: M=194 D=241646.80 gap=-1.0775 NEW_BEST t_best=1182.3s
+[jd7200_t3600] 1000_1 seed=3: M=193 D=239594.73 gap=-1.8535 NEW_BEST t_best=1966.4s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 1000_2 seed=3: M=193 D=236759.92 gap=-1.7254 NEW_BEST t_best=7177.8s wall=7203s
+[jd7200_t1200] 1000_2 seed=3: M=195 D=238495.50 gap=-0.9464 NEW_BEST t_best=1158.5s
+[jd7200_t3600] 1000_2 seed=3: M=193 D=237470.52 gap=-1.4884 NEW_BEST t_best=2212.4s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 1000_3 seed=3: M=193 D=237753.26 gap=-1.7928 NEW_BEST t_best=7173.9s wall=7203s
+[jd7200_t1200] 1000_3 seed=3: M=195 D=239379.63 gap=-1.0533 NEW_BEST t_best=1195.3s
+[jd7200_t3600] 1000_3 seed=3: M=194 D=238826.31 gap=-1.3367 NEW_BEST t_best=2228.1s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 1000_4 seed=3: M=194 D=235957.15 gap=-1.4731 NEW_BEST t_best=7201.4s wall=7205s
+[jd7200_t1200] 1000_4 seed=3: M=196 D=237381.31 gap=-0.7951 NEW_BEST t_best=1198.1s
+[jd7200_t3600] 1000_4 seed=3: M=195 D=237499.75 gap=-0.8559 NEW_BEST t_best=1571.7s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_1 seed=4: M=109 D=140448.27 gap=-0.5513 NEW_BEST t_best=4125.8s wall=7201s
+[jd7200_t1200] 600_1 seed=4: M=109 D=140926.97 gap=-0.2764 NEW_BEST t_best=1189.6s
+[jd7200_t3600] 600_1 seed=4: M=109 D=140461.73 gap=-0.5436 NEW_BEST t_best=2970.8s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_2 seed=4: M=111 D=144268.50 gap=-0.42 NEW_BEST t_best=7065.9s wall=7201s
+[jd7200_t1200] 600_2 seed=4: M=113 D=144370.69 gap=-0.0262 NEW_BEST t_best=1142.3s
+[jd7200_t3600] 600_2 seed=4: M=112 D=144296.63 gap=-0.2359 NEW_BEST t_best=2508.4s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_3 seed=4: M=113 D=143331.05 gap=-0.4205 NEW_BEST t_best=2221.7s wall=7201s
+[jd7200_t1200] 600_3 seed=4: M=113 D=143659.50 gap=-0.2359 NEW_BEST t_best=1093.1s
+[jd7200_t3600] 600_3 seed=4: M=113 D=143331.05 gap=-0.4205 NEW_BEST t_best=2221.7s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_4 seed=4: M=112 D=142842.06 gap=-0.9869 NEW_BEST t_best=5817.3s wall=7203s
+[jd7200_t1200] 600_4 seed=4: M=114 D=144097.17 gap=0.0542 worse t_best=1196.4s
+[jd7200_t3600] 600_4 seed=4: M=112 D=143000.82 gap=-0.8978 NEW_BEST t_best=3484.1s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_1 seed=4: M=146 D=160718.59 gap=-1.8272 NEW_BEST t_best=7066.1s wall=7201s
+[jd7200_t1200] 800_1 seed=4: M=147 D=161573.57 gap=-1.2728 NEW_BEST t_best=702.9s
+[jd7200_t3600] 800_1 seed=4: M=146 D=161186.90 gap=-1.6024 NEW_BEST t_best=3319.8s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_2 seed=4: M=145 D=160228.63 gap=-1.2052 NEW_BEST t_best=5070.0s wall=7202s
+[jd7200_t1200] 800_2 seed=4: M=146 D=161806.85 gap=-0.2944 NEW_BEST t_best=1166.2s
+[jd7200_t3600] 800_2 seed=4: M=145 D=160723.60 gap=-0.9652 NEW_BEST t_best=3464.0s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_3 seed=4: M=149 D=162367.70 gap=-1.496 NEW_BEST t_best=6927.1s wall=7202s
+[jd7200_t1200] 800_3 seed=4: M=150 D=162999.16 gap=-1.0529 NEW_BEST t_best=1104.8s
+[jd7200_t3600] 800_3 seed=4: M=149 D=162635.93 gap=-1.3684 NEW_BEST t_best=3568.6s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_4 seed=4: M=143 D=158290.09 gap=-1.3635 NEW_BEST t_best=7197.6s wall=7202s
+[jd7200_t1200] 800_4 seed=4: M=145 D=158569.25 gap=-0.9325 NEW_BEST t_best=759.8s
+[jd7200_t3600] 800_4 seed=4: M=144 D=158316.13 gap=-1.2037 NEW_BEST t_best=2937.9s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 1000_1 seed=4: M=194 D=240887.95 gap=-1.3279 NEW_BEST t_best=7202.6s wall=7206s
+[jd7200_t1200] 1000_1 seed=4: M=195 D=242563.58 gap=-0.6761 NEW_BEST t_best=1185.3s
+[jd7200_t3600] 1000_1 seed=4: M=196 D=241525.20 gap=-0.9197 NEW_BEST t_best=3572.7s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 1000_2 seed=4: M=192 D=236283.47 gap=-1.9843 NEW_BEST t_best=6986.5s wall=7203s
+[jd7200_t1200] 1000_2 seed=4: M=194 D=238221.86 gap=-1.1377 NEW_BEST t_best=1188.8s
+[jd7200_t3600] 1000_2 seed=4: M=193 D=236858.27 gap=-1.6926 NEW_BEST t_best=2130.6s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 1000_3 seed=4: M=194 D=236593.91 gap=-2.0783 NEW_BEST t_best=6999.6s wall=7204s
+[jd7200_t1200] 1000_3 seed=4: M=195 D=238967.71 gap=-1.1901 NEW_BEST t_best=1187.9s
+[jd7200_t3600] 1000_3 seed=4: M=194 D=237342.29 gap=-1.8297 NEW_BEST t_best=2407.2s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 1000_4 seed=4: M=192 D=235535.78 gap=-1.8152 NEW_BEST t_best=7200.7s wall=7203s
+[jd7200_t1200] 1000_4 seed=4: M=194 D=238119.60 gap=-0.7488 NEW_BEST t_best=1198.5s
+[jd7200_t3600] 1000_4 seed=4: M=193 D=236417.38 gap=-1.4194 NEW_BEST t_best=2536.5s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_1 seed=5: M=109 D=139774.57 gap=-0.9383 NEW_BEST t_best=5363.6s wall=7203s
+[jd7200_t1200] 600_1 seed=5: M=110 D=140276.26 gap=-0.4778 NEW_BEST t_best=1199.4s
+[jd7200_t3600] 600_1 seed=5: M=109 D=139799.63 gap=-0.9239 NEW_BEST t_best=3596.3s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_2 seed=5: M=112 D=142704.81 gap=-1.1286 NEW_BEST t_best=6709.4s wall=7201s
+[jd7200_t1200] 600_2 seed=5: M=113 D=143952.86 gap=-0.2605 NEW_BEST t_best=1181.5s
+[jd7200_t3600] 600_2 seed=5: M=112 D=143507.94 gap=-0.6782 NEW_BEST t_best=2708.4s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_3 seed=5: M=111 D=142659.05 gap=-1.1352 NEW_BEST t_best=3970.4s wall=7201s
+[jd7200_t1200] 600_3 seed=5: M=112 D=143284.32 gap=-0.6153 NEW_BEST t_best=1199.4s
+[jd7200_t3600] 600_3 seed=5: M=111 D=142661.89 gap=-1.1336 NEW_BEST t_best=3383.5s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 600_4 seed=5: M=113 D=142455.43 gap=-1.0355 NEW_BEST t_best=7194.2s wall=7201s
+[jd7200_t1200] 600_4 seed=5: M=114 D=143149.62 gap=-0.4776 NEW_BEST t_best=1193.0s
+[jd7200_t3600] 600_4 seed=5: M=113 D=142724.01 gap=-0.8848 NEW_BEST t_best=2750.5s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_1 seed=5: M=147 D=161553.98 gap=-1.2822 NEW_BEST t_best=7200.5s wall=7202s
+[jd7200_t1200] 800_1 seed=5: M=148 D=162982.36 gap=-0.4526 NEW_BEST t_best=1195.6s
+[jd7200_t3600] 800_1 seed=5: M=147 D=161638.97 gap=-1.2414 NEW_BEST t_best=3517.0s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_2 seed=5: M=145 D=160611.63 gap=-1.0195 NEW_BEST t_best=7191.6s wall=7203s
+[jd7200_t1200] 800_2 seed=5: M=147 D=162434.93 gap=0.1556 worse t_best=538.2s
+[jd7200_t3600] 800_2 seed=5: M=145 D=161106.89 gap=-0.7793 NEW_BEST t_best=2836.8s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_3 seed=5: M=150 D=161765.55 gap=-1.6398 NEW_BEST t_best=7179.4s wall=7201s
+[jd7200_t1200] 800_3 seed=5: M=150 D=162580.96 gap=-1.2519 NEW_BEST t_best=745.7s
+[jd7200_t3600] 800_3 seed=5: M=150 D=162146.59 gap=-1.4585 NEW_BEST t_best=3406.4s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 800_4 seed=5: M=144 D=157847.23 gap=-1.4335 NEW_BEST t_best=7184.1s wall=7202s
+[jd7200_t1200] 800_4 seed=5: M=144 D=159118.97 gap=-0.81 NEW_BEST t_best=783.4s
+[jd7200_t3600] 800_4 seed=5: M=144 D=158059.38 gap=-1.3295 NEW_BEST t_best=2900.5s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 1000_1 seed=5: M=194 D=238708.47 gap=-2.0469 NEW_BEST t_best=7070.5s wall=7204s
+[jd7200_t1200] 1000_1 seed=5: M=197 D=241183.53 gap=-0.9334 NEW_BEST t_best=1196.7s
+[jd7200_t3600] 1000_1 seed=5: M=194 D=238811.94 gap=-2.0128 NEW_BEST t_best=2711.4s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 1000_2 seed=5: M=191 D=236503.08 gap=-2.0111 NEW_BEST t_best=7153.7s wall=7204s
+[jd7200_t1200] 1000_2 seed=5: M=194 D=239193.81 gap=-0.8136 NEW_BEST t_best=1199.1s
+[jd7200_t3600] 1000_2 seed=5: M=192 D=236636.74 gap=-1.8665 NEW_BEST t_best=2175.3s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 1000_3 seed=5: M=193 D=236517.02 gap=-2.2035 NEW_BEST t_best=7185.5s wall=7204s
+[jd7200_t1200] 1000_3 seed=5: M=194 D=238776.76 gap=-1.3532 NEW_BEST t_best=1194.5s
+[jd7200_t3600] 1000_3 seed=5: M=194 D=237426.43 gap=-1.8017 NEW_BEST t_best=3593.6s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 1000_4 seed=5: M=194 D=236057.07 gap=-1.4396 NEW_BEST t_best=7201.7s wall=7204s
+[jd7200_t1200] 1000_4 seed=5: M=195 D=237590.70 gap=-0.8255 NEW_BEST t_best=1184.9s
+[jd7200_t3600] 1000_4 seed=5: M=194 D=237519.98 gap=-0.9496 NEW_BEST t_best=3582.8s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_1 seed=1: M=40 D=52077.66 gap=-0.0089 NEW_BEST t_best=3417.3s wall=7201s
+[jd7200_t1200] 200_1 seed=1: M=40 D=52077.66 gap=-0.0089 NEW_BEST t_best=111.4s
+[jd7200_t3600] 200_1 seed=1: M=40 D=52077.66 gap=-0.0089 NEW_BEST t_best=3417.3s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_2 seed=1: M=42 D=51778.15 gap=0.0 TIE t_best=2292.3s wall=7201s
+[jd7200_t1200] 200_2 seed=1: M=42 D=51803.68 gap=0.0397 worse t_best=290.3s
+[jd7200_t3600] 200_2 seed=1: M=42 D=51778.15 gap=0.0 TIE t_best=2292.3s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_3 seed=1: M=40 D=53293.62 gap=-0.3872 NEW_BEST t_best=2282.6s wall=7202s
+[jd7200_t1200] 200_3 seed=1: M=40 D=53338.28 gap=-0.3191 NEW_BEST t_best=1194.9s
+[jd7200_t3600] 200_3 seed=1: M=40 D=53293.62 gap=-0.3872 NEW_BEST t_best=2282.6s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_4 seed=1: M=41 D=51694.83 gap=-0.0664 NEW_BEST t_best=5378.8s wall=7201s
+[jd7200_t1200] 200_4 seed=1: M=41 D=51694.83 gap=-0.0664 NEW_BEST t_best=116.0s
+[jd7200_t3600] 200_4 seed=1: M=41 D=51694.83 gap=-0.0664 NEW_BEST t_best=116.0s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_1 seed=1: M=75 D=93414.51 gap=0.0336 worse t_best=6984.3s wall=7201s
+[jd7200_t1200] 400_1 seed=1: M=75 D=93644.85 gap=0.2324 worse t_best=1073.9s
+[jd7200_t3600] 400_1 seed=1: M=75 D=93453.19 gap=0.067 worse t_best=2983.3s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_2 seed=1: M=78 D=97933.51 gap=-0.5439 NEW_BEST t_best=7178.7s wall=7201s
+[jd7200_t1200] 400_2 seed=1: M=80 D=97892.76 gap=-0.0855 NEW_BEST t_best=454.8s
+[jd7200_t3600] 400_2 seed=1: M=78 D=98316.54 gap=-0.23 NEW_BEST t_best=3444.5s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_3 seed=1: M=75 D=92558.10 gap=-0.4175 NEW_BEST t_best=7177.8s wall=7201s
+[jd7200_t1200] 400_3 seed=1: M=75 D=93225.15 gap=0.1599 worse t_best=600.5s
+[jd7200_t3600] 400_3 seed=1: M=75 D=92805.31 gap=-0.2035 NEW_BEST t_best=3273.4s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_4 seed=1: M=78 D=95220.96 gap=-0.6952 NEW_BEST t_best=5112.1s wall=7202s
+[jd7200_t1200] 400_4 seed=1: M=78 D=95378.65 gap=-0.5632 NEW_BEST t_best=951.8s
+[jd7200_t3600] 400_4 seed=1: M=78 D=95301.92 gap=-0.6274 NEW_BEST t_best=1533.9s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_1 seed=2: M=40 D=52077.66 gap=-0.0089 NEW_BEST t_best=169.7s wall=7201s
+[jd7200_t1200] 200_1 seed=2: M=40 D=52077.66 gap=-0.0089 NEW_BEST t_best=169.7s
+[jd7200_t3600] 200_1 seed=2: M=40 D=52077.66 gap=-0.0089 NEW_BEST t_best=169.7s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_2 seed=2: M=42 D=51778.15 gap=0.0 TIE t_best=315.4s wall=7201s
+[jd7200_t1200] 200_2 seed=2: M=42 D=51778.15 gap=0.0 TIE t_best=315.4s
+[jd7200_t3600] 200_2 seed=2: M=42 D=51778.15 gap=0.0 TIE t_best=315.4s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_3 seed=2: M=40 D=53240.42 gap=-0.4684 NEW_BEST t_best=3839.1s wall=7201s
+[jd7200_t1200] 200_3 seed=2: M=40 D=53338.28 gap=-0.3191 NEW_BEST t_best=476.7s
+[jd7200_t3600] 200_3 seed=2: M=40 D=53338.28 gap=-0.3191 NEW_BEST t_best=476.7s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_4 seed=2: M=41 D=51694.83 gap=-0.0664 NEW_BEST t_best=5973.2s wall=7202s
+[jd7200_t1200] 200_4 seed=2: M=41 D=51694.83 gap=-0.0664 NEW_BEST t_best=56.9s
+[jd7200_t3600] 200_4 seed=2: M=41 D=51694.83 gap=-0.0664 NEW_BEST t_best=56.9s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_1 seed=2: M=75 D=93283.40 gap=-0.0796 NEW_BEST t_best=6996.9s wall=7201s
+[jd7200_t1200] 400_1 seed=2: M=75 D=93580.37 gap=0.1767 worse t_best=1198.5s
+[jd7200_t3600] 400_1 seed=2: M=75 D=93574.36 gap=0.1715 worse t_best=1206.5s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_2 seed=2: M=79 D=97843.40 gap=-0.3719 NEW_BEST t_best=5931.8s wall=7201s
+[jd7200_t1200] 400_2 seed=2: M=79 D=98163.81 gap=-0.1093 NEW_BEST t_best=1152.0s
+[jd7200_t3600] 400_2 seed=2: M=79 D=97852.43 gap=-0.3645 NEW_BEST t_best=3351.9s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_3 seed=2: M=75 D=92807.54 gap=-0.2016 NEW_BEST t_best=5729.9s wall=7201s
+[jd7200_t1200] 400_3 seed=2: M=75 D=92863.69 gap=-0.153 NEW_BEST t_best=1192.4s
+[jd7200_t3600] 400_3 seed=2: M=75 D=92863.69 gap=-0.153 NEW_BEST t_best=1192.4s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_4 seed=2: M=78 D=95071.37 gap=-0.8205 NEW_BEST t_best=5441.3s wall=7201s
+[jd7200_t1200] 400_4 seed=2: M=78 D=95582.91 gap=-0.3922 NEW_BEST t_best=479.4s
+[jd7200_t3600] 400_4 seed=2: M=78 D=95240.50 gap=-0.6789 NEW_BEST t_best=2823.8s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_1 seed=3: M=40 D=52077.66 gap=-0.0089 NEW_BEST t_best=396.9s wall=7202s
+[jd7200_t1200] 200_1 seed=3: M=40 D=52077.66 gap=-0.0089 NEW_BEST t_best=396.9s
+[jd7200_t3600] 200_1 seed=3: M=40 D=52077.66 gap=-0.0089 NEW_BEST t_best=396.9s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_2 seed=3: M=42 D=51778.15 gap=0.0 TIE t_best=87.3s wall=7201s
+[jd7200_t1200] 200_2 seed=3: M=42 D=51778.15 gap=0.0 TIE t_best=87.3s
+[jd7200_t3600] 200_2 seed=3: M=42 D=51778.15 gap=0.0 TIE t_best=87.3s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_3 seed=3: M=40 D=53293.62 gap=-0.3872 NEW_BEST t_best=1036.4s wall=7201s
+[jd7200_t1200] 200_3 seed=3: M=40 D=53293.62 gap=-0.3872 NEW_BEST t_best=1036.4s
+[jd7200_t3600] 200_3 seed=3: M=40 D=53293.62 gap=-0.3872 NEW_BEST t_best=1036.4s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_4 seed=3: M=41 D=51694.83 gap=-0.0664 NEW_BEST t_best=2469.0s wall=7201s
+[jd7200_t1200] 200_4 seed=3: M=41 D=51694.83 gap=-0.0664 NEW_BEST t_best=35.0s
+[jd7200_t3600] 200_4 seed=3: M=41 D=51694.83 gap=-0.0664 NEW_BEST t_best=2469.0s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_1 seed=3: M=75 D=93266.59 gap=-0.0941 NEW_BEST t_best=6549.0s wall=7202s
+[jd7200_t1200] 400_1 seed=3: M=76 D=93866.50 gap=0.6825 worse t_best=789.6s
+[jd7200_t3600] 400_1 seed=3: M=75 D=93562.98 gap=0.1617 worse t_best=2103.9s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_2 seed=3: M=78 D=97965.13 gap=-0.518 NEW_BEST t_best=3945.3s wall=7201s
+[jd7200_t1200] 400_2 seed=3: M=79 D=98223.65 gap=-0.0602 NEW_BEST t_best=532.2s
+[jd7200_t3600] 400_2 seed=3: M=79 D=97936.65 gap=-0.2955 NEW_BEST t_best=2670.2s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_3 seed=3: M=75 D=92980.43 gap=-0.0519 NEW_BEST t_best=1204.1s wall=7201s
+[jd7200_t1200] 400_3 seed=3: M=75 D=92984.35 gap=-0.0485 NEW_BEST t_best=1189.9s
+[jd7200_t3600] 400_3 seed=3: M=75 D=92980.43 gap=-0.0519 NEW_BEST t_best=1204.1s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_4 seed=3: M=78 D=95260.07 gap=-0.6625 NEW_BEST t_best=2494.1s wall=7201s
+[jd7200_t1200] 400_4 seed=3: M=78 D=95445.04 gap=-0.5076 NEW_BEST t_best=1048.3s
+[jd7200_t3600] 400_4 seed=3: M=78 D=95260.07 gap=-0.6625 NEW_BEST t_best=2494.1s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_1 seed=4: M=40 D=52077.66 gap=-0.0089 NEW_BEST t_best=867.0s wall=7201s
+[jd7200_t1200] 200_1 seed=4: M=40 D=52077.66 gap=-0.0089 NEW_BEST t_best=867.0s
+[jd7200_t3600] 200_1 seed=4: M=40 D=52077.66 gap=-0.0089 NEW_BEST t_best=867.0s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_2 seed=4: M=42 D=51803.68 gap=0.0397 worse t_best=190.3s wall=7202s
+[jd7200_t1200] 200_2 seed=4: M=42 D=51803.68 gap=0.0397 worse t_best=190.3s
+[jd7200_t3600] 200_2 seed=4: M=42 D=51803.68 gap=0.0397 worse t_best=190.3s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_3 seed=4: M=40 D=53288.65 gap=-0.3948 NEW_BEST t_best=408.8s wall=7201s
+[jd7200_t1200] 200_3 seed=4: M=40 D=53288.65 gap=-0.3948 NEW_BEST t_best=408.8s
+[jd7200_t3600] 200_3 seed=4: M=40 D=53288.65 gap=-0.3948 NEW_BEST t_best=408.8s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_4 seed=4: M=41 D=51694.83 gap=-0.0664 NEW_BEST t_best=1169.5s wall=7201s
+[jd7200_t1200] 200_4 seed=4: M=41 D=51694.83 gap=-0.0664 NEW_BEST t_best=1169.5s
+[jd7200_t3600] 200_4 seed=4: M=41 D=51694.83 gap=-0.0664 NEW_BEST t_best=1169.5s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_1 seed=4: M=75 D=93429.92 gap=0.0469 worse t_best=6992.8s wall=7201s
+[jd7200_t1200] 400_1 seed=4: M=75 D=93697.80 gap=0.2781 worse t_best=1035.1s
+[jd7200_t3600] 400_1 seed=4: M=75 D=93578.13 gap=0.1748 worse t_best=1959.2s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_2 seed=4: M=78 D=97725.04 gap=-0.7148 NEW_BEST t_best=6079.5s wall=7202s
+[jd7200_t1200] 400_2 seed=4: M=79 D=97934.87 gap=-0.2969 NEW_BEST t_best=1166.6s
+[jd7200_t3600] 400_2 seed=4: M=79 D=97679.22 gap=-0.5065 NEW_BEST t_best=2859.3s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_3 seed=4: M=75 D=92665.79 gap=-0.3243 NEW_BEST t_best=7175.6s wall=7201s
+[jd7200_t1200] 400_3 seed=4: M=75 D=92794.91 gap=-0.2125 NEW_BEST t_best=1167.2s
+[jd7200_t3600] 400_3 seed=4: M=75 D=92789.91 gap=-0.2168 NEW_BEST t_best=2286.5s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_4 seed=4: M=78 D=95050.19 gap=-0.8382 NEW_BEST t_best=6638.5s wall=7201s
+[jd7200_t1200] 400_4 seed=4: M=78 D=95436.38 gap=-0.5149 NEW_BEST t_best=639.1s
+[jd7200_t3600] 400_4 seed=4: M=78 D=95436.38 gap=-0.5149 NEW_BEST t_best=639.1s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_1 seed=5: M=40 D=52077.66 gap=-0.0089 NEW_BEST t_best=5435.3s wall=7201s
+[jd7200_t1200] 200_1 seed=5: M=40 D=52077.66 gap=-0.0089 NEW_BEST t_best=123.4s
+[jd7200_t3600] 200_1 seed=5: M=40 D=52077.66 gap=-0.0089 NEW_BEST t_best=123.4s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_2 seed=5: M=42 D=51778.15 gap=0.0 TIE t_best=972.1s wall=7201s
+[jd7200_t1200] 200_2 seed=5: M=42 D=51778.15 gap=0.0 TIE t_best=972.1s
+[jd7200_t3600] 200_2 seed=5: M=42 D=51778.15 gap=0.0 TIE t_best=972.1s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_3 seed=5: M=40 D=53288.65 gap=-0.3948 NEW_BEST t_best=1945.5s wall=7202s
+[jd7200_t1200] 200_3 seed=5: M=40 D=53293.62 gap=-0.3872 NEW_BEST t_best=39.2s
+[jd7200_t3600] 200_3 seed=5: M=40 D=53288.65 gap=-0.3948 NEW_BEST t_best=1945.5s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 200_4 seed=5: M=41 D=51694.83 gap=-0.0664 NEW_BEST t_best=1444.8s wall=7201s
+[jd7200_t1200] 200_4 seed=5: M=41 D=51694.83 gap=-0.0664 NEW_BEST t_best=933.8s
+[jd7200_t3600] 200_4 seed=5: M=41 D=51694.83 gap=-0.0664 NEW_BEST t_best=1444.8s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_1 seed=5: M=75 D=93067.87 gap=-0.2656 NEW_BEST t_best=6902.3s wall=7201s
+[jd7200_t1200] 400_1 seed=5: M=76 D=93421.16 gap=0.2982 worse t_best=901.6s
+[jd7200_t3600] 400_1 seed=5: M=76 D=93276.30 gap=0.1732 worse t_best=1634.7s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_2 seed=5: M=78 D=97814.92 gap=-0.6412 NEW_BEST t_best=5700.4s wall=7201s
+[jd7200_t1200] 400_2 seed=5: M=79 D=97978.19 gap=-0.2614 NEW_BEST t_best=1146.2s
+[jd7200_t3600] 400_2 seed=5: M=79 D=97939.11 gap=-0.2934 NEW_BEST t_best=2525.3s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_3 seed=5: M=75 D=92848.39 gap=-0.1662 NEW_BEST t_best=4980.8s wall=7202s
+[jd7200_t1200] 400_3 seed=5: M=75 D=92877.54 gap=-0.141 NEW_BEST t_best=759.2s
+[jd7200_t3600] 400_3 seed=5: M=75 D=92855.56 gap=-0.16 NEW_BEST t_best=1558.3s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200] 400_4 seed=5: M=78 D=95033.53 gap=-0.8521 NEW_BEST t_best=1818.9s wall=7201s
+[jd7200_t1200] 400_4 seed=5: M=78 D=95038.20 gap=-0.8482 NEW_BEST t_best=854.4s
+[jd7200_t3600] 400_4 seed=5: M=78 D=95033.53 gap=-0.8521 NEW_BEST t_best=1818.9s

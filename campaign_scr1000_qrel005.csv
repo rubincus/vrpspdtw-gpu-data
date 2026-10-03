@@ -1,0 +1,3 @@
+tag,algo,instance,kind,seed,time_budget,M,D,total,bks_M,bks_D,bks_total,gap_pct,status,t_best,epochs,iters,params,file
+scr1000_qrel005,copts,1000_2,JD,1,1800.0,194,237826.456,296026.456,193,241933.16,299833.16,-1.2696,NEW_BEST,1698.23,230,68800,"{""B"": 512, ""allow_open"": false, ""stall_epochs"": 15, ""restart_mode"": ""full"", ""ends_len"": 1, ""K"": 30, ""q_related_frac"": 0.05}",1000_2_copts_s1_20260922-042311_scr1000_qrel005
+scr1000_qrel005,copts,1000_2,JD,2,1800.0,195,239161.048,297661.048,193,241933.16,299833.16,-0.7244,NEW_BEST,896.49,229,68650,"{""B"": 512, ""allow_open"": false, ""stall_epochs"": 15, ""restart_mode"": ""full"", ""ends_len"": 1, ""K"": 30, ""q_related_frac"": 0.05}",1000_2_copts_s2_20260922-045312_scr1000_qrel005

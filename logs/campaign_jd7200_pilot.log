@@ -1,0 +1,8 @@
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200_pilot] 1000_2 seed=6: M=193 D=236913.94 gap=-1.674 NEW_BEST t_best=2292.7s wall=7202s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jd7200_pilot] 800_2 seed=6: M=147 D=161392.49 gap=-0.3499 NEW_BEST t_best=6547.3s wall=-3598s
+skip 1000_2 seed 7 (already done)
+skip 800_2 seed 7 (already done)

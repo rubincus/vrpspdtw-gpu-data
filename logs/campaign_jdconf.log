@@ -1,0 +1,14 @@
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jdc1024] 1000_2 seed=1: M=194 D=237089.64 gap=-1.5154 NEW_BEST t_best=7111.9s wall=7202s
+[jdc1024_t3600] 1000_2 seed=1: M=194 D=237673.24 gap=-1.3207 NEW_BEST t_best=2016.9s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jdc1024] 1000_4 seed=1: M=193 D=236425.07 gap=-1.4169 NEW_BEST t_best=2204.6s wall=7205s
+[jdc1024_t3600] 1000_4 seed=1: M=193 D=236425.07 gap=-1.4169 NEW_BEST t_best=2204.6s
+skip jdc1024 1000_2 seed 2 (already done)
+skip jdc1024 1000_4 seed 2 (already done)
+skip jdc1024 800_2 seed 1 (already done)
+skip jdc1024 800_2 seed 2 (already done)
+skip jdc512 800_2 seed 1 (already done)
+skip jdc512 800_2 seed 2 (already done)

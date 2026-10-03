@@ -1,0 +1,2 @@
+tag,algo,instance,kind,seed,time_budget,M,D,total,bks_M,bks_D,bks_total,gap_pct,status,t_best,epochs,iters,params,file
+jdrecA1024,copts,1000_2,JD,1,7200.0,194,236942.062,295142.062,193,241933.16,299833.16,-1.5646,NEW_BEST,6421.33,466,139550,"{""B"": 1024, ""allow_open"": false, ""stall_epochs"": 15, ""restart_mode"": ""full"", ""ends_len"": 1, ""K"": 30, ""arc_rule"": ""safe"", ""nbr_compat"": true, ""checkpoints"": [1200, 3600], ""rec_mode"": ""adaptive""}",1000_2_copts_s1_20260922-154059_jdrecA1024

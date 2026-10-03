@@ -1,0 +1,8 @@
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[ghprobe] c1_2_1 seed=1: M=20 D=2704.57 gap=  t_best=1.0s wall=300s
+[ghprobe] c2_2_1 seed=1: M=7 D=1929.39 gap=  t_best=3.7s wall=300s
+[ghprobe] r1_2_1 seed=1: M=23 D=4695.39 gap=  t_best=12.1s wall=300s
+[ghprobe] r2_2_1 seed=1: M=13 D=3488.66 gap=  t_best=14.0s wall=300s
+[ghprobe] rc1_2_1 seed=1: M=20 D=3524.39 gap=  t_best=105.3s wall=300s
+[ghprobe] rc2_2_1 seed=1: M=10 D=2809.69 gap=  t_best=20.2s wall=300s

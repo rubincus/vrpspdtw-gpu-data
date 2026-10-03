@@ -1,0 +1,1840 @@
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] rcdp0501 seed=1: M=3 D=220.15 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0504 seed=1: M=2 D=214.57 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0507 seed=1: M=2 D=211.83 gap=  t_best=0.0s wall=10s
+[wc10] rcdp1001 seed=1: M=3 D=348.98 gap=-0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp1004 seed=1: M=2 D=216.69 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp1007 seed=1: M=2 D=310.81 gap=0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp2501 seed=1: M=5 D=551.05 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp2504 seed=1: M=4 D=473.46 gap=-0.0 TIE t_best=0.2s wall=10s
+[wc10] rcdp2507 seed=1: M=5 D=540.87 gap=0.0 TIE t_best=0.2s wall=10s
+[wc10] rcdp5001 seed=1: M=9 D=994.18 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp5004 seed=1: M=6 D=733.21 gap=0.0 TIE t_best=0.5s wall=10s
+[wc10] rcdp5007 seed=1: M=7 D=809.71 gap=-0.0 TIE t_best=0.4s wall=10s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] cdp101 seed=1: M=11 D=976.04 gap=0.0 TIE t_best=41.6s wall=60s
+[wc10_t10] cdp101 seed=1: M=11 D=976.04 gap=0.0 TIE t_best=0.3s
+[wc10_t20] cdp101 seed=1: M=11 D=976.04 gap=0.0 TIE t_best=0.3s
+[wc10] cdp102 seed=1: M=10 D=941.49 gap=0.0 TIE t_best=15.3s wall=60s
+[wc10_t10] cdp102 seed=1: M=10 D=941.49 gap=0.0 TIE t_best=0.7s
+[wc10_t20] cdp102 seed=1: M=10 D=941.49 gap=0.0 TIE t_best=15.3s
+[wc10] cdp103 seed=1: M=10 D=892.98 gap=-0.0 TIE t_best=5.8s wall=60s
+[wc10_t10] cdp103 seed=1: M=10 D=892.98 gap=-0.0 TIE t_best=5.8s
+[wc10_t20] cdp103 seed=1: M=10 D=892.98 gap=-0.0 TIE t_best=5.8s
+[wc10] cdp104 seed=1: M=10 D=871.40 gap=0.0 TIE t_best=28.9s wall=60s
+[wc10_t10] cdp104 seed=1: M=10 D=871.40 gap=0.0 TIE t_best=3.2s
+[wc10_t20] cdp104 seed=1: M=10 D=871.40 gap=0.0 TIE t_best=3.2s
+[wc10] cdp105 seed=1: M=10 D=1053.12 gap=0.0 TIE t_best=1.1s wall=60s
+[wc10_t10] cdp105 seed=1: M=10 D=1053.12 gap=0.0 TIE t_best=1.1s
+[wc10_t20] cdp105 seed=1: M=10 D=1053.12 gap=0.0 TIE t_best=1.1s
+[wc10] cdp106 seed=1: M=10 D=963.45 gap=-0.0 TIE t_best=0.4s wall=60s
+[wc10_t10] cdp106 seed=1: M=10 D=963.45 gap=-0.0 TIE t_best=0.4s
+[wc10_t20] cdp106 seed=1: M=10 D=963.45 gap=-0.0 TIE t_best=0.4s
+[wc10] cdp107 seed=1: M=10 D=987.64 gap=-0.0 TIE t_best=26.3s wall=60s
+[wc10_t10] cdp107 seed=1: M=10 D=987.64 gap=-0.0 TIE t_best=8.3s
+[wc10_t20] cdp107 seed=1: M=10 D=987.64 gap=-0.0 TIE t_best=8.3s
+[wc10] cdp108 seed=1: M=10 D=932.49 gap=0.0 TIE t_best=0.5s wall=60s
+[wc10_t10] cdp108 seed=1: M=10 D=932.49 gap=0.0 TIE t_best=0.5s
+[wc10_t20] cdp108 seed=1: M=10 D=932.49 gap=0.0 TIE t_best=0.5s
+[wc10] cdp109 seed=1: M=10 D=909.27 gap=0.0 TIE t_best=14.5s wall=60s
+[wc10_t10] cdp109 seed=1: M=10 D=909.27 gap=0.0 TIE t_best=1.2s
+[wc10_t20] cdp109 seed=1: M=10 D=909.27 gap=0.0 TIE t_best=14.5s
+[wc10] cdp201 seed=1: M=3 D=591.56 gap=-0.0 TIE t_best=0.3s wall=60s
+[wc10_t10] cdp201 seed=1: M=3 D=591.56 gap=-0.0 TIE t_best=0.3s
+[wc10_t20] cdp201 seed=1: M=3 D=591.56 gap=-0.0 TIE t_best=0.3s
+[wc10] cdp202 seed=1: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s wall=60s
+[wc10_t10] cdp202 seed=1: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10_t20] cdp202 seed=1: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10] cdp203 seed=1: M=3 D=591.17 gap=-0.0 TIE t_best=1.8s wall=60s
+[wc10_t10] cdp203 seed=1: M=3 D=591.17 gap=-0.0 TIE t_best=1.8s
+[wc10_t20] cdp203 seed=1: M=3 D=591.17 gap=-0.0 TIE t_best=1.8s
+[wc10] cdp204 seed=1: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s wall=60s
+[wc10_t10] cdp204 seed=1: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10_t20] cdp204 seed=1: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10] cdp205 seed=1: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s wall=60s
+[wc10_t10] cdp205 seed=1: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s
+[wc10_t20] cdp205 seed=1: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s
+[wc10] cdp206 seed=1: M=3 D=588.49 gap=-0.0 TIE t_best=0.8s wall=60s
+[wc10_t10] cdp206 seed=1: M=3 D=588.49 gap=-0.0 TIE t_best=0.8s
+[wc10_t20] cdp206 seed=1: M=3 D=588.49 gap=-0.0 TIE t_best=0.8s
+[wc10] cdp207 seed=1: M=3 D=588.29 gap=0.0 TIE t_best=0.9s wall=60s
+[wc10_t10] cdp207 seed=1: M=3 D=588.29 gap=0.0 TIE t_best=0.9s
+[wc10_t20] cdp207 seed=1: M=3 D=588.29 gap=0.0 TIE t_best=0.9s
+[wc10] cdp208 seed=1: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s wall=60s
+[wc10_t10] cdp208 seed=1: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10_t20] cdp208 seed=1: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10] rdp101 seed=1: M=19 D=1650.80 gap=-0.0 TIE t_best=7.0s wall=60s
+[wc10_t10] rdp101 seed=1: M=19 D=1650.80 gap=-0.0 TIE t_best=7.0s
+[wc10_t20] rdp101 seed=1: M=19 D=1650.80 gap=-0.0 TIE t_best=7.0s
+[wc10] rdp102 seed=1: M=17 D=1486.12 gap=0.0 TIE t_best=16.0s wall=60s
+[wc10_t10] rdp102 seed=1: M=17 D=1486.12 gap=0.0 TIE t_best=1.8s
+[wc10_t20] rdp102 seed=1: M=17 D=1486.12 gap=0.0 TIE t_best=16.0s
+[wc10] rdp103 seed=1: M=13 D=1294.64 gap=0.0 TIE t_best=20.2s wall=60s
+[wc10_t10] rdp103 seed=1: M=14 D=1213.62 gap=7.0306 worse t_best=1.8s
+[wc10_t20] rdp103 seed=1: M=13 D=1296.84 gap=0.0081 worse t_best=19.3s
+[wc10] rdp104 seed=1: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=8.9s wall=60s
+[wc10_t10] rdp104 seed=1: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=8.9s
+[wc10_t20] rdp104 seed=1: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=8.9s
+[wc10] rdp105 seed=1: M=14 D=1377.11 gap=-0.0 TIE t_best=0.4s wall=60s
+[wc10_t10] rdp105 seed=1: M=14 D=1377.11 gap=-0.0 TIE t_best=0.4s
+[wc10_t20] rdp105 seed=1: M=14 D=1377.11 gap=-0.0 TIE t_best=0.4s
+[wc10] rdp106 seed=1: M=12 D=1252.03 gap=-0.0 TIE t_best=1.6s wall=60s
+[wc10_t10] rdp106 seed=1: M=12 D=1252.03 gap=-0.0 TIE t_best=1.6s
+[wc10_t20] rdp106 seed=1: M=12 D=1252.03 gap=-0.0 TIE t_best=1.6s
+[wc10] rdp107 seed=1: M=10 D=1112.55 gap=0.0 TIE t_best=16.1s wall=60s
+[wc10_t10] rdp107 seed=1: M=10 D=1115.61 gap=0.0145 worse t_best=7.9s
+[wc10_t20] rdp107 seed=1: M=10 D=1112.55 gap=0.0 TIE t_best=16.1s
+[wc10] rdp108 seed=1: M=9 D=965.22 gap=-0.0 TIE t_best=8.2s wall=60s
+[wc10_t10] rdp108 seed=1: M=9 D=965.22 gap=-0.0 TIE t_best=8.2s
+[wc10_t20] rdp108 seed=1: M=9 D=965.22 gap=-0.0 TIE t_best=8.2s
+[wc10] rdp109 seed=1: M=11 D=1194.73 gap=-0.0 TIE t_best=4.0s wall=60s
+[wc10_t10] rdp109 seed=1: M=11 D=1194.73 gap=-0.0 TIE t_best=4.0s
+[wc10_t20] rdp109 seed=1: M=11 D=1194.73 gap=-0.0 TIE t_best=4.0s
+[wc10] rdp110 seed=1: M=10 D=1121.46 gap=0.0 TIE t_best=15.4s wall=60s
+[wc10_t10] rdp110 seed=1: M=10 D=1125.40 gap=0.0187 worse t_best=8.2s
+[wc10_t20] rdp110 seed=1: M=10 D=1121.46 gap=0.0 TIE t_best=15.4s
+[wc10] rdp111 seed=1: M=10 D=1098.84 gap=0.0 TIE t_best=7.6s wall=60s
+[wc10_t10] rdp111 seed=1: M=10 D=1098.84 gap=0.0 TIE t_best=7.6s
+[wc10_t20] rdp111 seed=1: M=10 D=1098.84 gap=0.0 TIE t_best=7.6s
+[wc10] rdp112 seed=1: M=9 D=998.22 gap=0.005 worse t_best=32.9s wall=60s
+[wc10_t10] rdp112 seed=1: M=9 D=1004.24 gap=0.0367 worse t_best=7.2s
+[wc10_t20] rdp112 seed=1: M=9 D=999.44 gap=0.0114 worse t_best=18.6s
+[wc10] rdp201 seed=1: M=4 D=1252.37 gap=-0.0 TIE t_best=3.1s wall=60s
+[wc10_t10] rdp201 seed=1: M=4 D=1252.37 gap=-0.0 TIE t_best=3.1s
+[wc10_t20] rdp201 seed=1: M=4 D=1252.37 gap=-0.0 TIE t_best=3.1s
+[wc10] rdp202 seed=1: M=3 D=1191.70 gap=-0.0 TIE t_best=3.1s wall=60s
+[wc10_t10] rdp202 seed=1: M=3 D=1191.70 gap=-0.0 TIE t_best=3.1s
+[wc10_t20] rdp202 seed=1: M=3 D=1191.70 gap=-0.0 TIE t_best=3.1s
+[wc10] rdp203 seed=1: M=3 D=939.88 gap=0.0055 worse t_best=58.0s wall=60s
+[wc10_t10] rdp203 seed=1: M=3 D=941.62 gap=0.0306 worse t_best=4.4s
+[wc10_t20] rdp203 seed=1: M=3 D=941.08 gap=0.0228 worse t_best=15.2s
+[wc10] rdp204 seed=1: M=2 D=825.52 gap=0.0 TIE t_best=8.2s wall=60s
+[wc10_t10] rdp204 seed=1: M=2 D=825.52 gap=0.0 TIE t_best=8.2s
+[wc10_t20] rdp204 seed=1: M=2 D=825.52 gap=0.0 TIE t_best=8.2s
+[wc10] rdp205 seed=1: M=3 D=994.43 gap=-0.0 TIE t_best=8.8s wall=60s
+[wc10_t10] rdp205 seed=1: M=3 D=994.43 gap=-0.0 TIE t_best=8.8s
+[wc10_t20] rdp205 seed=1: M=3 D=994.43 gap=-0.0 TIE t_best=8.8s
+[wc10] rdp206 seed=1: M=3 D=906.14 gap=0.0 TIE t_best=12.4s wall=60s
+[wc10_t10] rdp206 seed=1: M=3 D=909.82 gap=0.0532 worse t_best=4.1s
+[wc10_t20] rdp206 seed=1: M=3 D=906.14 gap=0.0 TIE t_best=12.4s
+[wc10] rdp207 seed=1: M=2 D=890.61 gap=0.0 TIE t_best=14.9s wall=60s
+[wc10_t10] rdp207 seed=1: M=2 D=893.38 gap=0.0568 worse t_best=9.8s
+[wc10_t20] rdp207 seed=1: M=2 D=890.61 gap=0.0 TIE t_best=14.9s
+[wc10] rdp208 seed=1: M=2 D=726.82 gap=-0.0 TIE t_best=12.6s wall=60s
+[wc10_t10] rdp208 seed=1: M=2 D=727.20 gap=0.0079 worse t_best=9.4s
+[wc10_t20] rdp208 seed=1: M=2 D=726.82 gap=-0.0 TIE t_best=12.6s
+[wc10] rdp209 seed=1: M=3 D=909.16 gap=0.0 TIE t_best=23.6s wall=60s
+[wc10_t10] rdp209 seed=1: M=3 D=910.20 gap=0.0149 worse t_best=9.1s
+[wc10_t20] rdp209 seed=1: M=3 D=909.66 gap=0.0071 worse t_best=18.1s
+[wc10] rdp210 seed=1: M=3 D=939.37 gap=0.0 TIE t_best=4.0s wall=60s
+[wc10_t10] rdp210 seed=1: M=3 D=939.37 gap=0.0 TIE t_best=4.0s
+[wc10_t20] rdp210 seed=1: M=3 D=939.37 gap=0.0 TIE t_best=4.0s
+[wc10] rdp211 seed=1: M=2 D=890.93 gap=0.1069 worse t_best=42.6s wall=60s
+[wc10_t10] rdp211 seed=1: M=2 D=912.68 gap=0.5519 worse t_best=5.3s
+[wc10_t20] rdp211 seed=1: M=2 D=903.13 gap=0.3566 worse t_best=18.6s
+[wc10] rcdp101 seed=1: M=14 D=1708.21 gap=-0.0 TIE t_best=11.8s wall=60s
+[wc10_t10] rcdp101 seed=1: M=14 D=1708.69 gap=0.0016 worse t_best=2.8s
+[wc10_t20] rcdp101 seed=1: M=14 D=1708.21 gap=-0.0 TIE t_best=11.8s
+[wc10] rcdp102 seed=1: M=12 D=1570.28 gap=-0.0 TIE t_best=2.9s wall=60s
+[wc10_t10] rcdp102 seed=1: M=12 D=1570.28 gap=-0.0 TIE t_best=2.9s
+[wc10_t20] rcdp102 seed=1: M=12 D=1570.28 gap=-0.0 TIE t_best=2.9s
+[wc10] rcdp103 seed=1: M=11 D=1282.53 gap=-0.0 TIE t_best=3.0s wall=60s
+[wc10_t10] rcdp103 seed=1: M=11 D=1282.53 gap=-0.0 TIE t_best=3.0s
+[wc10_t20] rcdp103 seed=1: M=11 D=1282.53 gap=-0.0 TIE t_best=3.0s
+[wc10] rcdp104 seed=1: M=10 D=1171.37 gap=-0.0 TIE t_best=6.0s wall=60s
+[wc10_t10] rcdp104 seed=1: M=10 D=1171.37 gap=-0.0 TIE t_best=6.0s
+[wc10_t20] rcdp104 seed=1: M=10 D=1171.37 gap=-0.0 TIE t_best=6.0s
+[wc10] rcdp105 seed=1: M=13 D=1632.29 gap=0.0 TIE t_best=25.3s wall=60s
+[wc10_t10] rcdp105 seed=1: M=13 D=1643.84 gap=0.0418 worse t_best=5.1s
+[wc10_t20] rcdp105 seed=1: M=13 D=1643.84 gap=0.0418 worse t_best=5.1s
+[wc10] rcdp106 seed=1: M=12 D=1392.47 gap=0.0 TIE t_best=45.3s wall=60s
+[wc10_t10] rcdp106 seed=1: M=12 D=1392.47 gap=0.0 TIE t_best=2.6s
+[wc10_t20] rcdp106 seed=1: M=12 D=1392.47 gap=0.0 TIE t_best=2.6s
+[wc10] rcdp107 seed=1: M=11 D=1252.79 gap=-0.0 TIE t_best=8.4s wall=60s
+[wc10_t10] rcdp107 seed=1: M=11 D=1252.79 gap=-0.0 TIE t_best=8.4s
+[wc10_t20] rcdp107 seed=1: M=11 D=1252.79 gap=-0.0 TIE t_best=8.4s
+[wc10] rcdp108 seed=1: M=10 D=1177.98 gap=0.0 TIE t_best=15.0s wall=60s
+[wc10_t10] rcdp108 seed=1: M=10 D=1179.94 gap=0.0092 worse t_best=9.9s
+[wc10_t20] rcdp108 seed=1: M=10 D=1177.98 gap=0.0 TIE t_best=15.0s
+[wc10] rcdp201 seed=1: M=4 D=1406.94 gap=-0.0 TIE t_best=1.7s wall=60s
+[wc10_t10] rcdp201 seed=1: M=4 D=1406.94 gap=-0.0 TIE t_best=1.7s
+[wc10_t20] rcdp201 seed=1: M=4 D=1406.94 gap=-0.0 TIE t_best=1.7s
+[wc10] rcdp202 seed=1: M=3 D=1365.65 gap=0.0 TIE t_best=6.8s wall=60s
+[wc10_t10] rcdp202 seed=1: M=3 D=1365.65 gap=0.0 TIE t_best=6.8s
+[wc10_t20] rcdp202 seed=1: M=3 D=1365.65 gap=0.0 TIE t_best=6.8s
+[wc10] rcdp203 seed=1: M=3 D=1049.62 gap=-0.0 TIE t_best=8.1s wall=60s
+[wc10_t10] rcdp203 seed=1: M=3 D=1049.62 gap=-0.0 TIE t_best=8.1s
+[wc10_t20] rcdp203 seed=1: M=3 D=1049.62 gap=-0.0 TIE t_best=8.1s
+[wc10] rcdp204 seed=1: M=3 D=798.46 gap=-0.0 TIE t_best=16.5s wall=60s
+[wc10_t10] rcdp204 seed=1: M=3 D=799.12 gap=0.0096 worse t_best=7.1s
+[wc10_t20] rcdp204 seed=1: M=3 D=798.46 gap=-0.0 TIE t_best=16.5s
+[wc10] rcdp205 seed=1: M=4 D=1297.65 gap=0.0 TIE t_best=49.1s wall=60s
+[wc10_t10] rcdp205 seed=1: M=4 D=1297.65 gap=0.0 TIE t_best=3.0s
+[wc10_t20] rcdp205 seed=1: M=4 D=1297.65 gap=0.0 TIE t_best=3.0s
+[wc10] rcdp206 seed=1: M=3 D=1146.32 gap=0.0 TIE t_best=8.3s wall=60s
+[wc10_t10] rcdp206 seed=1: M=3 D=1146.32 gap=0.0 TIE t_best=8.3s
+[wc10_t20] rcdp206 seed=1: M=3 D=1146.32 gap=0.0 TIE t_best=8.3s
+[wc10] rcdp207 seed=1: M=3 D=1061.14 gap=0.0 TIE t_best=7.6s wall=60s
+[wc10_t10] rcdp207 seed=1: M=3 D=1061.14 gap=0.0 TIE t_best=7.6s
+[wc10_t20] rcdp207 seed=1: M=3 D=1061.14 gap=0.0 TIE t_best=7.6s
+[wc10] rcdp208 seed=1: M=3 D=828.14 gap=0.0 TIE t_best=46.2s wall=60s
+[wc10_t10] rcdp208 seed=1: M=3 D=829.69 gap=0.0227 worse t_best=5.1s
+[wc10_t20] rcdp208 seed=1: M=3 D=828.71 gap=0.0083 worse t_best=15.4s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] rcdp0501 seed=2: M=3 D=220.15 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0504 seed=2: M=2 D=214.57 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0507 seed=2: M=2 D=211.83 gap=  t_best=0.0s wall=10s
+[wc10] rcdp1001 seed=2: M=3 D=348.98 gap=-0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp1004 seed=2: M=2 D=216.69 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp1007 seed=2: M=2 D=310.81 gap=0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp2501 seed=2: M=5 D=551.05 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp2504 seed=2: M=4 D=473.46 gap=-0.0 TIE t_best=0.2s wall=10s
+[wc10] rcdp2507 seed=2: M=5 D=540.87 gap=0.0 TIE t_best=0.2s wall=10s
+[wc10] rcdp5001 seed=2: M=9 D=994.18 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp5004 seed=2: M=6 D=733.21 gap=0.0 TIE t_best=0.5s wall=10s
+[wc10] rcdp5007 seed=2: M=7 D=809.71 gap=-0.0 TIE t_best=0.4s wall=10s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] cdp101 seed=2: M=11 D=976.04 gap=0.0 TIE t_best=0.6s wall=60s
+[wc10_t10] cdp101 seed=2: M=11 D=976.04 gap=0.0 TIE t_best=0.6s
+[wc10_t20] cdp101 seed=2: M=11 D=976.04 gap=0.0 TIE t_best=0.6s
+[wc10] cdp102 seed=2: M=10 D=941.49 gap=0.0 TIE t_best=15.3s wall=60s
+[wc10_t10] cdp102 seed=2: M=10 D=941.49 gap=0.0 TIE t_best=0.7s
+[wc10_t20] cdp102 seed=2: M=10 D=941.49 gap=0.0 TIE t_best=15.3s
+[wc10] cdp103 seed=2: M=10 D=892.98 gap=-0.0 TIE t_best=1.9s wall=60s
+[wc10_t10] cdp103 seed=2: M=10 D=892.98 gap=-0.0 TIE t_best=1.9s
+[wc10_t20] cdp103 seed=2: M=10 D=892.98 gap=-0.0 TIE t_best=1.9s
+[wc10] cdp104 seed=2: M=10 D=871.40 gap=0.0 TIE t_best=3.2s wall=60s
+[wc10_t10] cdp104 seed=2: M=10 D=871.40 gap=0.0 TIE t_best=3.2s
+[wc10_t20] cdp104 seed=2: M=10 D=871.40 gap=0.0 TIE t_best=3.2s
+[wc10] cdp105 seed=2: M=10 D=1053.12 gap=0.0 TIE t_best=17.0s wall=60s
+[wc10_t10] cdp105 seed=2: M=10 D=1053.12 gap=0.0 TIE t_best=1.4s
+[wc10_t20] cdp105 seed=2: M=10 D=1053.12 gap=0.0 TIE t_best=17.0s
+[wc10] cdp106 seed=2: M=10 D=963.45 gap=-0.0 TIE t_best=0.4s wall=60s
+[wc10_t10] cdp106 seed=2: M=10 D=963.45 gap=-0.0 TIE t_best=0.4s
+[wc10_t20] cdp106 seed=2: M=10 D=963.45 gap=-0.0 TIE t_best=0.4s
+[wc10] cdp107 seed=2: M=10 D=987.64 gap=-0.0 TIE t_best=38.5s wall=60s
+[wc10_t10] cdp107 seed=2: M=10 D=987.64 gap=-0.0 TIE t_best=1.9s
+[wc10_t20] cdp107 seed=2: M=10 D=987.64 gap=-0.0 TIE t_best=10.2s
+[wc10] cdp108 seed=2: M=10 D=932.49 gap=0.0 TIE t_best=20.3s wall=60s
+[wc10_t10] cdp108 seed=2: M=10 D=932.49 gap=0.0 TIE t_best=0.5s
+[wc10_t20] cdp108 seed=2: M=10 D=932.49 gap=0.0 TIE t_best=0.5s
+[wc10] cdp109 seed=2: M=10 D=909.27 gap=0.0 TIE t_best=13.9s wall=60s
+[wc10_t10] cdp109 seed=2: M=10 D=909.27 gap=0.0 TIE t_best=0.6s
+[wc10_t20] cdp109 seed=2: M=10 D=909.27 gap=0.0 TIE t_best=13.9s
+[wc10] cdp201 seed=2: M=3 D=591.56 gap=-0.0 TIE t_best=5.9s wall=60s
+[wc10_t10] cdp201 seed=2: M=3 D=591.56 gap=-0.0 TIE t_best=5.9s
+[wc10_t20] cdp201 seed=2: M=3 D=591.56 gap=-0.0 TIE t_best=5.9s
+[wc10] cdp202 seed=2: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s wall=60s
+[wc10_t10] cdp202 seed=2: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10_t20] cdp202 seed=2: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10] cdp203 seed=2: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s wall=60s
+[wc10_t10] cdp203 seed=2: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s
+[wc10_t20] cdp203 seed=2: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s
+[wc10] cdp204 seed=2: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s wall=60s
+[wc10_t10] cdp204 seed=2: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10_t20] cdp204 seed=2: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10] cdp205 seed=2: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s wall=60s
+[wc10_t10] cdp205 seed=2: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s
+[wc10_t20] cdp205 seed=2: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s
+[wc10] cdp206 seed=2: M=3 D=588.49 gap=-0.0 TIE t_best=0.8s wall=60s
+[wc10_t10] cdp206 seed=2: M=3 D=588.49 gap=-0.0 TIE t_best=0.8s
+[wc10_t20] cdp206 seed=2: M=3 D=588.49 gap=-0.0 TIE t_best=0.8s
+[wc10] cdp207 seed=2: M=3 D=588.29 gap=0.0 TIE t_best=0.8s wall=60s
+[wc10_t10] cdp207 seed=2: M=3 D=588.29 gap=0.0 TIE t_best=0.8s
+[wc10_t20] cdp207 seed=2: M=3 D=588.29 gap=0.0 TIE t_best=0.8s
+[wc10] cdp208 seed=2: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s wall=60s
+[wc10_t10] cdp208 seed=2: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10_t20] cdp208 seed=2: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10] rdp101 seed=2: M=19 D=1650.80 gap=-0.0 TIE t_best=26.3s wall=60s
+[wc10_t10] rdp101 seed=2: M=19 D=1650.80 gap=-0.0 TIE t_best=0.6s
+[wc10_t20] rdp101 seed=2: M=19 D=1650.80 gap=-0.0 TIE t_best=0.6s
+[wc10] rdp102 seed=2: M=17 D=1486.12 gap=0.0 TIE t_best=30.2s wall=60s
+[wc10_t10] rdp102 seed=2: M=17 D=1486.12 gap=0.0 TIE t_best=1.8s
+[wc10_t20] rdp102 seed=2: M=17 D=1486.12 gap=0.0 TIE t_best=1.8s
+[wc10] rdp103 seed=2: M=13 D=1294.64 gap=0.0 TIE t_best=4.5s wall=60s
+[wc10_t10] rdp103 seed=2: M=13 D=1294.64 gap=0.0 TIE t_best=4.5s
+[wc10_t20] rdp103 seed=2: M=13 D=1294.64 gap=0.0 TIE t_best=4.5s
+[wc10] rdp104 seed=2: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=39.8s wall=60s
+[wc10_t10] rdp104 seed=2: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=7.7s
+[wc10_t20] rdp104 seed=2: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=7.7s
+[wc10] rdp105 seed=2: M=14 D=1377.11 gap=-0.0 TIE t_best=0.5s wall=60s
+[wc10_t10] rdp105 seed=2: M=14 D=1377.11 gap=-0.0 TIE t_best=0.5s
+[wc10_t20] rdp105 seed=2: M=14 D=1377.11 gap=-0.0 TIE t_best=0.5s
+[wc10] rdp106 seed=2: M=12 D=1252.03 gap=-0.0 TIE t_best=53.6s wall=60s
+[wc10_t10] rdp106 seed=2: M=12 D=1252.03 gap=-0.0 TIE t_best=0.8s
+[wc10_t20] rdp106 seed=2: M=12 D=1252.03 gap=-0.0 TIE t_best=0.8s
+[wc10] rdp107 seed=2: M=10 D=1112.55 gap=0.0 TIE t_best=13.8s wall=60s
+[wc10_t10] rdp107 seed=2: M=10 D=1115.61 gap=0.0145 worse t_best=9.1s
+[wc10_t20] rdp107 seed=2: M=10 D=1112.55 gap=0.0 TIE t_best=13.8s
+[wc10] rdp108 seed=2: M=9 D=965.22 gap=-0.0 TIE t_best=11.0s wall=60s
+[wc10_t10] rdp108 seed=2: M=9 D=965.54 gap=0.0017 worse t_best=9.6s
+[wc10_t20] rdp108 seed=2: M=9 D=965.22 gap=-0.0 TIE t_best=11.0s
+[wc10] rdp109 seed=2: M=11 D=1194.73 gap=-0.0 TIE t_best=38.6s wall=60s
+[wc10_t10] rdp109 seed=2: M=11 D=1194.73 gap=-0.0 TIE t_best=2.7s
+[wc10_t20] rdp109 seed=2: M=11 D=1194.73 gap=-0.0 TIE t_best=2.7s
+[wc10] rdp110 seed=2: M=10 D=1121.46 gap=0.0 TIE t_best=24.7s wall=60s
+[wc10_t10] rdp110 seed=2: M=10 D=1121.56 gap=0.0005 worse t_best=8.3s
+[wc10_t20] rdp110 seed=2: M=10 D=1121.56 gap=0.0005 worse t_best=8.3s
+[wc10] rdp111 seed=2: M=10 D=1098.84 gap=0.0 TIE t_best=10.9s wall=60s
+[wc10_t10] rdp111 seed=2: M=10 D=1101.44 gap=0.0123 worse t_best=7.6s
+[wc10_t20] rdp111 seed=2: M=10 D=1098.84 gap=0.0 TIE t_best=10.9s
+[wc10] rdp112 seed=2: M=9 D=999.44 gap=0.0114 worse t_best=18.5s wall=60s
+[wc10_t10] rdp112 seed=2: M=9 D=1007.53 gap=0.0541 worse t_best=10.0s
+[wc10_t20] rdp112 seed=2: M=9 D=999.44 gap=0.0114 worse t_best=18.5s
+[wc10] rdp201 seed=2: M=4 D=1252.37 gap=-0.0 TIE t_best=3.1s wall=60s
+[wc10_t10] rdp201 seed=2: M=4 D=1252.37 gap=-0.0 TIE t_best=3.1s
+[wc10_t20] rdp201 seed=2: M=4 D=1252.37 gap=-0.0 TIE t_best=3.1s
+[wc10] rdp202 seed=2: M=3 D=1191.70 gap=-0.0 TIE t_best=3.1s wall=60s
+[wc10_t10] rdp202 seed=2: M=3 D=1191.70 gap=-0.0 TIE t_best=3.1s
+[wc10_t20] rdp202 seed=2: M=3 D=1191.70 gap=-0.0 TIE t_best=3.1s
+[wc10] rdp203 seed=2: M=3 D=939.50 gap=-0.0 TIE t_best=8.8s wall=60s
+[wc10_t10] rdp203 seed=2: M=3 D=939.50 gap=-0.0 TIE t_best=8.8s
+[wc10_t20] rdp203 seed=2: M=3 D=939.50 gap=-0.0 TIE t_best=8.8s
+[wc10] rdp204 seed=2: M=2 D=825.52 gap=0.0 TIE t_best=25.7s wall=60s
+[wc10_t10] rdp204 seed=2: M=2 D=834.73 gap=0.1909 worse t_best=8.2s
+[wc10_t20] rdp204 seed=2: M=2 D=830.15 gap=0.096 worse t_best=19.8s
+[wc10] rdp205 seed=2: M=3 D=994.43 gap=-0.0 TIE t_best=9.9s wall=60s
+[wc10_t10] rdp205 seed=2: M=3 D=994.43 gap=-0.0 TIE t_best=9.9s
+[wc10_t20] rdp205 seed=2: M=3 D=994.43 gap=-0.0 TIE t_best=9.9s
+[wc10] rdp206 seed=2: M=3 D=906.14 gap=0.0 TIE t_best=16.3s wall=60s
+[wc10_t10] rdp206 seed=2: M=3 D=912.20 gap=0.0878 worse t_best=8.3s
+[wc10_t20] rdp206 seed=2: M=3 D=906.14 gap=0.0 TIE t_best=16.3s
+[wc10] rdp207 seed=2: M=2 D=890.61 gap=0.0 TIE t_best=15.0s wall=60s
+[wc10_t10] rdp207 seed=2: M=2 D=891.42 gap=0.0166 worse t_best=9.9s
+[wc10_t20] rdp207 seed=2: M=2 D=890.61 gap=0.0 TIE t_best=15.0s
+[wc10] rdp208 seed=2: M=2 D=726.82 gap=-0.0 TIE t_best=15.7s wall=60s
+[wc10_t10] rdp208 seed=2: M=2 D=727.65 gap=0.0174 worse t_best=6.2s
+[wc10_t20] rdp208 seed=2: M=2 D=726.82 gap=-0.0 TIE t_best=15.7s
+[wc10] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=18.3s wall=60s
+[wc10_t10] rdp209 seed=2: M=3 D=914.13 gap=0.0719 worse t_best=5.5s
+[wc10_t20] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=18.3s
+[wc10] rdp210 seed=2: M=3 D=939.37 gap=0.0 TIE t_best=12.1s wall=60s
+[wc10_t10] rdp210 seed=2: M=3 D=942.39 gap=0.0435 worse t_best=4.0s
+[wc10_t20] rdp210 seed=2: M=3 D=939.37 gap=0.0 TIE t_best=12.1s
+[wc10] rdp211 seed=2: M=2 D=899.97 gap=0.2918 worse t_best=60.2s wall=60s
+[wc10_t10] rdp211 seed=2: M=2 D=911.73 gap=0.5325 worse t_best=5.3s
+[wc10_t20] rdp211 seed=2: M=2 D=902.09 gap=0.3352 worse t_best=16.1s
+[wc10] rcdp101 seed=2: M=14 D=1708.21 gap=-0.0 TIE t_best=22.2s wall=60s
+[wc10_t10] rcdp101 seed=2: M=14 D=1708.21 gap=-0.0 TIE t_best=6.3s
+[wc10_t20] rcdp101 seed=2: M=14 D=1708.21 gap=-0.0 TIE t_best=6.3s
+[wc10] rcdp102 seed=2: M=12 D=1570.28 gap=-0.0 TIE t_best=19.0s wall=60s
+[wc10_t10] rcdp102 seed=2: M=12 D=1570.28 gap=-0.0 TIE t_best=2.9s
+[wc10_t20] rcdp102 seed=2: M=12 D=1570.28 gap=-0.0 TIE t_best=19.0s
+[wc10] rcdp103 seed=2: M=11 D=1282.53 gap=-0.0 TIE t_best=4.1s wall=60s
+[wc10_t10] rcdp103 seed=2: M=11 D=1282.53 gap=-0.0 TIE t_best=4.1s
+[wc10_t20] rcdp103 seed=2: M=11 D=1282.53 gap=-0.0 TIE t_best=4.1s
+[wc10] rcdp104 seed=2: M=10 D=1171.37 gap=-0.0 TIE t_best=3.6s wall=60s
+[wc10_t10] rcdp104 seed=2: M=10 D=1171.37 gap=-0.0 TIE t_best=3.6s
+[wc10_t20] rcdp104 seed=2: M=10 D=1171.37 gap=-0.0 TIE t_best=3.6s
+[wc10] rcdp105 seed=2: M=13 D=1632.29 gap=0.0 TIE t_best=30.9s wall=60s
+[wc10_t10] rcdp105 seed=2: M=13 D=1632.29 gap=0.0 TIE t_best=3.2s
+[wc10_t20] rcdp105 seed=2: M=13 D=1632.29 gap=0.0 TIE t_best=3.2s
+[wc10] rcdp106 seed=2: M=12 D=1392.47 gap=0.0 TIE t_best=47.2s wall=60s
+[wc10_t10] rcdp106 seed=2: M=12 D=1392.47 gap=0.0 TIE t_best=2.0s
+[wc10_t20] rcdp106 seed=2: M=12 D=1392.47 gap=0.0 TIE t_best=2.0s
+[wc10] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=9.5s wall=60s
+[wc10_t10] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=9.5s
+[wc10_t20] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=9.5s
+[wc10] rcdp108 seed=2: M=10 D=1177.98 gap=0.0 TIE t_best=12.5s wall=60s
+[wc10_t10] rcdp108 seed=2: M=10 D=1179.34 gap=0.0064 worse t_best=8.8s
+[wc10_t20] rcdp108 seed=2: M=10 D=1177.98 gap=0.0 TIE t_best=12.5s
+[wc10] rcdp201 seed=2: M=4 D=1406.94 gap=-0.0 TIE t_best=16.6s wall=60s
+[wc10_t10] rcdp201 seed=2: M=4 D=1406.94 gap=-0.0 TIE t_best=3.0s
+[wc10_t20] rcdp201 seed=2: M=4 D=1406.94 gap=-0.0 TIE t_best=16.6s
+[wc10] rcdp202 seed=2: M=3 D=1365.65 gap=0.0 TIE t_best=11.0s wall=60s
+[wc10_t10] rcdp202 seed=2: M=3 D=1365.92 gap=0.0038 worse t_best=9.6s
+[wc10_t20] rcdp202 seed=2: M=3 D=1365.65 gap=0.0 TIE t_best=11.0s
+[wc10] rcdp203 seed=2: M=3 D=1050.45 gap=0.0117 worse t_best=36.9s wall=60s
+[wc10_t10] rcdp203 seed=2: M=3 D=1050.64 gap=0.0143 worse t_best=6.1s
+[wc10_t20] rcdp203 seed=2: M=3 D=1050.64 gap=0.0143 worse t_best=6.1s
+[wc10] rcdp204 seed=2: M=3 D=798.46 gap=-0.0 TIE t_best=54.0s wall=60s
+[wc10_t10] rcdp204 seed=2: M=3 D=803.58 gap=0.0753 worse t_best=4.7s
+[wc10_t20] rcdp204 seed=2: M=3 D=799.16 gap=0.0102 worse t_best=14.1s
+[wc10] rcdp205 seed=2: M=4 D=1297.65 gap=0.0 TIE t_best=3.0s wall=60s
+[wc10_t10] rcdp205 seed=2: M=4 D=1297.65 gap=0.0 TIE t_best=3.0s
+[wc10_t20] rcdp205 seed=2: M=4 D=1297.65 gap=0.0 TIE t_best=3.0s
+[wc10] rcdp206 seed=2: M=3 D=1146.32 gap=0.0 TIE t_best=4.7s wall=60s
+[wc10_t10] rcdp206 seed=2: M=3 D=1146.32 gap=0.0 TIE t_best=4.7s
+[wc10_t20] rcdp206 seed=2: M=3 D=1146.32 gap=0.0 TIE t_best=4.7s
+[wc10] rcdp207 seed=2: M=3 D=1061.14 gap=0.0 TIE t_best=11.5s wall=60s
+[wc10_t10] rcdp207 seed=2: M=3 D=1063.39 gap=0.0318 worse t_best=9.6s
+[wc10_t20] rcdp207 seed=2: M=3 D=1061.14 gap=0.0 TIE t_best=11.5s
+[wc10] rcdp208 seed=2: M=3 D=828.71 gap=0.0083 worse t_best=20.6s wall=60s
+[wc10_t10] rcdp208 seed=2: M=3 D=833.83 gap=0.0833 worse t_best=5.1s
+[wc10_t20] rcdp208 seed=2: M=3 D=829.69 gap=0.0227 worse t_best=15.4s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] rcdp0501 seed=3: M=3 D=220.15 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0504 seed=3: M=2 D=214.57 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0507 seed=3: M=2 D=211.83 gap=  t_best=0.0s wall=10s
+[wc10] rcdp1001 seed=3: M=3 D=348.98 gap=-0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp1004 seed=3: M=2 D=216.69 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp1007 seed=3: M=2 D=310.81 gap=0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp2501 seed=3: M=5 D=551.05 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp2504 seed=3: M=4 D=473.46 gap=-0.0 TIE t_best=8.9s wall=10s
+[wc10] rcdp2507 seed=3: M=5 D=540.87 gap=0.0 TIE t_best=0.2s wall=10s
+[wc10] rcdp5001 seed=3: M=9 D=994.18 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp5004 seed=3: M=6 D=733.21 gap=0.0 TIE t_best=0.5s wall=10s
+[wc10] rcdp5007 seed=3: M=7 D=809.71 gap=-0.0 TIE t_best=9.1s wall=10s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] cdp101 seed=3: M=11 D=976.04 gap=0.0 TIE t_best=24.2s wall=60s
+[wc10_t10] cdp101 seed=3: M=11 D=976.04 gap=0.0 TIE t_best=0.3s
+[wc10_t20] cdp101 seed=3: M=11 D=976.04 gap=0.0 TIE t_best=0.3s
+[wc10] cdp102 seed=3: M=10 D=941.49 gap=0.0 TIE t_best=1.3s wall=60s
+[wc10_t10] cdp102 seed=3: M=10 D=941.49 gap=0.0 TIE t_best=1.3s
+[wc10_t20] cdp102 seed=3: M=10 D=941.49 gap=0.0 TIE t_best=1.3s
+[wc10] cdp103 seed=3: M=10 D=892.98 gap=-0.0 TIE t_best=47.8s wall=60s
+[wc10_t10] cdp103 seed=3: M=10 D=892.98 gap=-0.0 TIE t_best=3.9s
+[wc10_t20] cdp103 seed=3: M=10 D=892.98 gap=-0.0 TIE t_best=3.9s
+[wc10] cdp104 seed=3: M=10 D=871.40 gap=0.0 TIE t_best=3.2s wall=60s
+[wc10_t10] cdp104 seed=3: M=10 D=871.40 gap=0.0 TIE t_best=3.2s
+[wc10_t20] cdp104 seed=3: M=10 D=871.40 gap=0.0 TIE t_best=3.2s
+[wc10] cdp105 seed=3: M=10 D=1053.12 gap=0.0 TIE t_best=0.7s wall=60s
+[wc10_t10] cdp105 seed=3: M=10 D=1053.12 gap=0.0 TIE t_best=0.7s
+[wc10_t20] cdp105 seed=3: M=10 D=1053.12 gap=0.0 TIE t_best=0.7s
+[wc10] cdp106 seed=3: M=10 D=963.45 gap=-0.0 TIE t_best=9.1s wall=60s
+[wc10_t10] cdp106 seed=3: M=10 D=963.45 gap=-0.0 TIE t_best=9.1s
+[wc10_t20] cdp106 seed=3: M=10 D=963.45 gap=-0.0 TIE t_best=9.1s
+[wc10] cdp107 seed=3: M=10 D=987.64 gap=-0.0 TIE t_best=0.8s wall=60s
+[wc10_t10] cdp107 seed=3: M=10 D=987.64 gap=-0.0 TIE t_best=0.8s
+[wc10_t20] cdp107 seed=3: M=10 D=987.64 gap=-0.0 TIE t_best=0.8s
+[wc10] cdp108 seed=3: M=10 D=932.49 gap=0.0 TIE t_best=10.4s wall=60s
+[wc10_t10] cdp108 seed=3: M=10 D=932.49 gap=0.0 TIE t_best=0.5s
+[wc10_t20] cdp108 seed=3: M=10 D=932.49 gap=0.0 TIE t_best=10.4s
+[wc10] cdp109 seed=3: M=10 D=909.27 gap=0.0 TIE t_best=1.3s wall=60s
+[wc10_t10] cdp109 seed=3: M=10 D=909.27 gap=0.0 TIE t_best=1.3s
+[wc10_t20] cdp109 seed=3: M=10 D=909.27 gap=0.0 TIE t_best=1.3s
+[wc10] cdp201 seed=3: M=3 D=591.56 gap=-0.0 TIE t_best=0.3s wall=60s
+[wc10_t10] cdp201 seed=3: M=3 D=591.56 gap=-0.0 TIE t_best=0.3s
+[wc10_t20] cdp201 seed=3: M=3 D=591.56 gap=-0.0 TIE t_best=0.3s
+[wc10] cdp202 seed=3: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s wall=60s
+[wc10_t10] cdp202 seed=3: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10_t20] cdp202 seed=3: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10] cdp203 seed=3: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s wall=60s
+[wc10_t10] cdp203 seed=3: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s
+[wc10_t20] cdp203 seed=3: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s
+[wc10] cdp204 seed=3: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s wall=60s
+[wc10_t10] cdp204 seed=3: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10_t20] cdp204 seed=3: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10] cdp205 seed=3: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s wall=60s
+[wc10_t10] cdp205 seed=3: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s
+[wc10_t20] cdp205 seed=3: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s
+[wc10] cdp206 seed=3: M=3 D=588.49 gap=-0.0 TIE t_best=0.8s wall=60s
+[wc10_t10] cdp206 seed=3: M=3 D=588.49 gap=-0.0 TIE t_best=0.8s
+[wc10_t20] cdp206 seed=3: M=3 D=588.49 gap=-0.0 TIE t_best=0.8s
+[wc10] cdp207 seed=3: M=3 D=588.29 gap=0.0 TIE t_best=0.8s wall=60s
+[wc10_t10] cdp207 seed=3: M=3 D=588.29 gap=0.0 TIE t_best=0.8s
+[wc10_t20] cdp207 seed=3: M=3 D=588.29 gap=0.0 TIE t_best=0.8s
+[wc10] cdp208 seed=3: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s wall=60s
+[wc10_t10] cdp208 seed=3: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10_t20] cdp208 seed=3: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10] rdp101 seed=3: M=19 D=1650.80 gap=-0.0 TIE t_best=7.0s wall=60s
+[wc10_t10] rdp101 seed=3: M=19 D=1650.80 gap=-0.0 TIE t_best=7.0s
+[wc10_t20] rdp101 seed=3: M=19 D=1650.80 gap=-0.0 TIE t_best=7.0s
+[wc10] rdp102 seed=3: M=17 D=1486.12 gap=0.0 TIE t_best=28.8s wall=60s
+[wc10_t10] rdp102 seed=3: M=17 D=1486.12 gap=0.0 TIE t_best=1.2s
+[wc10_t20] rdp102 seed=3: M=17 D=1486.12 gap=0.0 TIE t_best=1.2s
+[wc10] rdp103 seed=3: M=13 D=1294.64 gap=0.0 TIE t_best=36.9s wall=60s
+[wc10_t10] rdp103 seed=3: M=14 D=1213.62 gap=7.0306 worse t_best=0.9s
+[wc10_t20] rdp103 seed=3: M=13 D=1294.64 gap=0.0 TIE t_best=14.5s
+[wc10] rdp104 seed=3: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=5.1s wall=60s
+[wc10_t10] rdp104 seed=3: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=5.1s
+[wc10_t20] rdp104 seed=3: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=5.1s
+[wc10] rdp105 seed=3: M=14 D=1377.11 gap=-0.0 TIE t_best=18.2s wall=60s
+[wc10_t10] rdp105 seed=3: M=14 D=1377.11 gap=-0.0 TIE t_best=0.4s
+[wc10_t20] rdp105 seed=3: M=14 D=1377.11 gap=-0.0 TIE t_best=18.2s
+[wc10] rdp106 seed=3: M=12 D=1252.03 gap=-0.0 TIE t_best=1.6s wall=60s
+[wc10_t10] rdp106 seed=3: M=12 D=1252.03 gap=-0.0 TIE t_best=1.6s
+[wc10_t20] rdp106 seed=3: M=12 D=1252.03 gap=-0.0 TIE t_best=1.6s
+[wc10] rdp107 seed=3: M=10 D=1112.55 gap=0.0 TIE t_best=19.5s wall=60s
+[wc10_t10] rdp107 seed=3: M=10 D=1114.91 gap=0.0111 worse t_best=6.8s
+[wc10_t20] rdp107 seed=3: M=10 D=1112.55 gap=0.0 TIE t_best=19.5s
+[wc10] rdp108 seed=3: M=9 D=965.22 gap=-0.0 TIE t_best=8.2s wall=60s
+[wc10_t10] rdp108 seed=3: M=9 D=965.22 gap=-0.0 TIE t_best=8.2s
+[wc10_t20] rdp108 seed=3: M=9 D=965.22 gap=-0.0 TIE t_best=8.2s
+[wc10] rdp109 seed=3: M=11 D=1194.73 gap=-0.0 TIE t_best=36.6s wall=60s
+[wc10_t10] rdp109 seed=3: M=11 D=1194.73 gap=-0.0 TIE t_best=3.4s
+[wc10_t20] rdp109 seed=3: M=11 D=1194.73 gap=-0.0 TIE t_best=3.4s
+[wc10] rdp110 seed=3: M=10 D=1121.46 gap=0.0 TIE t_best=13.5s wall=60s
+[wc10_t10] rdp110 seed=3: M=10 D=1123.92 gap=0.0116 worse t_best=8.3s
+[wc10_t20] rdp110 seed=3: M=10 D=1121.46 gap=0.0 TIE t_best=13.5s
+[wc10] rdp111 seed=3: M=10 D=1098.84 gap=0.0 TIE t_best=9.8s wall=60s
+[wc10_t10] rdp111 seed=3: M=10 D=1098.84 gap=0.0 TIE t_best=9.8s
+[wc10_t20] rdp111 seed=3: M=10 D=1098.84 gap=0.0 TIE t_best=9.8s
+[wc10] rdp112 seed=3: M=9 D=999.44 gap=0.0115 worse t_best=47.0s wall=60s
+[wc10_t10] rdp112 seed=3: M=9 D=1003.24 gap=0.0315 worse t_best=10.0s
+[wc10_t20] rdp112 seed=3: M=9 D=1001.00 gap=0.0197 worse t_best=15.6s
+[wc10] rdp201 seed=3: M=4 D=1252.37 gap=-0.0 TIE t_best=3.1s wall=60s
+[wc10_t10] rdp201 seed=3: M=4 D=1252.37 gap=-0.0 TIE t_best=3.1s
+[wc10_t20] rdp201 seed=3: M=4 D=1252.37 gap=-0.0 TIE t_best=3.1s
+[wc10] rdp202 seed=3: M=3 D=1191.70 gap=-0.0 TIE t_best=4.8s wall=60s
+[wc10_t10] rdp202 seed=3: M=3 D=1191.70 gap=-0.0 TIE t_best=4.8s
+[wc10_t20] rdp202 seed=3: M=3 D=1191.70 gap=-0.0 TIE t_best=4.8s
+[wc10] rdp203 seed=3: M=3 D=939.58 gap=0.0011 worse t_best=53.6s wall=60s
+[wc10_t10] rdp203 seed=3: M=3 D=941.08 gap=0.0228 worse t_best=6.5s
+[wc10_t20] rdp203 seed=3: M=3 D=941.08 gap=0.0228 worse t_best=6.5s
+[wc10] rdp204 seed=3: M=2 D=825.52 gap=0.0 TIE t_best=11.0s wall=60s
+[wc10_t10] rdp204 seed=3: M=2 D=831.24 gap=0.1186 worse t_best=8.1s
+[wc10_t20] rdp204 seed=3: M=2 D=825.52 gap=0.0 TIE t_best=11.0s
+[wc10] rdp205 seed=3: M=3 D=994.43 gap=-0.0 TIE t_best=7.4s wall=60s
+[wc10_t10] rdp205 seed=3: M=3 D=994.43 gap=-0.0 TIE t_best=7.4s
+[wc10_t20] rdp205 seed=3: M=3 D=994.43 gap=-0.0 TIE t_best=7.4s
+[wc10] rdp206 seed=3: M=3 D=906.14 gap=0.0 TIE t_best=12.3s wall=60s
+[wc10_t10] rdp206 seed=3: M=3 D=913.18 gap=0.1019 worse t_best=4.1s
+[wc10_t20] rdp206 seed=3: M=3 D=906.14 gap=0.0 TIE t_best=12.3s
+[wc10] rdp207 seed=3: M=2 D=890.61 gap=0.0 TIE t_best=14.8s wall=60s
+[wc10_t10] rdp207 seed=3: M=2 D=895.78 gap=0.1058 worse t_best=9.8s
+[wc10_t20] rdp207 seed=3: M=2 D=890.61 gap=0.0 TIE t_best=14.8s
+[wc10] rdp208 seed=3: M=2 D=726.82 gap=-0.0 TIE t_best=9.3s wall=60s
+[wc10_t10] rdp208 seed=3: M=2 D=726.82 gap=-0.0 TIE t_best=9.3s
+[wc10_t20] rdp208 seed=3: M=2 D=726.82 gap=-0.0 TIE t_best=9.3s
+[wc10] rdp209 seed=3: M=3 D=909.16 gap=0.0 TIE t_best=38.2s wall=60s
+[wc10_t10] rdp209 seed=3: M=3 D=913.83 gap=0.0675 worse t_best=9.0s
+[wc10_t20] rdp209 seed=3: M=3 D=909.66 gap=0.0071 worse t_best=12.6s
+[wc10] rdp210 seed=3: M=3 D=939.37 gap=0.0 TIE t_best=4.0s wall=60s
+[wc10_t10] rdp210 seed=3: M=3 D=939.37 gap=0.0 TIE t_best=4.0s
+[wc10_t20] rdp210 seed=3: M=3 D=939.37 gap=0.0 TIE t_best=4.0s
+[wc10] rdp211 seed=3: M=2 D=898.15 gap=0.2546 worse t_best=10.7s wall=60s
+[wc10_t10] rdp211 seed=3: M=2 D=907.70 gap=0.4501 worse t_best=8.0s
+[wc10_t20] rdp211 seed=3: M=2 D=898.15 gap=0.2546 worse t_best=10.7s
+[wc10] rcdp101 seed=3: M=14 D=1708.21 gap=-0.0 TIE t_best=1.7s wall=60s
+[wc10_t10] rcdp101 seed=3: M=14 D=1708.21 gap=-0.0 TIE t_best=1.7s
+[wc10_t20] rcdp101 seed=3: M=14 D=1708.21 gap=-0.0 TIE t_best=1.7s
+[wc10] rcdp102 seed=3: M=12 D=1570.28 gap=-0.0 TIE t_best=2.2s wall=60s
+[wc10_t10] rcdp102 seed=3: M=12 D=1570.28 gap=-0.0 TIE t_best=2.2s
+[wc10_t20] rcdp102 seed=3: M=12 D=1570.28 gap=-0.0 TIE t_best=2.2s
+[wc10] rcdp103 seed=3: M=11 D=1282.53 gap=-0.0 TIE t_best=53.6s wall=60s
+[wc10_t10] rcdp103 seed=3: M=11 D=1282.53 gap=-0.0 TIE t_best=3.0s
+[wc10_t20] rcdp103 seed=3: M=11 D=1282.53 gap=-0.0 TIE t_best=3.0s
+[wc10] rcdp104 seed=3: M=10 D=1171.37 gap=-0.0 TIE t_best=4.7s wall=60s
+[wc10_t10] rcdp104 seed=3: M=10 D=1171.37 gap=-0.0 TIE t_best=4.7s
+[wc10_t20] rcdp104 seed=3: M=10 D=1171.37 gap=-0.0 TIE t_best=4.7s
+[wc10] rcdp105 seed=3: M=13 D=1632.29 gap=0.0 TIE t_best=5.8s wall=60s
+[wc10_t10] rcdp105 seed=3: M=13 D=1632.29 gap=0.0 TIE t_best=5.8s
+[wc10_t20] rcdp105 seed=3: M=13 D=1632.29 gap=0.0 TIE t_best=5.8s
+[wc10] rcdp106 seed=3: M=12 D=1392.47 gap=0.0 TIE t_best=2.0s wall=60s
+[wc10_t10] rcdp106 seed=3: M=12 D=1392.47 gap=0.0 TIE t_best=2.0s
+[wc10_t20] rcdp106 seed=3: M=12 D=1392.47 gap=0.0 TIE t_best=2.0s
+[wc10] rcdp107 seed=3: M=11 D=1255.06 gap=0.0098 worse t_best=7.4s wall=60s
+[wc10_t10] rcdp107 seed=3: M=11 D=1255.06 gap=0.0098 worse t_best=7.4s
+[wc10_t20] rcdp107 seed=3: M=11 D=1255.06 gap=0.0098 worse t_best=7.4s
+[wc10] rcdp108 seed=3: M=10 D=1177.98 gap=0.0 TIE t_best=11.2s wall=60s
+[wc10_t10] rcdp108 seed=3: M=10 D=1179.34 gap=0.0064 worse t_best=9.9s
+[wc10_t20] rcdp108 seed=3: M=10 D=1177.98 gap=0.0 TIE t_best=11.2s
+[wc10] rcdp201 seed=3: M=4 D=1406.94 gap=-0.0 TIE t_best=47.3s wall=60s
+[wc10_t10] rcdp201 seed=3: M=4 D=1406.94 gap=-0.0 TIE t_best=3.0s
+[wc10_t20] rcdp201 seed=3: M=4 D=1406.94 gap=-0.0 TIE t_best=3.0s
+[wc10] rcdp202 seed=3: M=3 D=1365.65 gap=0.0 TIE t_best=6.8s wall=60s
+[wc10_t10] rcdp202 seed=3: M=3 D=1365.65 gap=0.0 TIE t_best=6.8s
+[wc10_t20] rcdp202 seed=3: M=3 D=1365.65 gap=0.0 TIE t_best=6.8s
+[wc10] rcdp203 seed=3: M=3 D=1049.62 gap=-0.0 TIE t_best=60.1s wall=60s
+[wc10_t10] rcdp203 seed=3: M=3 D=1050.64 gap=0.0143 worse t_best=6.1s
+[wc10_t20] rcdp203 seed=3: M=3 D=1050.64 gap=0.0143 worse t_best=6.1s
+[wc10] rcdp204 seed=3: M=3 D=798.46 gap=-0.0 TIE t_best=4.7s wall=60s
+[wc10_t10] rcdp204 seed=3: M=3 D=798.46 gap=-0.0 TIE t_best=4.7s
+[wc10_t20] rcdp204 seed=3: M=3 D=798.46 gap=-0.0 TIE t_best=4.7s
+[wc10] rcdp205 seed=3: M=4 D=1297.65 gap=0.0 TIE t_best=50.9s wall=60s
+[wc10_t10] rcdp205 seed=3: M=4 D=1297.65 gap=0.0 TIE t_best=4.0s
+[wc10_t20] rcdp205 seed=3: M=4 D=1297.65 gap=0.0 TIE t_best=4.0s
+[wc10] rcdp206 seed=3: M=3 D=1146.32 gap=0.0 TIE t_best=7.1s wall=60s
+[wc10_t10] rcdp206 seed=3: M=3 D=1146.32 gap=0.0 TIE t_best=7.1s
+[wc10_t20] rcdp206 seed=3: M=3 D=1146.32 gap=0.0 TIE t_best=7.1s
+[wc10] rcdp207 seed=3: M=3 D=1061.84 gap=0.0099 worse t_best=11.4s wall=60s
+[wc10_t10] rcdp207 seed=3: M=3 D=1062.05 gap=0.0128 worse t_best=5.7s
+[wc10_t20] rcdp207 seed=3: M=3 D=1061.84 gap=0.0099 worse t_best=11.4s
+[wc10] rcdp208 seed=3: M=3 D=828.14 gap=0.0 TIE t_best=23.0s wall=60s
+[wc10_t10] rcdp208 seed=3: M=3 D=828.71 gap=0.0083 worse t_best=5.1s
+[wc10_t20] rcdp208 seed=3: M=3 D=828.71 gap=0.0083 worse t_best=5.1s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] rcdp0501 seed=4: M=3 D=220.15 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0504 seed=4: M=2 D=214.57 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0507 seed=4: M=2 D=211.83 gap=  t_best=0.0s wall=10s
+[wc10] rcdp1001 seed=4: M=3 D=348.98 gap=-0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp1004 seed=4: M=2 D=216.69 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp1007 seed=4: M=2 D=310.81 gap=0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp2501 seed=4: M=5 D=551.05 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp2504 seed=4: M=4 D=473.46 gap=-0.0 TIE t_best=0.2s wall=10s
+[wc10] rcdp2507 seed=4: M=5 D=540.87 gap=0.0 TIE t_best=0.2s wall=10s
+[wc10] rcdp5001 seed=4: M=9 D=994.18 gap=-0.0 TIE t_best=3.4s wall=10s
+[wc10] rcdp5004 seed=4: M=6 D=733.21 gap=0.0 TIE t_best=0.5s wall=10s
+[wc10] rcdp5007 seed=4: M=7 D=809.71 gap=-0.0 TIE t_best=0.4s wall=10s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] cdp101 seed=4: M=11 D=976.04 gap=0.0 TIE t_best=0.3s wall=60s
+[wc10_t10] cdp101 seed=4: M=11 D=976.04 gap=0.0 TIE t_best=0.3s
+[wc10_t20] cdp101 seed=4: M=11 D=976.04 gap=0.0 TIE t_best=0.3s
+[wc10] cdp102 seed=4: M=10 D=941.49 gap=0.0 TIE t_best=16.0s wall=60s
+[wc10_t10] cdp102 seed=4: M=10 D=941.49 gap=0.0 TIE t_best=1.3s
+[wc10_t20] cdp102 seed=4: M=10 D=941.49 gap=0.0 TIE t_best=16.0s
+[wc10] cdp103 seed=4: M=10 D=892.98 gap=-0.0 TIE t_best=49.9s wall=60s
+[wc10_t10] cdp103 seed=4: M=10 D=892.98 gap=-0.0 TIE t_best=2.9s
+[wc10_t20] cdp103 seed=4: M=10 D=892.98 gap=-0.0 TIE t_best=2.9s
+[wc10] cdp104 seed=4: M=10 D=871.40 gap=0.0 TIE t_best=26.9s wall=60s
+[wc10_t10] cdp104 seed=4: M=10 D=871.40 gap=0.0 TIE t_best=2.1s
+[wc10_t20] cdp104 seed=4: M=10 D=871.40 gap=0.0 TIE t_best=2.1s
+[wc10] cdp105 seed=4: M=10 D=1053.12 gap=0.0 TIE t_best=0.7s wall=60s
+[wc10_t10] cdp105 seed=4: M=10 D=1053.12 gap=0.0 TIE t_best=0.7s
+[wc10_t20] cdp105 seed=4: M=10 D=1053.12 gap=0.0 TIE t_best=0.7s
+[wc10] cdp106 seed=4: M=10 D=963.45 gap=-0.0 TIE t_best=17.0s wall=60s
+[wc10_t10] cdp106 seed=4: M=10 D=963.45 gap=-0.0 TIE t_best=0.8s
+[wc10_t20] cdp106 seed=4: M=10 D=963.45 gap=-0.0 TIE t_best=17.0s
+[wc10] cdp107 seed=4: M=10 D=987.64 gap=-0.0 TIE t_best=8.3s wall=60s
+[wc10_t10] cdp107 seed=4: M=10 D=987.64 gap=-0.0 TIE t_best=8.3s
+[wc10_t20] cdp107 seed=4: M=10 D=987.64 gap=-0.0 TIE t_best=8.3s
+[wc10] cdp108 seed=4: M=10 D=932.49 gap=0.0 TIE t_best=40.1s wall=60s
+[wc10_t10] cdp108 seed=4: M=10 D=932.49 gap=0.0 TIE t_best=0.5s
+[wc10_t20] cdp108 seed=4: M=10 D=932.49 gap=0.0 TIE t_best=0.5s
+[wc10] cdp109 seed=4: M=10 D=909.27 gap=0.0 TIE t_best=0.6s wall=60s
+[wc10_t10] cdp109 seed=4: M=10 D=909.27 gap=0.0 TIE t_best=0.6s
+[wc10_t20] cdp109 seed=4: M=10 D=909.27 gap=0.0 TIE t_best=0.6s
+[wc10] cdp201 seed=4: M=3 D=591.56 gap=-0.0 TIE t_best=16.7s wall=60s
+[wc10_t10] cdp201 seed=4: M=3 D=591.56 gap=-0.0 TIE t_best=0.3s
+[wc10_t20] cdp201 seed=4: M=3 D=591.56 gap=-0.0 TIE t_best=16.7s
+[wc10] cdp202 seed=4: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s wall=60s
+[wc10_t10] cdp202 seed=4: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10_t20] cdp202 seed=4: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10] cdp203 seed=4: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s wall=60s
+[wc10_t10] cdp203 seed=4: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s
+[wc10_t20] cdp203 seed=4: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s
+[wc10] cdp204 seed=4: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s wall=60s
+[wc10_t10] cdp204 seed=4: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10_t20] cdp204 seed=4: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10] cdp205 seed=4: M=3 D=588.88 gap=-0.0 TIE t_best=10.1s wall=60s
+[wc10_t10] cdp205 seed=4: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s
+[wc10_t20] cdp205 seed=4: M=3 D=588.88 gap=-0.0 TIE t_best=10.1s
+[wc10] cdp206 seed=4: M=3 D=588.49 gap=-0.0 TIE t_best=0.8s wall=60s
+[wc10_t10] cdp206 seed=4: M=3 D=588.49 gap=-0.0 TIE t_best=0.8s
+[wc10_t20] cdp206 seed=4: M=3 D=588.49 gap=-0.0 TIE t_best=0.8s
+[wc10] cdp207 seed=4: M=3 D=588.29 gap=0.0 TIE t_best=0.8s wall=60s
+[wc10_t10] cdp207 seed=4: M=3 D=588.29 gap=0.0 TIE t_best=0.8s
+[wc10_t20] cdp207 seed=4: M=3 D=588.29 gap=0.0 TIE t_best=0.8s
+[wc10] cdp208 seed=4: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s wall=60s
+[wc10_t10] cdp208 seed=4: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10_t20] cdp208 seed=4: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10] rdp101 seed=4: M=19 D=1650.80 gap=-0.0 TIE t_best=6.6s wall=60s
+[wc10_t10] rdp101 seed=4: M=19 D=1650.80 gap=-0.0 TIE t_best=6.6s
+[wc10_t20] rdp101 seed=4: M=19 D=1650.80 gap=-0.0 TIE t_best=6.6s
+[wc10] rdp102 seed=4: M=17 D=1486.12 gap=0.0 TIE t_best=1.2s wall=60s
+[wc10_t10] rdp102 seed=4: M=17 D=1486.12 gap=0.0 TIE t_best=1.2s
+[wc10_t20] rdp102 seed=4: M=17 D=1486.12 gap=0.0 TIE t_best=1.2s
+[wc10] rdp103 seed=4: M=13 D=1294.64 gap=0.0 TIE t_best=6.4s wall=60s
+[wc10_t10] rdp103 seed=4: M=13 D=1294.64 gap=0.0 TIE t_best=6.4s
+[wc10_t20] rdp103 seed=4: M=13 D=1294.64 gap=0.0 TIE t_best=6.4s
+[wc10] rdp104 seed=4: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=46.4s wall=60s
+[wc10_t10] rdp104 seed=4: M=9 D=1025.92 gap=-0.0026 NEW_BEST t_best=9.0s
+[wc10_t20] rdp104 seed=4: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=14.2s
+[wc10] rdp105 seed=4: M=14 D=1377.11 gap=-0.0 TIE t_best=0.4s wall=60s
+[wc10_t10] rdp105 seed=4: M=14 D=1377.11 gap=-0.0 TIE t_best=0.4s
+[wc10_t20] rdp105 seed=4: M=14 D=1377.11 gap=-0.0 TIE t_best=0.4s
+[wc10] rdp106 seed=4: M=12 D=1252.03 gap=-0.0 TIE t_best=19.3s wall=60s
+[wc10_t10] rdp106 seed=4: M=12 D=1252.03 gap=-0.0 TIE t_best=1.6s
+[wc10_t20] rdp106 seed=4: M=12 D=1252.03 gap=-0.0 TIE t_best=19.3s
+[wc10] rdp107 seed=4: M=10 D=1112.55 gap=0.0 TIE t_best=13.8s wall=60s
+[wc10_t10] rdp107 seed=4: M=10 D=1114.95 gap=0.0114 worse t_best=9.2s
+[wc10_t20] rdp107 seed=4: M=10 D=1112.55 gap=0.0 TIE t_best=13.8s
+[wc10] rdp108 seed=4: M=9 D=965.22 gap=-0.0 TIE t_best=8.2s wall=60s
+[wc10_t10] rdp108 seed=4: M=9 D=965.22 gap=-0.0 TIE t_best=8.2s
+[wc10_t20] rdp108 seed=4: M=9 D=965.22 gap=-0.0 TIE t_best=8.2s
+[wc10] rdp109 seed=4: M=11 D=1194.73 gap=-0.0 TIE t_best=18.3s wall=60s
+[wc10_t10] rdp109 seed=4: M=11 D=1194.73 gap=-0.0 TIE t_best=2.0s
+[wc10_t20] rdp109 seed=4: M=11 D=1194.73 gap=-0.0 TIE t_best=18.3s
+[wc10] rdp110 seed=4: M=10 D=1121.46 gap=0.0 TIE t_best=4.2s wall=60s
+[wc10_t10] rdp110 seed=4: M=10 D=1121.46 gap=0.0 TIE t_best=4.2s
+[wc10_t20] rdp110 seed=4: M=10 D=1121.46 gap=0.0 TIE t_best=4.2s
+[wc10] rdp111 seed=4: M=10 D=1098.84 gap=0.0 TIE t_best=41.0s wall=60s
+[wc10_t10] rdp111 seed=4: M=10 D=1098.84 gap=0.0 TIE t_best=9.7s
+[wc10_t20] rdp111 seed=4: M=10 D=1098.84 gap=0.0 TIE t_best=9.7s
+[wc10] rdp112 seed=4: M=9 D=999.44 gap=0.0114 worse t_best=27.2s wall=60s
+[wc10_t10] rdp112 seed=4: M=9 D=1006.55 gap=0.0489 worse t_best=10.0s
+[wc10_t20] rdp112 seed=4: M=9 D=999.44 gap=0.0115 worse t_best=17.2s
+[wc10] rdp201 seed=4: M=4 D=1252.37 gap=-0.0 TIE t_best=5.1s wall=60s
+[wc10_t10] rdp201 seed=4: M=4 D=1252.37 gap=-0.0 TIE t_best=5.1s
+[wc10_t20] rdp201 seed=4: M=4 D=1252.37 gap=-0.0 TIE t_best=5.1s
+[wc10] rdp202 seed=4: M=3 D=1191.70 gap=-0.0 TIE t_best=4.8s wall=60s
+[wc10_t10] rdp202 seed=4: M=3 D=1191.70 gap=-0.0 TIE t_best=4.8s
+[wc10_t20] rdp202 seed=4: M=3 D=1191.70 gap=-0.0 TIE t_best=4.8s
+[wc10] rdp203 seed=4: M=3 D=939.50 gap=-0.0 TIE t_best=40.7s wall=60s
+[wc10_t10] rdp203 seed=4: M=3 D=941.62 gap=0.0306 worse t_best=6.6s
+[wc10_t20] rdp203 seed=4: M=3 D=939.80 gap=0.0043 worse t_best=19.4s
+[wc10] rdp204 seed=4: M=2 D=825.52 gap=0.0 TIE t_best=11.0s wall=61s
+[wc10_t10] rdp204 seed=4: M=2 D=832.14 gap=0.1373 worse t_best=8.1s
+[wc10_t20] rdp204 seed=4: M=2 D=825.52 gap=0.0 TIE t_best=11.0s
+[wc10] rdp205 seed=4: M=3 D=994.43 gap=-0.0 TIE t_best=8.5s wall=60s
+[wc10_t10] rdp205 seed=4: M=3 D=994.43 gap=-0.0 TIE t_best=8.5s
+[wc10_t20] rdp205 seed=4: M=3 D=994.43 gap=-0.0 TIE t_best=8.5s
+[wc10] rdp206 seed=4: M=3 D=906.14 gap=0.0 TIE t_best=14.5s wall=60s
+[wc10_t10] rdp206 seed=4: M=3 D=909.82 gap=0.0532 worse t_best=8.3s
+[wc10_t20] rdp206 seed=4: M=3 D=906.14 gap=0.0 TIE t_best=14.5s
+[wc10] rdp207 seed=4: M=2 D=890.61 gap=0.0 TIE t_best=7.4s wall=60s
+[wc10_t10] rdp207 seed=4: M=2 D=890.61 gap=0.0 TIE t_best=7.4s
+[wc10_t20] rdp207 seed=4: M=2 D=890.61 gap=0.0 TIE t_best=7.4s
+[wc10] rdp208 seed=4: M=2 D=726.82 gap=-0.0 TIE t_best=9.3s wall=60s
+[wc10_t10] rdp208 seed=4: M=2 D=726.82 gap=-0.0 TIE t_best=9.3s
+[wc10_t20] rdp208 seed=4: M=2 D=726.82 gap=-0.0 TIE t_best=9.3s
+[wc10] rdp209 seed=4: M=3 D=909.16 gap=0.0 TIE t_best=42.0s wall=60s
+[wc10_t10] rdp209 seed=4: M=3 D=910.20 gap=0.0149 worse t_best=3.6s
+[wc10_t20] rdp209 seed=4: M=3 D=909.66 gap=0.0071 worse t_best=11.0s
+[wc10] rdp210 seed=4: M=3 D=939.37 gap=0.0 TIE t_best=35.2s wall=60s
+[wc10_t10] rdp210 seed=4: M=3 D=942.39 gap=0.0435 worse t_best=6.1s
+[wc10_t20] rdp210 seed=4: M=3 D=941.85 gap=0.0356 worse t_best=12.0s
+[wc10] rdp211 seed=4: M=2 D=892.99 gap=0.149 worse t_best=44.3s wall=60s
+[wc10_t10] rdp211 seed=4: M=2 D=907.84 gap=0.4529 worse t_best=5.3s
+[wc10_t20] rdp211 seed=4: M=2 D=901.34 gap=0.3198 worse t_best=18.9s
+[wc10] rcdp101 seed=4: M=14 D=1708.21 gap=-0.0 TIE t_best=11.3s wall=60s
+[wc10_t10] rcdp101 seed=4: M=14 D=1708.21 gap=-0.0 TIE t_best=1.6s
+[wc10_t20] rcdp101 seed=4: M=14 D=1708.21 gap=-0.0 TIE t_best=11.3s
+[wc10] rcdp102 seed=4: M=12 D=1570.28 gap=-0.0 TIE t_best=19.6s wall=60s
+[wc10_t10] rcdp102 seed=4: M=12 D=1570.28 gap=-0.0 TIE t_best=2.2s
+[wc10_t20] rcdp102 seed=4: M=12 D=1570.28 gap=-0.0 TIE t_best=19.6s
+[wc10] rcdp103 seed=4: M=11 D=1282.53 gap=-0.0 TIE t_best=5.2s wall=60s
+[wc10_t10] rcdp103 seed=4: M=11 D=1282.53 gap=-0.0 TIE t_best=5.2s
+[wc10_t20] rcdp103 seed=4: M=11 D=1282.53 gap=-0.0 TIE t_best=5.2s
+[wc10] rcdp104 seed=4: M=10 D=1171.37 gap=-0.0 TIE t_best=7.2s wall=60s
+[wc10_t10] rcdp104 seed=4: M=10 D=1171.37 gap=-0.0 TIE t_best=7.2s
+[wc10_t20] rcdp104 seed=4: M=10 D=1171.37 gap=-0.0 TIE t_best=7.2s
+[wc10] rcdp105 seed=4: M=13 D=1632.29 gap=0.0 TIE t_best=23.4s wall=60s
+[wc10_t10] rcdp105 seed=4: M=13 D=1632.29 gap=0.0 TIE t_best=5.1s
+[wc10_t20] rcdp105 seed=4: M=13 D=1632.29 gap=0.0 TIE t_best=5.1s
+[wc10] rcdp106 seed=4: M=12 D=1392.47 gap=0.0 TIE t_best=2.6s wall=60s
+[wc10_t10] rcdp106 seed=4: M=12 D=1392.47 gap=0.0 TIE t_best=2.6s
+[wc10_t20] rcdp106 seed=4: M=12 D=1392.47 gap=0.0 TIE t_best=2.6s
+[wc10] rcdp107 seed=4: M=11 D=1255.06 gap=0.0098 worse t_best=13.8s wall=60s
+[wc10_t10] rcdp107 seed=4: M=11 D=1257.77 gap=0.0214 worse t_best=6.3s
+[wc10_t20] rcdp107 seed=4: M=11 D=1255.06 gap=0.0098 worse t_best=13.8s
+[wc10] rcdp108 seed=4: M=10 D=1177.98 gap=0.0 TIE t_best=5.0s wall=60s
+[wc10_t10] rcdp108 seed=4: M=10 D=1177.98 gap=0.0 TIE t_best=5.0s
+[wc10_t20] rcdp108 seed=4: M=10 D=1177.98 gap=0.0 TIE t_best=5.0s
+[wc10] rcdp201 seed=4: M=4 D=1406.94 gap=-0.0 TIE t_best=16.0s wall=60s
+[wc10_t10] rcdp201 seed=4: M=4 D=1406.94 gap=-0.0 TIE t_best=2.4s
+[wc10_t20] rcdp201 seed=4: M=4 D=1406.94 gap=-0.0 TIE t_best=16.0s
+[wc10] rcdp202 seed=4: M=3 D=1365.65 gap=0.0 TIE t_best=8.3s wall=60s
+[wc10_t10] rcdp202 seed=4: M=3 D=1365.65 gap=0.0 TIE t_best=8.3s
+[wc10_t20] rcdp202 seed=4: M=3 D=1365.65 gap=0.0 TIE t_best=8.3s
+[wc10] rcdp203 seed=4: M=3 D=1050.45 gap=0.0117 worse t_best=22.6s wall=60s
+[wc10_t10] rcdp203 seed=4: M=3 D=1050.64 gap=0.0143 worse t_best=6.1s
+[wc10_t20] rcdp203 seed=4: M=3 D=1050.48 gap=0.0121 worse t_best=16.4s
+[wc10] rcdp204 seed=4: M=3 D=798.46 gap=-0.0 TIE t_best=16.5s wall=60s
+[wc10_t10] rcdp204 seed=4: M=3 D=799.16 gap=0.0102 worse t_best=4.7s
+[wc10_t20] rcdp204 seed=4: M=3 D=798.46 gap=-0.0 TIE t_best=16.5s
+[wc10] rcdp205 seed=4: M=4 D=1297.65 gap=0.0 TIE t_best=25.5s wall=60s
+[wc10_t10] rcdp205 seed=4: M=4 D=1297.65 gap=0.0 TIE t_best=3.0s
+[wc10_t20] rcdp205 seed=4: M=4 D=1297.65 gap=0.0 TIE t_best=3.0s
+[wc10] rcdp206 seed=4: M=3 D=1146.32 gap=0.0 TIE t_best=15.4s wall=60s
+[wc10_t10] rcdp206 seed=4: M=3 D=1152.03 gap=0.08 worse t_best=7.1s
+[wc10_t20] rcdp206 seed=4: M=3 D=1146.32 gap=0.0 TIE t_best=15.4s
+[wc10] rcdp207 seed=4: M=3 D=1061.14 gap=0.0 TIE t_best=57.5s wall=60s
+[wc10_t10] rcdp207 seed=4: M=3 D=1061.84 gap=0.0099 worse t_best=7.7s
+[wc10_t20] rcdp207 seed=4: M=3 D=1061.84 gap=0.0099 worse t_best=7.7s
+[wc10] rcdp208 seed=4: M=3 D=828.71 gap=0.0083 worse t_best=5.1s wall=60s
+[wc10_t10] rcdp208 seed=4: M=3 D=828.71 gap=0.0083 worse t_best=5.1s
+[wc10_t20] rcdp208 seed=4: M=3 D=828.71 gap=0.0083 worse t_best=5.1s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] rcdp0501 seed=5: M=3 D=220.15 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0504 seed=5: M=2 D=214.57 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0507 seed=5: M=2 D=211.83 gap=  t_best=0.0s wall=10s
+[wc10] rcdp1001 seed=5: M=3 D=348.98 gap=-0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp1004 seed=5: M=2 D=216.69 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp1007 seed=5: M=2 D=310.81 gap=0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp2501 seed=5: M=5 D=551.05 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp2504 seed=5: M=4 D=473.46 gap=-0.0 TIE t_best=4.5s wall=10s
+[wc10] rcdp2507 seed=5: M=5 D=540.87 gap=0.0 TIE t_best=0.2s wall=10s
+[wc10] rcdp5001 seed=5: M=9 D=994.18 gap=-0.0 TIE t_best=3.4s wall=10s
+[wc10] rcdp5004 seed=5: M=6 D=733.21 gap=0.0 TIE t_best=0.5s wall=10s
+[wc10] rcdp5007 seed=5: M=7 D=809.71 gap=-0.0 TIE t_best=9.3s wall=10s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] cdp101 seed=5: M=11 D=976.04 gap=0.0 TIE t_best=36.0s wall=60s
+[wc10_t10] cdp101 seed=5: M=11 D=976.04 gap=0.0 TIE t_best=0.6s
+[wc10_t20] cdp101 seed=5: M=11 D=976.04 gap=0.0 TIE t_best=0.6s
+[wc10] cdp102 seed=5: M=10 D=941.49 gap=0.0 TIE t_best=1.4s wall=60s
+[wc10_t10] cdp102 seed=5: M=10 D=941.49 gap=0.0 TIE t_best=1.4s
+[wc10_t20] cdp102 seed=5: M=10 D=941.49 gap=0.0 TIE t_best=1.4s
+[wc10] cdp103 seed=5: M=10 D=892.98 gap=-0.0 TIE t_best=2.9s wall=60s
+[wc10_t10] cdp103 seed=5: M=10 D=892.98 gap=-0.0 TIE t_best=2.9s
+[wc10_t20] cdp103 seed=5: M=10 D=892.98 gap=-0.0 TIE t_best=2.9s
+[wc10] cdp104 seed=5: M=10 D=871.40 gap=0.0 TIE t_best=25.9s wall=60s
+[wc10_t10] cdp104 seed=5: M=10 D=871.40 gap=0.0 TIE t_best=2.1s
+[wc10_t20] cdp104 seed=5: M=10 D=871.40 gap=0.0 TIE t_best=2.1s
+[wc10] cdp105 seed=5: M=10 D=1053.12 gap=0.0 TIE t_best=16.0s wall=60s
+[wc10_t10] cdp105 seed=5: M=10 D=1053.12 gap=0.0 TIE t_best=1.1s
+[wc10_t20] cdp105 seed=5: M=10 D=1053.12 gap=0.0 TIE t_best=16.0s
+[wc10] cdp106 seed=5: M=10 D=963.45 gap=-0.0 TIE t_best=9.1s wall=60s
+[wc10_t10] cdp106 seed=5: M=10 D=963.45 gap=-0.0 TIE t_best=9.1s
+[wc10_t20] cdp106 seed=5: M=10 D=963.45 gap=-0.0 TIE t_best=9.1s
+[wc10] cdp107 seed=5: M=10 D=987.64 gap=-0.0 TIE t_best=2.7s wall=60s
+[wc10_t10] cdp107 seed=5: M=10 D=987.64 gap=-0.0 TIE t_best=2.7s
+[wc10_t20] cdp107 seed=5: M=10 D=987.64 gap=-0.0 TIE t_best=2.7s
+[wc10] cdp108 seed=5: M=10 D=932.49 gap=0.0 TIE t_best=0.5s wall=60s
+[wc10_t10] cdp108 seed=5: M=10 D=932.49 gap=0.0 TIE t_best=0.5s
+[wc10_t20] cdp108 seed=5: M=10 D=932.49 gap=0.0 TIE t_best=0.5s
+[wc10] cdp109 seed=5: M=10 D=909.27 gap=0.0 TIE t_best=1.2s wall=60s
+[wc10_t10] cdp109 seed=5: M=10 D=909.27 gap=0.0 TIE t_best=1.2s
+[wc10_t20] cdp109 seed=5: M=10 D=909.27 gap=0.0 TIE t_best=1.2s
+[wc10] cdp201 seed=5: M=3 D=591.56 gap=-0.0 TIE t_best=0.3s wall=60s
+[wc10_t10] cdp201 seed=5: M=3 D=591.56 gap=-0.0 TIE t_best=0.3s
+[wc10_t20] cdp201 seed=5: M=3 D=591.56 gap=-0.0 TIE t_best=0.3s
+[wc10] cdp202 seed=5: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s wall=60s
+[wc10_t10] cdp202 seed=5: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10_t20] cdp202 seed=5: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10] cdp203 seed=5: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s wall=60s
+[wc10_t10] cdp203 seed=5: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s
+[wc10_t20] cdp203 seed=5: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s
+[wc10] cdp204 seed=5: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s wall=60s
+[wc10_t10] cdp204 seed=5: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10_t20] cdp204 seed=5: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10] cdp205 seed=5: M=3 D=588.88 gap=-0.0 TIE t_best=19.5s wall=60s
+[wc10_t10] cdp205 seed=5: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s
+[wc10_t20] cdp205 seed=5: M=3 D=588.88 gap=-0.0 TIE t_best=19.5s
+[wc10] cdp206 seed=5: M=3 D=588.49 gap=-0.0 TIE t_best=0.7s wall=60s
+[wc10_t10] cdp206 seed=5: M=3 D=588.49 gap=-0.0 TIE t_best=0.7s
+[wc10_t20] cdp206 seed=5: M=3 D=588.49 gap=-0.0 TIE t_best=0.7s
+[wc10] cdp207 seed=5: M=3 D=588.29 gap=0.0 TIE t_best=0.9s wall=60s
+[wc10_t10] cdp207 seed=5: M=3 D=588.29 gap=0.0 TIE t_best=0.9s
+[wc10_t20] cdp207 seed=5: M=3 D=588.29 gap=0.0 TIE t_best=0.9s
+[wc10] cdp208 seed=5: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s wall=60s
+[wc10_t10] cdp208 seed=5: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10_t20] cdp208 seed=5: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10] rdp101 seed=5: M=19 D=1650.80 gap=-0.0 TIE t_best=6.9s wall=60s
+[wc10_t10] rdp101 seed=5: M=19 D=1650.80 gap=-0.0 TIE t_best=6.9s
+[wc10_t20] rdp101 seed=5: M=19 D=1650.80 gap=-0.0 TIE t_best=6.9s
+[wc10] rdp102 seed=5: M=17 D=1486.12 gap=0.0 TIE t_best=30.7s wall=60s
+[wc10_t10] rdp102 seed=5: M=17 D=1486.12 gap=0.0 TIE t_best=2.4s
+[wc10_t20] rdp102 seed=5: M=17 D=1486.12 gap=0.0 TIE t_best=16.6s
+[wc10] rdp103 seed=5: M=13 D=1294.64 gap=0.0 TIE t_best=50.9s wall=60s
+[wc10_t10] rdp103 seed=5: M=14 D=1213.62 gap=7.0306 worse t_best=1.8s
+[wc10_t20] rdp103 seed=5: M=13 D=1294.64 gap=0.0 TIE t_best=19.2s
+[wc10] rdp104 seed=5: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=9.1s wall=60s
+[wc10_t10] rdp104 seed=5: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=9.1s
+[wc10_t20] rdp104 seed=5: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=9.1s
+[wc10] rdp105 seed=5: M=14 D=1377.11 gap=-0.0 TIE t_best=18.9s wall=60s
+[wc10_t10] rdp105 seed=5: M=14 D=1377.11 gap=-0.0 TIE t_best=0.9s
+[wc10_t20] rdp105 seed=5: M=14 D=1377.11 gap=-0.0 TIE t_best=18.9s
+[wc10] rdp106 seed=5: M=12 D=1252.03 gap=-0.0 TIE t_best=1.6s wall=60s
+[wc10_t10] rdp106 seed=5: M=12 D=1252.03 gap=-0.0 TIE t_best=1.6s
+[wc10_t20] rdp106 seed=5: M=12 D=1252.03 gap=-0.0 TIE t_best=1.6s
+[wc10] rdp107 seed=5: M=10 D=1112.55 gap=0.0 TIE t_best=15.0s wall=60s
+[wc10_t10] rdp107 seed=5: M=10 D=1115.32 gap=0.0131 worse t_best=9.2s
+[wc10_t20] rdp107 seed=5: M=10 D=1112.55 gap=0.0 TIE t_best=15.0s
+[wc10] rdp108 seed=5: M=9 D=965.22 gap=-0.0 TIE t_best=11.1s wall=60s
+[wc10_t10] rdp108 seed=5: M=9 D=965.34 gap=0.0007 worse t_best=8.3s
+[wc10_t20] rdp108 seed=5: M=9 D=965.22 gap=-0.0 TIE t_best=11.1s
+[wc10] rdp109 seed=5: M=11 D=1194.73 gap=-0.0 TIE t_best=52.9s wall=60s
+[wc10_t10] rdp109 seed=5: M=11 D=1194.73 gap=-0.0 TIE t_best=4.0s
+[wc10_t20] rdp109 seed=5: M=11 D=1194.73 gap=-0.0 TIE t_best=4.0s
+[wc10] rdp110 seed=5: M=10 D=1121.46 gap=0.0 TIE t_best=16.6s wall=60s
+[wc10_t10] rdp110 seed=5: M=10 D=1123.92 gap=0.0116 worse t_best=7.3s
+[wc10_t20] rdp110 seed=5: M=10 D=1121.46 gap=0.0 TIE t_best=16.6s
+[wc10] rdp111 seed=5: M=10 D=1098.84 gap=0.0 TIE t_best=11.0s wall=60s
+[wc10_t10] rdp111 seed=5: M=10 D=1106.30 gap=0.0353 worse t_best=6.5s
+[wc10_t20] rdp111 seed=5: M=10 D=1098.84 gap=0.0 TIE t_best=11.0s
+[wc10] rdp112 seed=5: M=9 D=999.44 gap=0.0114 worse t_best=40.2s wall=60s
+[wc10_t10] rdp112 seed=5: M=9 D=1013.55 gap=0.0857 worse t_best=4.4s
+[wc10_t20] rdp112 seed=5: M=9 D=1000.52 gap=0.0171 worse t_best=15.8s
+[wc10] rdp201 seed=5: M=4 D=1252.37 gap=-0.0 TIE t_best=1.8s wall=60s
+[wc10_t10] rdp201 seed=5: M=4 D=1252.37 gap=-0.0 TIE t_best=1.8s
+[wc10_t20] rdp201 seed=5: M=4 D=1252.37 gap=-0.0 TIE t_best=1.8s
+[wc10] rdp202 seed=5: M=3 D=1191.70 gap=-0.0 TIE t_best=3.2s wall=60s
+[wc10_t10] rdp202 seed=5: M=3 D=1191.70 gap=-0.0 TIE t_best=3.2s
+[wc10_t20] rdp202 seed=5: M=3 D=1191.70 gap=-0.0 TIE t_best=3.2s
+[wc10] rdp203 seed=5: M=3 D=939.58 gap=0.0011 worse t_best=60.3s wall=60s
+[wc10_t10] rdp203 seed=5: M=3 D=942.00 gap=0.0359 worse t_best=8.8s
+[wc10_t20] rdp203 seed=5: M=3 D=941.08 gap=0.0228 worse t_best=17.4s
+[wc10] rdp204 seed=5: M=2 D=825.52 gap=0.0 TIE t_best=19.9s wall=60s
+[wc10_t10] rdp204 seed=5: M=2 D=833.09 gap=0.1569 worse t_best=8.2s
+[wc10_t20] rdp204 seed=5: M=2 D=825.52 gap=0.0 TIE t_best=19.9s
+[wc10] rdp205 seed=5: M=3 D=994.43 gap=-0.0 TIE t_best=8.8s wall=60s
+[wc10_t10] rdp205 seed=5: M=3 D=994.43 gap=-0.0 TIE t_best=8.8s
+[wc10_t20] rdp205 seed=5: M=3 D=994.43 gap=-0.0 TIE t_best=8.8s
+[wc10] rdp206 seed=5: M=3 D=906.14 gap=0.0 TIE t_best=14.5s wall=60s
+[wc10_t10] rdp206 seed=5: M=3 D=909.82 gap=0.0532 worse t_best=8.4s
+[wc10_t20] rdp206 seed=5: M=3 D=906.14 gap=0.0 TIE t_best=14.5s
+[wc10] rdp207 seed=5: M=2 D=890.61 gap=0.0 TIE t_best=12.5s wall=60s
+[wc10_t10] rdp207 seed=5: M=2 D=893.33 gap=0.0556 worse t_best=7.4s
+[wc10_t20] rdp207 seed=5: M=2 D=890.61 gap=0.0 TIE t_best=12.5s
+[wc10] rdp208 seed=5: M=2 D=726.82 gap=-0.0 TIE t_best=9.4s wall=60s
+[wc10_t10] rdp208 seed=5: M=2 D=726.82 gap=-0.0 TIE t_best=9.4s
+[wc10_t20] rdp208 seed=5: M=2 D=726.82 gap=-0.0 TIE t_best=9.4s
+[wc10] rdp209 seed=5: M=3 D=909.16 gap=0.0 TIE t_best=9.2s wall=60s
+[wc10_t10] rdp209 seed=5: M=3 D=909.16 gap=0.0 TIE t_best=9.2s
+[wc10_t20] rdp209 seed=5: M=3 D=909.16 gap=0.0 TIE t_best=9.2s
+[wc10] rdp210 seed=5: M=3 D=939.37 gap=0.0 TIE t_best=51.1s wall=60s
+[wc10_t10] rdp210 seed=5: M=3 D=939.37 gap=0.0 TIE t_best=4.0s
+[wc10_t20] rdp210 seed=5: M=3 D=939.37 gap=0.0 TIE t_best=4.0s
+[wc10] rdp211 seed=5: M=2 D=893.14 gap=0.1521 worse t_best=16.2s wall=60s
+[wc10_t10] rdp211 seed=5: M=2 D=898.06 gap=0.2528 worse t_best=2.6s
+[wc10_t20] rdp211 seed=5: M=2 D=893.14 gap=0.1521 worse t_best=16.2s
+[wc10] rcdp101 seed=5: M=14 D=1708.21 gap=-0.0 TIE t_best=1.6s wall=60s
+[wc10_t10] rcdp101 seed=5: M=14 D=1708.21 gap=-0.0 TIE t_best=1.6s
+[wc10_t20] rcdp101 seed=5: M=14 D=1708.21 gap=-0.0 TIE t_best=1.6s
+[wc10] rcdp102 seed=5: M=12 D=1570.28 gap=-0.0 TIE t_best=40.9s wall=60s
+[wc10_t10] rcdp102 seed=5: M=12 D=1570.28 gap=-0.0 TIE t_best=4.4s
+[wc10_t20] rcdp102 seed=5: M=12 D=1570.28 gap=-0.0 TIE t_best=4.4s
+[wc10] rcdp103 seed=5: M=11 D=1282.53 gap=-0.0 TIE t_best=6.2s wall=60s
+[wc10_t10] rcdp103 seed=5: M=11 D=1282.53 gap=-0.0 TIE t_best=6.2s
+[wc10_t20] rcdp103 seed=5: M=11 D=1282.53 gap=-0.0 TIE t_best=6.2s
+[wc10] rcdp104 seed=5: M=10 D=1171.37 gap=-0.0 TIE t_best=4.9s wall=60s
+[wc10_t10] rcdp104 seed=5: M=10 D=1171.37 gap=-0.0 TIE t_best=4.9s
+[wc10_t20] rcdp104 seed=5: M=10 D=1171.37 gap=-0.0 TIE t_best=4.9s
+[wc10] rcdp105 seed=5: M=13 D=1632.29 gap=0.0 TIE t_best=8.2s wall=60s
+[wc10_t10] rcdp105 seed=5: M=13 D=1632.29 gap=0.0 TIE t_best=8.2s
+[wc10_t20] rcdp105 seed=5: M=13 D=1632.29 gap=0.0 TIE t_best=8.2s
+[wc10] rcdp106 seed=5: M=12 D=1392.47 gap=0.0 TIE t_best=1.9s wall=60s
+[wc10_t10] rcdp106 seed=5: M=12 D=1392.47 gap=0.0 TIE t_best=1.9s
+[wc10_t20] rcdp106 seed=5: M=12 D=1392.47 gap=0.0 TIE t_best=1.9s
+[wc10] rcdp107 seed=5: M=11 D=1255.06 gap=0.0098 worse t_best=9.5s wall=60s
+[wc10_t10] rcdp107 seed=5: M=11 D=1255.06 gap=0.0098 worse t_best=9.5s
+[wc10_t20] rcdp107 seed=5: M=11 D=1255.06 gap=0.0098 worse t_best=9.5s
+[wc10] rcdp108 seed=5: M=10 D=1177.98 gap=0.0 TIE t_best=13.8s wall=60s
+[wc10_t10] rcdp108 seed=5: M=10 D=1178.59 gap=0.0028 worse t_best=7.5s
+[wc10_t20] rcdp108 seed=5: M=10 D=1177.98 gap=0.0 TIE t_best=13.8s
+[wc10] rcdp201 seed=5: M=4 D=1406.94 gap=-0.0 TIE t_best=2.4s wall=60s
+[wc10_t10] rcdp201 seed=5: M=4 D=1406.94 gap=-0.0 TIE t_best=2.4s
+[wc10_t20] rcdp201 seed=5: M=4 D=1406.94 gap=-0.0 TIE t_best=2.4s
+[wc10] rcdp202 seed=5: M=3 D=1365.65 gap=0.0 TIE t_best=2.7s wall=60s
+[wc10_t10] rcdp202 seed=5: M=3 D=1365.65 gap=0.0 TIE t_best=2.7s
+[wc10_t20] rcdp202 seed=5: M=3 D=1365.65 gap=0.0 TIE t_best=2.7s
+[wc10] rcdp203 seed=5: M=3 D=1049.62 gap=-0.0 TIE t_best=20.7s wall=60s
+[wc10_t10] rcdp203 seed=5: M=3 D=1050.48 gap=0.0121 worse t_best=8.3s
+[wc10_t20] rcdp203 seed=5: M=3 D=1050.45 gap=0.0117 worse t_best=16.5s
+[wc10] rcdp204 seed=5: M=3 D=798.46 gap=-0.0 TIE t_best=9.5s wall=60s
+[wc10_t10] rcdp204 seed=5: M=3 D=798.46 gap=-0.0 TIE t_best=9.5s
+[wc10_t20] rcdp204 seed=5: M=3 D=798.46 gap=-0.0 TIE t_best=9.5s
+[wc10] rcdp205 seed=5: M=4 D=1297.65 gap=0.0 TIE t_best=27.6s wall=60s
+[wc10_t10] rcdp205 seed=5: M=4 D=1297.65 gap=0.0 TIE t_best=4.1s
+[wc10_t20] rcdp205 seed=5: M=4 D=1297.65 gap=0.0 TIE t_best=4.1s
+[wc10] rcdp206 seed=5: M=3 D=1146.32 gap=0.0 TIE t_best=8.4s wall=60s
+[wc10_t10] rcdp206 seed=5: M=3 D=1146.32 gap=0.0 TIE t_best=8.4s
+[wc10_t20] rcdp206 seed=5: M=3 D=1146.32 gap=0.0 TIE t_best=8.4s
+[wc10] rcdp207 seed=5: M=3 D=1061.14 gap=0.0 TIE t_best=9.6s wall=60s
+[wc10_t10] rcdp207 seed=5: M=3 D=1061.14 gap=0.0 TIE t_best=9.6s
+[wc10_t20] rcdp207 seed=5: M=3 D=1061.14 gap=0.0 TIE t_best=9.6s
+[wc10] rcdp208 seed=5: M=3 D=828.14 gap=0.0 TIE t_best=10.4s wall=60s
+[wc10_t10] rcdp208 seed=5: M=3 D=830.06 gap=0.028 worse t_best=7.7s
+[wc10_t20] rcdp208 seed=5: M=3 D=828.14 gap=0.0 TIE t_best=10.4s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] rcdp0501 seed=6: M=3 D=220.15 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0504 seed=6: M=2 D=214.57 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0507 seed=6: M=2 D=211.83 gap=  t_best=0.0s wall=10s
+[wc10] rcdp1001 seed=6: M=3 D=348.98 gap=-0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp1004 seed=6: M=2 D=216.69 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp1007 seed=6: M=2 D=310.81 gap=0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp2501 seed=6: M=5 D=551.05 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp2504 seed=6: M=4 D=473.46 gap=-0.0 TIE t_best=0.2s wall=10s
+[wc10] rcdp2507 seed=6: M=5 D=540.87 gap=0.0 TIE t_best=0.2s wall=10s
+[wc10] rcdp5001 seed=6: M=9 D=994.18 gap=-0.0 TIE t_best=3.4s wall=10s
+[wc10] rcdp5004 seed=6: M=6 D=733.21 gap=0.0 TIE t_best=0.5s wall=10s
+[wc10] rcdp5007 seed=6: M=7 D=809.71 gap=-0.0 TIE t_best=0.4s wall=10s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] cdp101 seed=6: M=11 D=976.04 gap=0.0 TIE t_best=0.6s wall=60s
+[wc10_t10] cdp101 seed=6: M=11 D=976.04 gap=0.0 TIE t_best=0.6s
+[wc10_t20] cdp101 seed=6: M=11 D=976.04 gap=0.0 TIE t_best=0.6s
+[wc10] cdp102 seed=6: M=10 D=941.49 gap=0.0 TIE t_best=30.6s wall=60s
+[wc10_t10] cdp102 seed=6: M=10 D=941.49 gap=0.0 TIE t_best=1.3s
+[wc10_t20] cdp102 seed=6: M=10 D=941.49 gap=0.0 TIE t_best=1.3s
+[wc10] cdp103 seed=6: M=10 D=892.98 gap=-0.0 TIE t_best=8.7s wall=60s
+[wc10_t10] cdp103 seed=6: M=10 D=892.98 gap=-0.0 TIE t_best=8.7s
+[wc10_t20] cdp103 seed=6: M=10 D=892.98 gap=-0.0 TIE t_best=8.7s
+[wc10] cdp104 seed=6: M=10 D=871.40 gap=0.0 TIE t_best=3.2s wall=60s
+[wc10_t10] cdp104 seed=6: M=10 D=871.40 gap=0.0 TIE t_best=3.2s
+[wc10_t20] cdp104 seed=6: M=10 D=871.40 gap=0.0 TIE t_best=3.2s
+[wc10] cdp105 seed=6: M=10 D=1053.12 gap=0.0 TIE t_best=0.7s wall=60s
+[wc10_t10] cdp105 seed=6: M=10 D=1053.12 gap=0.0 TIE t_best=0.7s
+[wc10_t20] cdp105 seed=6: M=10 D=1053.12 gap=0.0 TIE t_best=0.7s
+[wc10] cdp106 seed=6: M=10 D=963.45 gap=-0.0 TIE t_best=49.8s wall=60s
+[wc10_t10] cdp106 seed=6: M=10 D=963.45 gap=-0.0 TIE t_best=0.4s
+[wc10_t20] cdp106 seed=6: M=10 D=963.45 gap=-0.0 TIE t_best=0.4s
+[wc10] cdp107 seed=6: M=10 D=987.64 gap=-0.0 TIE t_best=13.5s wall=60s
+[wc10_t10] cdp107 seed=6: M=10 D=987.64 gap=-0.0 TIE t_best=0.8s
+[wc10_t20] cdp107 seed=6: M=10 D=987.64 gap=-0.0 TIE t_best=13.5s
+[wc10] cdp108 seed=6: M=10 D=932.49 gap=0.0 TIE t_best=50.0s wall=60s
+[wc10_t10] cdp108 seed=6: M=10 D=932.49 gap=0.0 TIE t_best=0.5s
+[wc10_t20] cdp108 seed=6: M=10 D=932.49 gap=0.0 TIE t_best=0.5s
+[wc10] cdp109 seed=6: M=10 D=909.27 gap=0.0 TIE t_best=0.6s wall=60s
+[wc10_t10] cdp109 seed=6: M=10 D=909.27 gap=0.0 TIE t_best=0.6s
+[wc10_t20] cdp109 seed=6: M=10 D=909.27 gap=0.0 TIE t_best=0.6s
+[wc10] cdp201 seed=6: M=3 D=591.56 gap=-0.0 TIE t_best=0.3s wall=60s
+[wc10_t10] cdp201 seed=6: M=3 D=591.56 gap=-0.0 TIE t_best=0.3s
+[wc10_t20] cdp201 seed=6: M=3 D=591.56 gap=-0.0 TIE t_best=0.3s
+[wc10] cdp202 seed=6: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s wall=60s
+[wc10_t10] cdp202 seed=6: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10_t20] cdp202 seed=6: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10] cdp203 seed=6: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s wall=60s
+[wc10_t10] cdp203 seed=6: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s
+[wc10_t20] cdp203 seed=6: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s
+[wc10] cdp204 seed=6: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s wall=60s
+[wc10_t10] cdp204 seed=6: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10_t20] cdp204 seed=6: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10] cdp205 seed=6: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s wall=60s
+[wc10_t10] cdp205 seed=6: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s
+[wc10_t20] cdp205 seed=6: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s
+[wc10] cdp206 seed=6: M=3 D=588.49 gap=-0.0 TIE t_best=0.7s wall=60s
+[wc10_t10] cdp206 seed=6: M=3 D=588.49 gap=-0.0 TIE t_best=0.7s
+[wc10_t20] cdp206 seed=6: M=3 D=588.49 gap=-0.0 TIE t_best=0.7s
+[wc10] cdp207 seed=6: M=3 D=588.29 gap=0.0 TIE t_best=0.9s wall=60s
+[wc10_t10] cdp207 seed=6: M=3 D=588.29 gap=0.0 TIE t_best=0.9s
+[wc10_t20] cdp207 seed=6: M=3 D=588.29 gap=0.0 TIE t_best=0.9s
+[wc10] cdp208 seed=6: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s wall=60s
+[wc10_t10] cdp208 seed=6: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10_t20] cdp208 seed=6: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10] rdp101 seed=6: M=19 D=1650.80 gap=-0.0 TIE t_best=0.6s wall=60s
+[wc10_t10] rdp101 seed=6: M=19 D=1650.80 gap=-0.0 TIE t_best=0.6s
+[wc10_t20] rdp101 seed=6: M=19 D=1650.80 gap=-0.0 TIE t_best=0.6s
+[wc10] rdp102 seed=6: M=17 D=1486.12 gap=0.0 TIE t_best=29.5s wall=60s
+[wc10_t10] rdp102 seed=6: M=17 D=1486.12 gap=0.0 TIE t_best=1.9s
+[wc10_t20] rdp102 seed=6: M=17 D=1486.12 gap=0.0 TIE t_best=1.9s
+[wc10] rdp103 seed=6: M=13 D=1294.64 gap=0.0 TIE t_best=4.6s wall=60s
+[wc10_t10] rdp103 seed=6: M=13 D=1294.64 gap=0.0 TIE t_best=4.6s
+[wc10_t20] rdp103 seed=6: M=13 D=1294.64 gap=0.0 TIE t_best=4.6s
+[wc10] rdp104 seed=6: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=9.0s wall=60s
+[wc10_t10] rdp104 seed=6: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=9.0s
+[wc10_t20] rdp104 seed=6: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=9.0s
+[wc10] rdp105 seed=6: M=14 D=1377.11 gap=-0.0 TIE t_best=28.1s wall=60s
+[wc10_t10] rdp105 seed=6: M=14 D=1377.11 gap=-0.0 TIE t_best=0.9s
+[wc10_t20] rdp105 seed=6: M=14 D=1377.11 gap=-0.0 TIE t_best=10.1s
+[wc10] rdp106 seed=6: M=12 D=1252.03 gap=-0.0 TIE t_best=18.5s wall=60s
+[wc10_t10] rdp106 seed=6: M=12 D=1252.03 gap=-0.0 TIE t_best=0.8s
+[wc10_t20] rdp106 seed=6: M=12 D=1252.03 gap=-0.0 TIE t_best=18.5s
+[wc10] rdp107 seed=6: M=10 D=1112.55 gap=0.0 TIE t_best=9.1s wall=60s
+[wc10_t10] rdp107 seed=6: M=10 D=1112.55 gap=0.0 TIE t_best=9.1s
+[wc10_t20] rdp107 seed=6: M=10 D=1112.55 gap=0.0 TIE t_best=9.1s
+[wc10] rdp108 seed=6: M=9 D=965.22 gap=-0.0 TIE t_best=43.5s wall=60s
+[wc10_t10] rdp108 seed=6: M=9 D=965.22 gap=-0.0 TIE t_best=9.7s
+[wc10_t20] rdp108 seed=6: M=9 D=965.22 gap=-0.0 TIE t_best=9.7s
+[wc10] rdp109 seed=6: M=11 D=1194.73 gap=-0.0 TIE t_best=3.4s wall=60s
+[wc10_t10] rdp109 seed=6: M=11 D=1194.73 gap=-0.0 TIE t_best=3.4s
+[wc10_t20] rdp109 seed=6: M=11 D=1194.73 gap=-0.0 TIE t_best=3.4s
+[wc10] rdp110 seed=6: M=10 D=1121.46 gap=0.0 TIE t_best=40.3s wall=60s
+[wc10_t10] rdp110 seed=6: M=10 D=1123.92 gap=0.0116 worse t_best=6.2s
+[wc10_t20] rdp110 seed=6: M=10 D=1123.92 gap=0.0116 worse t_best=6.2s
+[wc10] rdp111 seed=6: M=10 D=1098.84 gap=0.0 TIE t_best=8.7s wall=60s
+[wc10_t10] rdp111 seed=6: M=10 D=1098.84 gap=0.0 TIE t_best=8.7s
+[wc10_t20] rdp111 seed=6: M=10 D=1098.84 gap=0.0 TIE t_best=8.7s
+[wc10] rdp112 seed=6: M=9 D=999.44 gap=0.0114 worse t_best=25.7s wall=60s
+[wc10_t10] rdp112 seed=6: M=9 D=1003.35 gap=0.032 worse t_best=8.5s
+[wc10_t20] rdp112 seed=6: M=9 D=1000.52 gap=0.0171 worse t_best=18.6s
+[wc10] rdp201 seed=6: M=4 D=1252.37 gap=-0.0 TIE t_best=3.8s wall=60s
+[wc10_t10] rdp201 seed=6: M=4 D=1252.37 gap=-0.0 TIE t_best=3.8s
+[wc10_t20] rdp201 seed=6: M=4 D=1252.37 gap=-0.0 TIE t_best=3.8s
+[wc10] rdp202 seed=6: M=3 D=1191.70 gap=-0.0 TIE t_best=3.1s wall=60s
+[wc10_t10] rdp202 seed=6: M=3 D=1191.70 gap=-0.0 TIE t_best=3.1s
+[wc10_t20] rdp202 seed=6: M=3 D=1191.70 gap=-0.0 TIE t_best=3.1s
+[wc10] rdp203 seed=6: M=3 D=939.50 gap=-0.0 TIE t_best=6.5s wall=60s
+[wc10_t10] rdp203 seed=6: M=3 D=939.50 gap=-0.0 TIE t_best=6.5s
+[wc10_t20] rdp203 seed=6: M=3 D=939.50 gap=-0.0 TIE t_best=6.5s
+[wc10] rdp204 seed=6: M=2 D=825.52 gap=0.0 TIE t_best=14.0s wall=60s
+[wc10_t10] rdp204 seed=6: M=2 D=830.08 gap=0.0944 worse t_best=8.2s
+[wc10_t20] rdp204 seed=6: M=2 D=825.52 gap=0.0 TIE t_best=14.0s
+[wc10] rdp205 seed=6: M=3 D=994.43 gap=-0.0 TIE t_best=6.0s wall=60s
+[wc10_t10] rdp205 seed=6: M=3 D=994.43 gap=-0.0 TIE t_best=6.0s
+[wc10_t20] rdp205 seed=6: M=3 D=994.43 gap=-0.0 TIE t_best=6.0s
+[wc10] rdp206 seed=6: M=3 D=906.14 gap=0.0 TIE t_best=20.2s wall=60s
+[wc10_t10] rdp206 seed=6: M=3 D=913.28 gap=0.1034 worse t_best=6.2s
+[wc10_t20] rdp206 seed=6: M=3 D=906.54 gap=0.0057 worse t_best=18.3s
+[wc10] rdp207 seed=6: M=2 D=890.61 gap=0.0 TIE t_best=15.0s wall=60s
+[wc10_t10] rdp207 seed=6: M=2 D=893.66 gap=0.0624 worse t_best=9.9s
+[wc10_t20] rdp207 seed=6: M=2 D=890.61 gap=0.0 TIE t_best=15.0s
+[wc10] rdp208 seed=6: M=2 D=726.82 gap=-0.0 TIE t_best=9.4s wall=60s
+[wc10_t10] rdp208 seed=6: M=2 D=726.82 gap=-0.0 TIE t_best=9.4s
+[wc10_t20] rdp208 seed=6: M=2 D=726.82 gap=-0.0 TIE t_best=9.4s
+[wc10] rdp209 seed=6: M=3 D=909.16 gap=0.0 TIE t_best=16.4s wall=60s
+[wc10_t10] rdp209 seed=6: M=3 D=909.70 gap=0.0078 worse t_best=7.3s
+[wc10_t20] rdp209 seed=6: M=3 D=909.16 gap=0.0 TIE t_best=16.4s
+[wc10] rdp210 seed=6: M=3 D=939.37 gap=0.0 TIE t_best=50.6s wall=60s
+[wc10_t10] rdp210 seed=6: M=3 D=939.37 gap=0.0 TIE t_best=6.0s
+[wc10_t20] rdp210 seed=6: M=3 D=939.37 gap=0.0 TIE t_best=6.0s
+[wc10] rdp211 seed=6: M=2 D=898.15 gap=0.2546 worse t_best=16.2s wall=60s
+[wc10_t10] rdp211 seed=6: M=2 D=917.42 gap=0.649 worse t_best=8.0s
+[wc10_t20] rdp211 seed=6: M=2 D=898.15 gap=0.2546 worse t_best=16.2s
+[wc10] rcdp101 seed=6: M=14 D=1708.21 gap=-0.0 TIE t_best=25.2s wall=60s
+[wc10_t10] rcdp101 seed=6: M=14 D=1708.21 gap=-0.0 TIE t_best=1.6s
+[wc10_t20] rcdp101 seed=6: M=14 D=1708.21 gap=-0.0 TIE t_best=1.6s
+[wc10] rcdp102 seed=6: M=12 D=1570.28 gap=-0.0 TIE t_best=40.2s wall=60s
+[wc10_t10] rcdp102 seed=6: M=12 D=1570.28 gap=-0.0 TIE t_best=2.9s
+[wc10_t20] rcdp102 seed=6: M=12 D=1570.28 gap=-0.0 TIE t_best=2.9s
+[wc10] rcdp103 seed=6: M=11 D=1282.53 gap=-0.0 TIE t_best=28.8s wall=60s
+[wc10_t10] rcdp103 seed=6: M=11 D=1282.53 gap=-0.0 TIE t_best=4.1s
+[wc10_t20] rcdp103 seed=6: M=11 D=1282.53 gap=-0.0 TIE t_best=4.1s
+[wc10] rcdp104 seed=6: M=10 D=1171.37 gap=-0.0 TIE t_best=3.5s wall=60s
+[wc10_t10] rcdp104 seed=6: M=10 D=1171.37 gap=-0.0 TIE t_best=3.5s
+[wc10_t20] rcdp104 seed=6: M=10 D=1171.37 gap=-0.0 TIE t_best=3.5s
+[wc10] rcdp105 seed=6: M=13 D=1632.29 gap=0.0 TIE t_best=10.7s wall=60s
+[wc10_t10] rcdp105 seed=6: M=13 D=1643.84 gap=0.0418 worse t_best=6.9s
+[wc10_t20] rcdp105 seed=6: M=13 D=1632.29 gap=0.0 TIE t_best=10.7s
+[wc10] rcdp106 seed=6: M=12 D=1392.47 gap=0.0 TIE t_best=17.6s wall=60s
+[wc10_t10] rcdp106 seed=6: M=12 D=1392.47 gap=0.0 TIE t_best=2.0s
+[wc10_t20] rcdp106 seed=6: M=12 D=1392.47 gap=0.0 TIE t_best=17.6s
+[wc10] rcdp107 seed=6: M=11 D=1252.79 gap=-0.0 TIE t_best=14.8s wall=60s
+[wc10_t10] rcdp107 seed=6: M=11 D=1253.45 gap=0.0028 worse t_best=8.4s
+[wc10_t20] rcdp107 seed=6: M=11 D=1252.79 gap=-0.0 TIE t_best=14.8s
+[wc10] rcdp108 seed=6: M=10 D=1177.98 gap=0.0 TIE t_best=8.8s wall=60s
+[wc10_t10] rcdp108 seed=6: M=10 D=1177.98 gap=0.0 TIE t_best=8.8s
+[wc10_t20] rcdp108 seed=6: M=10 D=1177.98 gap=0.0 TIE t_best=8.8s
+[wc10] rcdp201 seed=6: M=4 D=1406.94 gap=-0.0 TIE t_best=16.5s wall=60s
+[wc10_t10] rcdp201 seed=6: M=4 D=1406.94 gap=-0.0 TIE t_best=2.9s
+[wc10_t20] rcdp201 seed=6: M=4 D=1406.94 gap=-0.0 TIE t_best=16.5s
+[wc10] rcdp202 seed=6: M=3 D=1365.65 gap=0.0 TIE t_best=5.4s wall=60s
+[wc10_t10] rcdp202 seed=6: M=3 D=1365.65 gap=0.0 TIE t_best=5.4s
+[wc10_t20] rcdp202 seed=6: M=3 D=1365.65 gap=0.0 TIE t_best=5.4s
+[wc10] rcdp203 seed=6: M=3 D=1049.62 gap=-0.0 TIE t_best=14.3s wall=60s
+[wc10_t10] rcdp203 seed=6: M=3 D=1050.45 gap=0.0117 worse t_best=8.2s
+[wc10_t20] rcdp203 seed=6: M=3 D=1049.62 gap=-0.0 TIE t_best=14.3s
+[wc10] rcdp204 seed=6: M=3 D=798.46 gap=-0.0 TIE t_best=14.1s wall=60s
+[wc10_t10] rcdp204 seed=6: M=3 D=798.56 gap=0.0015 worse t_best=9.4s
+[wc10_t20] rcdp204 seed=6: M=3 D=798.46 gap=-0.0 TIE t_best=14.1s
+[wc10] rcdp205 seed=6: M=4 D=1297.65 gap=0.0 TIE t_best=2.0s wall=60s
+[wc10_t10] rcdp205 seed=6: M=4 D=1297.65 gap=0.0 TIE t_best=2.0s
+[wc10_t20] rcdp205 seed=6: M=4 D=1297.65 gap=0.0 TIE t_best=2.0s
+[wc10] rcdp206 seed=6: M=3 D=1146.32 gap=0.0 TIE t_best=9.7s wall=60s
+[wc10_t10] rcdp206 seed=6: M=3 D=1146.32 gap=0.0 TIE t_best=9.7s
+[wc10_t20] rcdp206 seed=6: M=3 D=1146.32 gap=0.0 TIE t_best=9.7s
+[wc10] rcdp207 seed=6: M=3 D=1061.14 gap=0.0 TIE t_best=11.5s wall=60s
+[wc10_t10] rcdp207 seed=6: M=3 D=1062.05 gap=0.0128 worse t_best=7.6s
+[wc10_t20] rcdp207 seed=6: M=3 D=1061.14 gap=0.0 TIE t_best=11.5s
+[wc10] rcdp208 seed=6: M=3 D=828.71 gap=0.0083 worse t_best=25.5s wall=60s
+[wc10_t10] rcdp208 seed=6: M=3 D=829.69 gap=0.0227 worse t_best=7.7s
+[wc10_t20] rcdp208 seed=6: M=3 D=829.69 gap=0.0227 worse t_best=7.7s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] rcdp0501 seed=7: M=3 D=220.15 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0504 seed=7: M=2 D=214.57 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0507 seed=7: M=2 D=211.83 gap=  t_best=0.0s wall=10s
+[wc10] rcdp1001 seed=7: M=3 D=348.98 gap=-0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp1004 seed=7: M=2 D=216.69 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp1007 seed=7: M=2 D=310.81 gap=0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp2501 seed=7: M=5 D=551.05 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp2504 seed=7: M=4 D=473.46 gap=-0.0 TIE t_best=0.2s wall=10s
+[wc10] rcdp2507 seed=7: M=5 D=540.87 gap=0.0 TIE t_best=0.2s wall=10s
+[wc10] rcdp5001 seed=7: M=9 D=994.18 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp5004 seed=7: M=6 D=733.21 gap=0.0 TIE t_best=0.5s wall=10s
+[wc10] rcdp5007 seed=7: M=7 D=809.71 gap=-0.0 TIE t_best=0.4s wall=10s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] cdp101 seed=7: M=11 D=976.04 gap=0.0 TIE t_best=6.4s wall=60s
+[wc10_t10] cdp101 seed=7: M=11 D=976.04 gap=0.0 TIE t_best=6.4s
+[wc10_t20] cdp101 seed=7: M=11 D=976.04 gap=0.0 TIE t_best=6.4s
+[wc10] cdp102 seed=7: M=10 D=941.49 gap=0.0 TIE t_best=29.7s wall=60s
+[wc10_t10] cdp102 seed=7: M=10 D=941.49 gap=0.0 TIE t_best=1.3s
+[wc10_t20] cdp102 seed=7: M=10 D=941.49 gap=0.0 TIE t_best=1.3s
+[wc10] cdp103 seed=7: M=10 D=892.98 gap=-0.0 TIE t_best=3.9s wall=60s
+[wc10_t10] cdp103 seed=7: M=10 D=892.98 gap=-0.0 TIE t_best=3.9s
+[wc10_t20] cdp103 seed=7: M=10 D=892.98 gap=-0.0 TIE t_best=3.9s
+[wc10] cdp104 seed=7: M=10 D=871.40 gap=0.0 TIE t_best=53.9s wall=60s
+[wc10_t10] cdp104 seed=7: M=10 D=871.40 gap=0.0 TIE t_best=3.2s
+[wc10_t20] cdp104 seed=7: M=10 D=871.40 gap=0.0 TIE t_best=3.2s
+[wc10] cdp105 seed=7: M=10 D=1053.12 gap=0.0 TIE t_best=0.4s wall=60s
+[wc10_t10] cdp105 seed=7: M=10 D=1053.12 gap=0.0 TIE t_best=0.4s
+[wc10_t20] cdp105 seed=7: M=10 D=1053.12 gap=0.0 TIE t_best=0.4s
+[wc10] cdp106 seed=7: M=10 D=963.45 gap=-0.0 TIE t_best=0.8s wall=60s
+[wc10_t10] cdp106 seed=7: M=10 D=963.45 gap=-0.0 TIE t_best=0.8s
+[wc10_t20] cdp106 seed=7: M=10 D=963.45 gap=-0.0 TIE t_best=0.8s
+[wc10] cdp107 seed=7: M=10 D=987.64 gap=-0.0 TIE t_best=0.8s wall=60s
+[wc10_t10] cdp107 seed=7: M=10 D=987.64 gap=-0.0 TIE t_best=0.8s
+[wc10_t20] cdp107 seed=7: M=10 D=987.64 gap=-0.0 TIE t_best=0.8s
+[wc10] cdp108 seed=7: M=10 D=932.49 gap=0.0 TIE t_best=0.5s wall=60s
+[wc10_t10] cdp108 seed=7: M=10 D=932.49 gap=0.0 TIE t_best=0.5s
+[wc10_t20] cdp108 seed=7: M=10 D=932.49 gap=0.0 TIE t_best=0.5s
+[wc10] cdp109 seed=7: M=10 D=909.27 gap=0.0 TIE t_best=14.5s wall=60s
+[wc10_t10] cdp109 seed=7: M=10 D=909.27 gap=0.0 TIE t_best=1.2s
+[wc10_t20] cdp109 seed=7: M=10 D=909.27 gap=0.0 TIE t_best=14.5s
+[wc10] cdp201 seed=7: M=3 D=591.56 gap=-0.0 TIE t_best=5.9s wall=60s
+[wc10_t10] cdp201 seed=7: M=3 D=591.56 gap=-0.0 TIE t_best=5.9s
+[wc10_t20] cdp201 seed=7: M=3 D=591.56 gap=-0.0 TIE t_best=5.9s
+[wc10] cdp202 seed=7: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s wall=60s
+[wc10_t10] cdp202 seed=7: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10_t20] cdp202 seed=7: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10] cdp203 seed=7: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s wall=60s
+[wc10_t10] cdp203 seed=7: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s
+[wc10_t20] cdp203 seed=7: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s
+[wc10] cdp204 seed=7: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s wall=60s
+[wc10_t10] cdp204 seed=7: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10_t20] cdp204 seed=7: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10] cdp205 seed=7: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s wall=60s
+[wc10_t10] cdp205 seed=7: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s
+[wc10_t20] cdp205 seed=7: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s
+[wc10] cdp206 seed=7: M=3 D=588.49 gap=-0.0 TIE t_best=0.7s wall=60s
+[wc10_t10] cdp206 seed=7: M=3 D=588.49 gap=-0.0 TIE t_best=0.7s
+[wc10_t20] cdp206 seed=7: M=3 D=588.49 gap=-0.0 TIE t_best=0.7s
+[wc10] cdp207 seed=7: M=3 D=588.29 gap=0.0 TIE t_best=0.9s wall=60s
+[wc10_t10] cdp207 seed=7: M=3 D=588.29 gap=0.0 TIE t_best=0.9s
+[wc10_t20] cdp207 seed=7: M=3 D=588.29 gap=0.0 TIE t_best=0.9s
+[wc10] cdp208 seed=7: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s wall=60s
+[wc10_t10] cdp208 seed=7: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10_t20] cdp208 seed=7: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10] rdp101 seed=7: M=19 D=1650.80 gap=-0.0 TIE t_best=7.0s wall=60s
+[wc10_t10] rdp101 seed=7: M=19 D=1650.80 gap=-0.0 TIE t_best=7.0s
+[wc10_t20] rdp101 seed=7: M=19 D=1650.80 gap=-0.0 TIE t_best=7.0s
+[wc10] rdp102 seed=7: M=17 D=1486.12 gap=0.0 TIE t_best=1.8s wall=60s
+[wc10_t10] rdp102 seed=7: M=17 D=1486.12 gap=0.0 TIE t_best=1.8s
+[wc10_t20] rdp102 seed=7: M=17 D=1486.12 gap=0.0 TIE t_best=1.8s
+[wc10] rdp103 seed=7: M=13 D=1294.64 gap=0.0 TIE t_best=39.2s wall=60s
+[wc10_t10] rdp103 seed=7: M=13 D=1294.64 gap=0.0 TIE t_best=4.5s
+[wc10_t20] rdp103 seed=7: M=13 D=1294.64 gap=0.0 TIE t_best=4.5s
+[wc10] rdp104 seed=7: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=45.3s wall=60s
+[wc10_t10] rdp104 seed=7: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=9.1s
+[wc10_t20] rdp104 seed=7: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=9.1s
+[wc10] rdp105 seed=7: M=14 D=1377.11 gap=-0.0 TIE t_best=0.4s wall=60s
+[wc10_t10] rdp105 seed=7: M=14 D=1377.11 gap=-0.0 TIE t_best=0.4s
+[wc10_t20] rdp105 seed=7: M=14 D=1377.11 gap=-0.0 TIE t_best=0.4s
+[wc10] rdp106 seed=7: M=12 D=1252.03 gap=-0.0 TIE t_best=1.6s wall=60s
+[wc10_t10] rdp106 seed=7: M=12 D=1252.03 gap=-0.0 TIE t_best=1.6s
+[wc10_t20] rdp106 seed=7: M=12 D=1252.03 gap=-0.0 TIE t_best=1.6s
+[wc10] rdp107 seed=7: M=10 D=1112.55 gap=0.0 TIE t_best=25.4s wall=60s
+[wc10_t10] rdp107 seed=7: M=10 D=1115.30 gap=0.013 worse t_best=8.0s
+[wc10_t20] rdp107 seed=7: M=10 D=1112.71 gap=0.0007 worse t_best=18.5s
+[wc10] rdp108 seed=7: M=9 D=965.22 gap=-0.0 TIE t_best=12.5s wall=60s
+[wc10_t10] rdp108 seed=7: M=9 D=965.30 gap=0.0005 worse t_best=9.7s
+[wc10_t20] rdp108 seed=7: M=9 D=965.22 gap=-0.0 TIE t_best=12.5s
+[wc10] rdp109 seed=7: M=11 D=1194.73 gap=-0.0 TIE t_best=3.4s wall=60s
+[wc10_t10] rdp109 seed=7: M=11 D=1194.73 gap=-0.0 TIE t_best=3.4s
+[wc10_t20] rdp109 seed=7: M=11 D=1194.73 gap=-0.0 TIE t_best=3.4s
+[wc10] rdp110 seed=7: M=10 D=1121.46 gap=0.0 TIE t_best=17.6s wall=60s
+[wc10_t10] rdp110 seed=7: M=10 D=1126.25 gap=0.0227 worse t_best=9.4s
+[wc10_t20] rdp110 seed=7: M=10 D=1121.46 gap=0.0 TIE t_best=17.6s
+[wc10] rdp111 seed=7: M=10 D=1098.84 gap=0.0 TIE t_best=8.7s wall=60s
+[wc10_t10] rdp111 seed=7: M=10 D=1098.84 gap=0.0 TIE t_best=8.7s
+[wc10_t20] rdp111 seed=7: M=10 D=1098.84 gap=0.0 TIE t_best=8.7s
+[wc10] rdp112 seed=7: M=9 D=999.44 gap=0.0114 worse t_best=14.4s wall=60s
+[wc10_t10] rdp112 seed=7: M=9 D=1000.52 gap=0.0171 worse t_best=8.7s
+[wc10_t20] rdp112 seed=7: M=9 D=999.44 gap=0.0114 worse t_best=14.4s
+[wc10] rdp201 seed=7: M=4 D=1252.37 gap=-0.0 TIE t_best=2.4s wall=60s
+[wc10_t10] rdp201 seed=7: M=4 D=1252.37 gap=-0.0 TIE t_best=2.4s
+[wc10_t20] rdp201 seed=7: M=4 D=1252.37 gap=-0.0 TIE t_best=2.4s
+[wc10] rdp202 seed=7: M=3 D=1191.70 gap=-0.0 TIE t_best=4.9s wall=60s
+[wc10_t10] rdp202 seed=7: M=3 D=1191.70 gap=-0.0 TIE t_best=4.9s
+[wc10_t20] rdp202 seed=7: M=3 D=1191.70 gap=-0.0 TIE t_best=4.9s
+[wc10] rdp203 seed=7: M=3 D=939.50 gap=-0.0 TIE t_best=17.3s wall=60s
+[wc10_t10] rdp203 seed=7: M=3 D=939.72 gap=0.0032 worse t_best=6.5s
+[wc10_t20] rdp203 seed=7: M=3 D=939.50 gap=-0.0 TIE t_best=17.3s
+[wc10] rdp204 seed=7: M=2 D=825.52 gap=0.0 TIE t_best=31.6s wall=60s
+[wc10_t10] rdp204 seed=7: M=2 D=833.65 gap=0.1685 worse t_best=8.1s
+[wc10_t20] rdp204 seed=7: M=2 D=831.59 gap=0.1257 worse t_best=19.9s
+[wc10] rdp205 seed=7: M=3 D=994.43 gap=-0.0 TIE t_best=12.6s wall=60s
+[wc10_t10] rdp205 seed=7: M=3 D=1001.93 gap=0.1073 worse t_best=7.4s
+[wc10_t20] rdp205 seed=7: M=3 D=994.43 gap=-0.0 TIE t_best=12.6s
+[wc10] rdp206 seed=7: M=3 D=906.14 gap=0.0 TIE t_best=28.3s wall=60s
+[wc10_t10] rdp206 seed=7: M=3 D=909.82 gap=0.0532 worse t_best=8.4s
+[wc10_t20] rdp206 seed=7: M=3 D=909.82 gap=0.0532 worse t_best=8.4s
+[wc10] rdp207 seed=7: M=2 D=890.61 gap=0.0 TIE t_best=9.9s wall=60s
+[wc10_t10] rdp207 seed=7: M=2 D=890.61 gap=0.0 TIE t_best=9.9s
+[wc10_t20] rdp207 seed=7: M=2 D=890.61 gap=0.0 TIE t_best=9.9s
+[wc10] rdp208 seed=7: M=2 D=726.82 gap=-0.0 TIE t_best=9.4s wall=61s
+[wc10_t10] rdp208 seed=7: M=2 D=726.82 gap=-0.0 TIE t_best=9.4s
+[wc10_t20] rdp208 seed=7: M=2 D=726.82 gap=-0.0 TIE t_best=9.4s
+[wc10] rdp209 seed=7: M=3 D=909.16 gap=0.0 TIE t_best=18.4s wall=62s
+[wc10_t10] rdp209 seed=7: M=3 D=909.66 gap=0.0071 worse t_best=7.3s
+[wc10_t20] rdp209 seed=7: M=3 D=909.16 gap=0.0 TIE t_best=18.4s
+[wc10] rdp210 seed=7: M=3 D=939.37 gap=0.0 TIE t_best=4.0s wall=60s
+[wc10_t10] rdp210 seed=7: M=3 D=939.37 gap=0.0 TIE t_best=4.0s
+[wc10_t20] rdp210 seed=7: M=3 D=939.37 gap=0.0 TIE t_best=4.0s
+[wc10] rdp211 seed=7: M=2 D=898.15 gap=0.2546 worse t_best=35.1s wall=60s
+[wc10_t10] rdp211 seed=7: M=2 D=920.23 gap=0.7066 worse t_best=5.4s
+[wc10_t20] rdp211 seed=7: M=2 D=901.58 gap=0.3248 worse t_best=16.2s
+[wc10] rcdp101 seed=7: M=14 D=1708.21 gap=-0.0 TIE t_best=1.2s wall=60s
+[wc10_t10] rcdp101 seed=7: M=14 D=1708.21 gap=-0.0 TIE t_best=1.2s
+[wc10_t20] rcdp101 seed=7: M=14 D=1708.21 gap=-0.0 TIE t_best=1.2s
+[wc10] rcdp102 seed=7: M=12 D=1570.28 gap=-0.0 TIE t_best=1.5s wall=60s
+[wc10_t10] rcdp102 seed=7: M=12 D=1570.28 gap=-0.0 TIE t_best=1.5s
+[wc10_t20] rcdp102 seed=7: M=12 D=1570.28 gap=-0.0 TIE t_best=1.5s
+[wc10] rcdp103 seed=7: M=11 D=1282.53 gap=-0.0 TIE t_best=6.3s wall=60s
+[wc10_t10] rcdp103 seed=7: M=11 D=1282.53 gap=-0.0 TIE t_best=6.3s
+[wc10_t20] rcdp103 seed=7: M=11 D=1282.53 gap=-0.0 TIE t_best=6.3s
+[wc10] rcdp104 seed=7: M=10 D=1171.37 gap=-0.0 TIE t_best=2.4s wall=60s
+[wc10_t10] rcdp104 seed=7: M=10 D=1171.37 gap=-0.0 TIE t_best=2.4s
+[wc10_t20] rcdp104 seed=7: M=10 D=1171.37 gap=-0.0 TIE t_best=2.4s
+[wc10] rcdp105 seed=7: M=13 D=1632.29 gap=0.0 TIE t_best=9.6s wall=60s
+[wc10_t10] rcdp105 seed=7: M=13 D=1632.29 gap=0.0 TIE t_best=9.6s
+[wc10_t20] rcdp105 seed=7: M=13 D=1632.29 gap=0.0 TIE t_best=9.6s
+[wc10] rcdp106 seed=7: M=12 D=1392.47 gap=0.0 TIE t_best=17.6s wall=60s
+[wc10_t10] rcdp106 seed=7: M=12 D=1392.47 gap=0.0 TIE t_best=2.0s
+[wc10_t20] rcdp106 seed=7: M=12 D=1392.47 gap=0.0 TIE t_best=17.6s
+[wc10] rcdp107 seed=7: M=11 D=1255.06 gap=0.0098 worse t_best=12.7s wall=60s
+[wc10_t10] rcdp107 seed=7: M=11 D=1255.95 gap=0.0136 worse t_best=4.2s
+[wc10_t20] rcdp107 seed=7: M=11 D=1255.06 gap=0.0098 worse t_best=12.7s
+[wc10] rcdp108 seed=7: M=10 D=1177.98 gap=0.0 TIE t_best=10.0s wall=60s
+[wc10_t10] rcdp108 seed=7: M=10 D=1180.95 gap=0.014 worse t_best=8.8s
+[wc10_t20] rcdp108 seed=7: M=10 D=1177.98 gap=0.0 TIE t_best=10.0s
+[wc10] rcdp201 seed=7: M=4 D=1406.94 gap=-0.0 TIE t_best=15.5s wall=60s
+[wc10_t10] rcdp201 seed=7: M=4 D=1406.94 gap=-0.0 TIE t_best=1.8s
+[wc10_t20] rcdp201 seed=7: M=4 D=1406.94 gap=-0.0 TIE t_best=15.5s
+[wc10] rcdp202 seed=7: M=3 D=1365.65 gap=0.0 TIE t_best=5.5s wall=60s
+[wc10_t10] rcdp202 seed=7: M=3 D=1365.65 gap=0.0 TIE t_best=5.5s
+[wc10_t20] rcdp202 seed=7: M=3 D=1365.65 gap=0.0 TIE t_best=5.5s
+[wc10] rcdp203 seed=7: M=3 D=1050.45 gap=0.0117 worse t_best=10.3s wall=60s
+[wc10_t10] rcdp203 seed=7: M=3 D=1050.64 gap=0.0143 worse t_best=4.1s
+[wc10_t20] rcdp203 seed=7: M=3 D=1050.45 gap=0.0117 worse t_best=10.3s
+[wc10] rcdp204 seed=7: M=3 D=798.46 gap=-0.0 TIE t_best=18.9s wall=60s
+[wc10_t10] rcdp204 seed=7: M=3 D=799.16 gap=0.0102 worse t_best=4.7s
+[wc10_t20] rcdp204 seed=7: M=3 D=798.46 gap=-0.0 TIE t_best=18.9s
+[wc10] rcdp205 seed=7: M=4 D=1297.65 gap=0.0 TIE t_best=49.5s wall=60s
+[wc10_t10] rcdp205 seed=7: M=4 D=1297.65 gap=0.0 TIE t_best=3.0s
+[wc10_t20] rcdp205 seed=7: M=4 D=1297.65 gap=0.0 TIE t_best=3.0s
+[wc10] rcdp206 seed=7: M=3 D=1146.32 gap=0.0 TIE t_best=10.7s wall=60s
+[wc10_t10] rcdp206 seed=7: M=3 D=1153.69 gap=0.1031 worse t_best=9.5s
+[wc10_t20] rcdp206 seed=7: M=3 D=1146.32 gap=0.0 TIE t_best=10.7s
+[wc10] rcdp207 seed=7: M=3 D=1061.14 gap=0.0 TIE t_best=9.5s wall=60s
+[wc10_t10] rcdp207 seed=7: M=3 D=1061.14 gap=0.0 TIE t_best=9.5s
+[wc10_t20] rcdp207 seed=7: M=3 D=1061.14 gap=0.0 TIE t_best=9.5s
+[wc10] rcdp208 seed=7: M=3 D=828.71 gap=0.0083 worse t_best=5.2s wall=60s
+[wc10_t10] rcdp208 seed=7: M=3 D=828.71 gap=0.0083 worse t_best=5.2s
+[wc10_t20] rcdp208 seed=7: M=3 D=828.71 gap=0.0083 worse t_best=5.2s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] rcdp0501 seed=8: M=3 D=220.15 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0504 seed=8: M=2 D=214.57 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0507 seed=8: M=2 D=211.83 gap=  t_best=0.0s wall=10s
+[wc10] rcdp1001 seed=8: M=3 D=348.98 gap=-0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp1004 seed=8: M=2 D=216.69 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp1007 seed=8: M=2 D=310.81 gap=0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp2501 seed=8: M=5 D=551.05 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp2504 seed=8: M=4 D=473.46 gap=-0.0 TIE t_best=0.2s wall=10s
+[wc10] rcdp2507 seed=8: M=5 D=540.87 gap=0.0 TIE t_best=0.2s wall=10s
+[wc10] rcdp5001 seed=8: M=9 D=994.18 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp5004 seed=8: M=6 D=733.21 gap=0.0 TIE t_best=0.5s wall=10s
+[wc10] rcdp5007 seed=8: M=7 D=809.71 gap=-0.0 TIE t_best=0.4s wall=10s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] cdp101 seed=8: M=11 D=976.04 gap=0.0 TIE t_best=6.1s wall=60s
+[wc10_t10] cdp101 seed=8: M=11 D=976.04 gap=0.0 TIE t_best=6.1s
+[wc10_t20] cdp101 seed=8: M=11 D=976.04 gap=0.0 TIE t_best=6.1s
+[wc10] cdp102 seed=8: M=10 D=941.49 gap=0.0 TIE t_best=59.7s wall=60s
+[wc10_t10] cdp102 seed=8: M=10 D=941.49 gap=0.0 TIE t_best=1.3s
+[wc10_t20] cdp102 seed=8: M=10 D=941.49 gap=0.0 TIE t_best=1.3s
+[wc10] cdp103 seed=8: M=10 D=892.98 gap=-0.0 TIE t_best=2.9s wall=60s
+[wc10_t10] cdp103 seed=8: M=10 D=892.98 gap=-0.0 TIE t_best=2.9s
+[wc10_t20] cdp103 seed=8: M=10 D=892.98 gap=-0.0 TIE t_best=2.9s
+[wc10] cdp104 seed=8: M=10 D=871.40 gap=0.0 TIE t_best=50.4s wall=60s
+[wc10_t10] cdp104 seed=8: M=10 D=871.40 gap=0.0 TIE t_best=3.2s
+[wc10_t20] cdp104 seed=8: M=10 D=871.40 gap=0.0 TIE t_best=3.2s
+[wc10] cdp105 seed=8: M=10 D=1053.12 gap=0.0 TIE t_best=0.7s wall=60s
+[wc10_t10] cdp105 seed=8: M=10 D=1053.12 gap=0.0 TIE t_best=0.7s
+[wc10_t20] cdp105 seed=8: M=10 D=1053.12 gap=0.0 TIE t_best=0.7s
+[wc10] cdp106 seed=8: M=10 D=963.45 gap=-0.0 TIE t_best=33.2s wall=60s
+[wc10_t10] cdp106 seed=8: M=10 D=963.45 gap=-0.0 TIE t_best=0.8s
+[wc10_t20] cdp106 seed=8: M=10 D=963.45 gap=-0.0 TIE t_best=0.8s
+[wc10] cdp107 seed=8: M=10 D=987.64 gap=-0.0 TIE t_best=2.2s wall=60s
+[wc10_t10] cdp107 seed=8: M=10 D=987.64 gap=-0.0 TIE t_best=2.2s
+[wc10_t20] cdp107 seed=8: M=10 D=987.64 gap=-0.0 TIE t_best=2.2s
+[wc10] cdp108 seed=8: M=10 D=932.49 gap=0.0 TIE t_best=0.5s wall=60s
+[wc10_t10] cdp108 seed=8: M=10 D=932.49 gap=0.0 TIE t_best=0.5s
+[wc10_t20] cdp108 seed=8: M=10 D=932.49 gap=0.0 TIE t_best=0.5s
+[wc10] cdp109 seed=8: M=10 D=909.27 gap=0.0 TIE t_best=0.6s wall=60s
+[wc10_t10] cdp109 seed=8: M=10 D=909.27 gap=0.0 TIE t_best=0.6s
+[wc10_t20] cdp109 seed=8: M=10 D=909.27 gap=0.0 TIE t_best=0.6s
+[wc10] cdp201 seed=8: M=3 D=591.56 gap=-0.0 TIE t_best=5.9s wall=60s
+[wc10_t10] cdp201 seed=8: M=3 D=591.56 gap=-0.0 TIE t_best=5.9s
+[wc10_t20] cdp201 seed=8: M=3 D=591.56 gap=-0.0 TIE t_best=5.9s
+[wc10] cdp202 seed=8: M=3 D=591.56 gap=-0.0 TIE t_best=26.4s wall=60s
+[wc10_t10] cdp202 seed=8: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10_t20] cdp202 seed=8: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10] cdp203 seed=8: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s wall=60s
+[wc10_t10] cdp203 seed=8: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s
+[wc10_t20] cdp203 seed=8: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s
+[wc10] cdp204 seed=8: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s wall=60s
+[wc10_t10] cdp204 seed=8: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10_t20] cdp204 seed=8: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10] cdp205 seed=8: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s wall=60s
+[wc10_t10] cdp205 seed=8: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s
+[wc10_t20] cdp205 seed=8: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s
+[wc10] cdp206 seed=8: M=3 D=588.49 gap=-0.0 TIE t_best=0.7s wall=60s
+[wc10_t10] cdp206 seed=8: M=3 D=588.49 gap=-0.0 TIE t_best=0.7s
+[wc10_t20] cdp206 seed=8: M=3 D=588.49 gap=-0.0 TIE t_best=0.7s
+[wc10] cdp207 seed=8: M=3 D=588.29 gap=0.0 TIE t_best=0.8s wall=60s
+[wc10_t10] cdp207 seed=8: M=3 D=588.29 gap=0.0 TIE t_best=0.8s
+[wc10_t20] cdp207 seed=8: M=3 D=588.29 gap=0.0 TIE t_best=0.8s
+[wc10] cdp208 seed=8: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s wall=60s
+[wc10_t10] cdp208 seed=8: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10_t20] cdp208 seed=8: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10] rdp101 seed=8: M=19 D=1650.80 gap=-0.0 TIE t_best=38.6s wall=60s
+[wc10_t10] rdp101 seed=8: M=19 D=1650.80 gap=-0.0 TIE t_best=0.6s
+[wc10_t20] rdp101 seed=8: M=19 D=1650.80 gap=-0.0 TIE t_best=0.6s
+[wc10] rdp102 seed=8: M=17 D=1486.12 gap=0.0 TIE t_best=1.9s wall=60s
+[wc10_t10] rdp102 seed=8: M=17 D=1486.12 gap=0.0 TIE t_best=1.9s
+[wc10_t20] rdp102 seed=8: M=17 D=1486.12 gap=0.0 TIE t_best=1.9s
+[wc10] rdp103 seed=8: M=13 D=1294.64 gap=0.0 TIE t_best=3.6s wall=60s
+[wc10_t10] rdp103 seed=8: M=13 D=1294.64 gap=0.0 TIE t_best=3.6s
+[wc10_t20] rdp103 seed=8: M=13 D=1294.64 gap=0.0 TIE t_best=3.6s
+[wc10] rdp104 seed=8: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=6.4s wall=60s
+[wc10_t10] rdp104 seed=8: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=6.4s
+[wc10_t20] rdp104 seed=8: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=6.4s
+[wc10] rdp105 seed=8: M=14 D=1377.11 gap=-0.0 TIE t_best=0.4s wall=60s
+[wc10_t10] rdp105 seed=8: M=14 D=1377.11 gap=-0.0 TIE t_best=0.4s
+[wc10_t20] rdp105 seed=8: M=14 D=1377.11 gap=-0.0 TIE t_best=0.4s
+[wc10] rdp106 seed=8: M=12 D=1252.03 gap=-0.0 TIE t_best=20.1s wall=60s
+[wc10_t10] rdp106 seed=8: M=12 D=1252.03 gap=-0.0 TIE t_best=1.6s
+[wc10_t20] rdp106 seed=8: M=12 D=1252.03 gap=-0.0 TIE t_best=1.6s
+[wc10] rdp107 seed=8: M=10 D=1112.55 gap=0.0 TIE t_best=29.9s wall=60s
+[wc10_t10] rdp107 seed=8: M=10 D=1116.41 gap=0.0183 worse t_best=8.0s
+[wc10_t20] rdp107 seed=8: M=10 D=1114.91 gap=0.0111 worse t_best=17.3s
+[wc10] rdp108 seed=8: M=9 D=965.22 gap=-0.0 TIE t_best=9.7s wall=60s
+[wc10_t10] rdp108 seed=8: M=9 D=965.22 gap=-0.0 TIE t_best=9.7s
+[wc10_t20] rdp108 seed=8: M=9 D=965.22 gap=-0.0 TIE t_best=9.7s
+[wc10] rdp109 seed=8: M=11 D=1194.73 gap=-0.0 TIE t_best=4.1s wall=60s
+[wc10_t10] rdp109 seed=8: M=11 D=1194.73 gap=-0.0 TIE t_best=4.1s
+[wc10_t20] rdp109 seed=8: M=11 D=1194.73 gap=-0.0 TIE t_best=4.1s
+[wc10] rdp110 seed=8: M=10 D=1121.46 gap=0.0 TIE t_best=12.4s wall=60s
+[wc10_t10] rdp110 seed=8: M=10 D=1123.92 gap=0.0116 worse t_best=4.2s
+[wc10_t20] rdp110 seed=8: M=10 D=1121.46 gap=0.0 TIE t_best=12.4s
+[wc10] rdp111 seed=8: M=10 D=1098.84 gap=0.0 TIE t_best=14.1s wall=60s
+[wc10_t10] rdp111 seed=8: M=10 D=1106.30 gap=0.0353 worse t_best=7.6s
+[wc10_t20] rdp111 seed=8: M=10 D=1098.84 gap=0.0 TIE t_best=14.1s
+[wc10] rdp112 seed=8: M=9 D=997.26 gap=0.0 TIE t_best=34.2s wall=60s
+[wc10_t10] rdp112 seed=8: M=9 D=1015.33 gap=0.0951 worse t_best=7.1s
+[wc10_t20] rdp112 seed=8: M=9 D=1000.64 gap=0.0178 worse t_best=18.5s
+[wc10] rdp201 seed=8: M=4 D=1252.37 gap=-0.0 TIE t_best=5.7s wall=60s
+[wc10_t10] rdp201 seed=8: M=4 D=1252.37 gap=-0.0 TIE t_best=5.7s
+[wc10_t20] rdp201 seed=8: M=4 D=1252.37 gap=-0.0 TIE t_best=5.7s
+[wc10] rdp202 seed=8: M=3 D=1191.70 gap=-0.0 TIE t_best=3.1s wall=60s
+[wc10_t10] rdp202 seed=8: M=3 D=1191.70 gap=-0.0 TIE t_best=3.1s
+[wc10_t20] rdp202 seed=8: M=3 D=1191.70 gap=-0.0 TIE t_best=3.1s
+[wc10] rdp203 seed=8: M=3 D=939.50 gap=-0.0 TIE t_best=23.8s wall=60s
+[wc10_t10] rdp203 seed=8: M=3 D=941.64 gap=0.0308 worse t_best=4.3s
+[wc10_t20] rdp203 seed=8: M=3 D=939.58 gap=0.0011 worse t_best=15.2s
+[wc10] rdp204 seed=8: M=2 D=825.52 gap=0.0 TIE t_best=19.9s wall=60s
+[wc10_t10] rdp204 seed=8: M=2 D=833.52 gap=0.1659 worse t_best=8.2s
+[wc10_t20] rdp204 seed=8: M=2 D=825.52 gap=0.0 TIE t_best=19.9s
+[wc10] rdp205 seed=8: M=3 D=994.43 gap=-0.0 TIE t_best=7.3s wall=60s
+[wc10_t10] rdp205 seed=8: M=3 D=994.43 gap=-0.0 TIE t_best=7.3s
+[wc10_t20] rdp205 seed=8: M=3 D=994.43 gap=-0.0 TIE t_best=7.3s
+[wc10] rdp206 seed=8: M=3 D=906.14 gap=0.0 TIE t_best=20.2s wall=60s
+[wc10_t10] rdp206 seed=8: M=3 D=913.28 gap=0.1034 worse t_best=8.3s
+[wc10_t20] rdp206 seed=8: M=3 D=906.70 gap=0.0082 worse t_best=18.2s
+[wc10] rdp207 seed=8: M=2 D=890.61 gap=0.0 TIE t_best=17.4s wall=60s
+[wc10_t10] rdp207 seed=8: M=2 D=893.47 gap=0.0586 worse t_best=9.8s
+[wc10_t20] rdp207 seed=8: M=2 D=890.61 gap=0.0 TIE t_best=17.4s
+[wc10] rdp208 seed=8: M=2 D=726.82 gap=-0.0 TIE t_best=9.3s wall=60s
+[wc10_t10] rdp208 seed=8: M=2 D=726.82 gap=-0.0 TIE t_best=9.3s
+[wc10_t20] rdp208 seed=8: M=2 D=726.82 gap=-0.0 TIE t_best=9.3s
+[wc10] rdp209 seed=8: M=3 D=909.66 gap=0.0071 worse t_best=36.8s wall=60s
+[wc10_t10] rdp209 seed=8: M=3 D=910.55 gap=0.0201 worse t_best=5.5s
+[wc10_t20] rdp209 seed=8: M=3 D=910.20 gap=0.0149 worse t_best=12.8s
+[wc10] rdp210 seed=8: M=3 D=939.37 gap=0.0 TIE t_best=10.0s wall=60s
+[wc10_t10] rdp210 seed=8: M=3 D=939.37 gap=0.0 TIE t_best=10.0s
+[wc10_t20] rdp210 seed=8: M=3 D=939.37 gap=0.0 TIE t_best=10.0s
+[wc10] rdp211 seed=8: M=2 D=898.15 gap=0.2546 worse t_best=27.2s wall=60s
+[wc10_t10] rdp211 seed=8: M=2 D=904.00 gap=0.3744 worse t_best=5.2s
+[wc10_t20] rdp211 seed=8: M=2 D=904.00 gap=0.3744 worse t_best=5.2s
+[wc10] rcdp101 seed=8: M=14 D=1708.21 gap=-0.0 TIE t_best=43.3s wall=60s
+[wc10_t10] rcdp101 seed=8: M=14 D=1708.21 gap=-0.0 TIE t_best=2.0s
+[wc10_t20] rcdp101 seed=8: M=14 D=1708.21 gap=-0.0 TIE t_best=2.0s
+[wc10] rcdp102 seed=8: M=12 D=1570.28 gap=-0.0 TIE t_best=21.2s wall=60s
+[wc10_t10] rcdp102 seed=8: M=12 D=1570.28 gap=-0.0 TIE t_best=3.0s
+[wc10_t20] rcdp102 seed=8: M=12 D=1570.28 gap=-0.0 TIE t_best=3.0s
+[wc10] rcdp103 seed=8: M=11 D=1282.53 gap=-0.0 TIE t_best=6.2s wall=60s
+[wc10_t10] rcdp103 seed=8: M=11 D=1282.53 gap=-0.0 TIE t_best=6.2s
+[wc10_t20] rcdp103 seed=8: M=11 D=1282.53 gap=-0.0 TIE t_best=6.2s
+[wc10] rcdp104 seed=8: M=10 D=1171.37 gap=-0.0 TIE t_best=3.6s wall=60s
+[wc10_t10] rcdp104 seed=8: M=10 D=1171.37 gap=-0.0 TIE t_best=3.6s
+[wc10_t20] rcdp104 seed=8: M=10 D=1171.37 gap=-0.0 TIE t_best=3.6s
+[wc10] rcdp105 seed=8: M=13 D=1632.29 gap=0.0 TIE t_best=16.5s wall=60s
+[wc10_t10] rcdp105 seed=8: M=13 D=1643.84 gap=0.0418 worse t_best=8.2s
+[wc10_t20] rcdp105 seed=8: M=13 D=1632.29 gap=0.0 TIE t_best=16.5s
+[wc10] rcdp106 seed=8: M=12 D=1392.47 gap=0.0 TIE t_best=2.6s wall=60s
+[wc10_t10] rcdp106 seed=8: M=12 D=1392.47 gap=0.0 TIE t_best=2.6s
+[wc10_t20] rcdp106 seed=8: M=12 D=1392.47 gap=0.0 TIE t_best=2.6s
+[wc10] rcdp107 seed=8: M=11 D=1252.79 gap=-0.0 TIE t_best=14.8s wall=60s
+[wc10_t10] rcdp107 seed=8: M=11 D=1253.45 gap=0.0028 worse t_best=8.4s
+[wc10_t20] rcdp107 seed=8: M=11 D=1252.79 gap=-0.0 TIE t_best=14.8s
+[wc10] rcdp108 seed=8: M=10 D=1177.98 gap=0.0 TIE t_best=12.5s wall=60s
+[wc10_t10] rcdp108 seed=8: M=10 D=1181.97 gap=0.0188 worse t_best=8.7s
+[wc10_t20] rcdp108 seed=8: M=10 D=1177.98 gap=0.0 TIE t_best=12.5s
+[wc10] rcdp201 seed=8: M=4 D=1406.94 gap=-0.0 TIE t_best=2.4s wall=60s
+[wc10_t10] rcdp201 seed=8: M=4 D=1406.94 gap=-0.0 TIE t_best=2.4s
+[wc10_t20] rcdp201 seed=8: M=4 D=1406.94 gap=-0.0 TIE t_best=2.4s
+[wc10] rcdp202 seed=8: M=3 D=1365.65 gap=0.0 TIE t_best=5.4s wall=60s
+[wc10_t10] rcdp202 seed=8: M=3 D=1365.65 gap=0.0 TIE t_best=5.4s
+[wc10_t20] rcdp202 seed=8: M=3 D=1365.65 gap=0.0 TIE t_best=5.4s
+[wc10] rcdp203 seed=8: M=3 D=1049.62 gap=-0.0 TIE t_best=16.5s wall=60s
+[wc10_t10] rcdp203 seed=8: M=3 D=1050.45 gap=0.0117 worse t_best=6.1s
+[wc10_t20] rcdp203 seed=8: M=3 D=1049.62 gap=-0.0 TIE t_best=16.5s
+[wc10] rcdp204 seed=8: M=3 D=798.46 gap=-0.0 TIE t_best=11.8s wall=60s
+[wc10_t10] rcdp204 seed=8: M=3 D=798.92 gap=0.0067 worse t_best=9.4s
+[wc10_t20] rcdp204 seed=8: M=3 D=798.46 gap=-0.0 TIE t_best=11.8s
+[wc10] rcdp205 seed=8: M=4 D=1297.65 gap=0.0 TIE t_best=4.0s wall=60s
+[wc10_t10] rcdp205 seed=8: M=4 D=1297.65 gap=0.0 TIE t_best=4.0s
+[wc10_t20] rcdp205 seed=8: M=4 D=1297.65 gap=0.0 TIE t_best=4.0s
+[wc10] rcdp206 seed=8: M=3 D=1146.32 gap=0.0 TIE t_best=7.0s wall=60s
+[wc10_t10] rcdp206 seed=8: M=3 D=1146.32 gap=0.0 TIE t_best=7.0s
+[wc10_t20] rcdp206 seed=8: M=3 D=1146.32 gap=0.0 TIE t_best=7.0s
+[wc10] rcdp207 seed=8: M=3 D=1061.14 gap=0.0 TIE t_best=9.5s wall=60s
+[wc10_t10] rcdp207 seed=8: M=3 D=1061.14 gap=0.0 TIE t_best=9.5s
+[wc10_t20] rcdp207 seed=8: M=3 D=1061.14 gap=0.0 TIE t_best=9.5s
+[wc10] rcdp208 seed=8: M=3 D=828.14 gap=0.0 TIE t_best=46.2s wall=60s
+[wc10_t10] rcdp208 seed=8: M=3 D=829.69 gap=0.0227 worse t_best=7.7s
+[wc10_t20] rcdp208 seed=8: M=3 D=829.69 gap=0.0227 worse t_best=7.7s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] rcdp0501 seed=9: M=3 D=220.15 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0504 seed=9: M=2 D=214.57 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0507 seed=9: M=2 D=211.83 gap=  t_best=0.0s wall=10s
+[wc10] rcdp1001 seed=9: M=3 D=348.98 gap=-0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp1004 seed=9: M=2 D=216.69 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp1007 seed=9: M=2 D=310.81 gap=0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp2501 seed=9: M=5 D=551.05 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp2504 seed=9: M=4 D=473.46 gap=-0.0 TIE t_best=0.2s wall=10s
+[wc10] rcdp2507 seed=9: M=5 D=540.87 gap=0.0 TIE t_best=0.2s wall=10s
+[wc10] rcdp5001 seed=9: M=9 D=994.18 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp5004 seed=9: M=6 D=733.21 gap=0.0 TIE t_best=0.5s wall=10s
+[wc10] rcdp5007 seed=9: M=7 D=809.71 gap=-0.0 TIE t_best=0.4s wall=10s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] cdp101 seed=9: M=11 D=976.04 gap=0.0 TIE t_best=0.3s wall=60s
+[wc10_t10] cdp101 seed=9: M=11 D=976.04 gap=0.0 TIE t_best=0.3s
+[wc10_t20] cdp101 seed=9: M=11 D=976.04 gap=0.0 TIE t_best=0.3s
+[wc10] cdp102 seed=9: M=10 D=941.49 gap=0.0 TIE t_best=1.3s wall=60s
+[wc10_t10] cdp102 seed=9: M=10 D=941.49 gap=0.0 TIE t_best=1.3s
+[wc10_t20] cdp102 seed=9: M=10 D=941.49 gap=0.0 TIE t_best=1.3s
+[wc10] cdp103 seed=9: M=10 D=892.98 gap=-0.0 TIE t_best=47.8s wall=60s
+[wc10_t10] cdp103 seed=9: M=10 D=892.98 gap=-0.0 TIE t_best=1.9s
+[wc10_t20] cdp103 seed=9: M=10 D=892.98 gap=-0.0 TIE t_best=1.9s
+[wc10] cdp104 seed=9: M=10 D=871.40 gap=0.0 TIE t_best=3.2s wall=60s
+[wc10_t10] cdp104 seed=9: M=10 D=871.40 gap=0.0 TIE t_best=3.2s
+[wc10_t20] cdp104 seed=9: M=10 D=871.40 gap=0.0 TIE t_best=3.2s
+[wc10] cdp105 seed=9: M=10 D=1053.12 gap=0.0 TIE t_best=0.7s wall=60s
+[wc10_t10] cdp105 seed=9: M=10 D=1053.12 gap=0.0 TIE t_best=0.7s
+[wc10_t20] cdp105 seed=9: M=10 D=1053.12 gap=0.0 TIE t_best=0.7s
+[wc10] cdp106 seed=9: M=10 D=963.45 gap=-0.0 TIE t_best=8.7s wall=60s
+[wc10_t10] cdp106 seed=9: M=10 D=963.45 gap=-0.0 TIE t_best=8.7s
+[wc10_t20] cdp106 seed=9: M=10 D=963.45 gap=-0.0 TIE t_best=8.7s
+[wc10] cdp107 seed=9: M=10 D=987.64 gap=-0.0 TIE t_best=2.3s wall=60s
+[wc10_t10] cdp107 seed=9: M=10 D=987.64 gap=-0.0 TIE t_best=2.3s
+[wc10_t20] cdp107 seed=9: M=10 D=987.64 gap=-0.0 TIE t_best=2.3s
+[wc10] cdp108 seed=9: M=10 D=932.49 gap=0.0 TIE t_best=0.5s wall=60s
+[wc10_t10] cdp108 seed=9: M=10 D=932.49 gap=0.0 TIE t_best=0.5s
+[wc10_t20] cdp108 seed=9: M=10 D=932.49 gap=0.0 TIE t_best=0.5s
+[wc10] cdp109 seed=9: M=10 D=909.27 gap=0.0 TIE t_best=0.6s wall=60s
+[wc10_t10] cdp109 seed=9: M=10 D=909.27 gap=0.0 TIE t_best=0.6s
+[wc10_t20] cdp109 seed=9: M=10 D=909.27 gap=0.0 TIE t_best=0.6s
+[wc10] cdp201 seed=9: M=3 D=591.56 gap=-0.0 TIE t_best=5.9s wall=60s
+[wc10_t10] cdp201 seed=9: M=3 D=591.56 gap=-0.0 TIE t_best=5.9s
+[wc10_t20] cdp201 seed=9: M=3 D=591.56 gap=-0.0 TIE t_best=5.9s
+[wc10] cdp202 seed=9: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s wall=60s
+[wc10_t10] cdp202 seed=9: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10_t20] cdp202 seed=9: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10] cdp203 seed=9: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s wall=60s
+[wc10_t10] cdp203 seed=9: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s
+[wc10_t20] cdp203 seed=9: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s
+[wc10] cdp204 seed=9: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s wall=60s
+[wc10_t10] cdp204 seed=9: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10_t20] cdp204 seed=9: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10] cdp205 seed=9: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s wall=60s
+[wc10_t10] cdp205 seed=9: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s
+[wc10_t20] cdp205 seed=9: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s
+[wc10] cdp206 seed=9: M=3 D=588.49 gap=-0.0 TIE t_best=0.7s wall=60s
+[wc10_t10] cdp206 seed=9: M=3 D=588.49 gap=-0.0 TIE t_best=0.7s
+[wc10_t20] cdp206 seed=9: M=3 D=588.49 gap=-0.0 TIE t_best=0.7s
+[wc10] cdp207 seed=9: M=3 D=588.29 gap=0.0 TIE t_best=0.8s wall=60s
+[wc10_t10] cdp207 seed=9: M=3 D=588.29 gap=0.0 TIE t_best=0.8s
+[wc10_t20] cdp207 seed=9: M=3 D=588.29 gap=0.0 TIE t_best=0.8s
+[wc10] cdp208 seed=9: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s wall=60s
+[wc10_t10] cdp208 seed=9: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10_t20] cdp208 seed=9: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10] rdp101 seed=9: M=19 D=1650.80 gap=-0.0 TIE t_best=13.1s wall=60s
+[wc10_t10] rdp101 seed=9: M=19 D=1650.80 gap=-0.0 TIE t_best=0.6s
+[wc10_t20] rdp101 seed=9: M=19 D=1650.80 gap=-0.0 TIE t_best=13.1s
+[wc10] rdp102 seed=9: M=17 D=1486.12 gap=0.0 TIE t_best=1.8s wall=60s
+[wc10_t10] rdp102 seed=9: M=17 D=1486.12 gap=0.0 TIE t_best=1.8s
+[wc10_t20] rdp102 seed=9: M=17 D=1486.12 gap=0.0 TIE t_best=1.8s
+[wc10] rdp103 seed=9: M=13 D=1294.64 gap=0.0 TIE t_best=33.5s wall=60s
+[wc10_t10] rdp103 seed=9: M=13 D=1294.64 gap=0.0 TIE t_best=3.6s
+[wc10_t20] rdp103 seed=9: M=13 D=1294.64 gap=0.0 TIE t_best=3.6s
+[wc10] rdp104 seed=9: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=12.8s wall=60s
+[wc10_t10] rdp104 seed=9: M=10 D=984.81 gap=10.293 worse t_best=2.5s
+[wc10_t20] rdp104 seed=9: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=12.8s
+[wc10] rdp105 seed=9: M=14 D=1377.11 gap=-0.0 TIE t_best=36.3s wall=60s
+[wc10_t10] rdp105 seed=9: M=14 D=1377.11 gap=-0.0 TIE t_best=9.3s
+[wc10_t20] rdp105 seed=9: M=14 D=1377.11 gap=-0.0 TIE t_best=9.3s
+[wc10] rdp106 seed=9: M=12 D=1252.03 gap=-0.0 TIE t_best=1.6s wall=60s
+[wc10_t10] rdp106 seed=9: M=12 D=1252.03 gap=-0.0 TIE t_best=1.6s
+[wc10_t20] rdp106 seed=9: M=12 D=1252.03 gap=-0.0 TIE t_best=1.6s
+[wc10] rdp107 seed=9: M=10 D=1112.55 gap=0.0 TIE t_best=4.5s wall=60s
+[wc10_t10] rdp107 seed=9: M=10 D=1112.55 gap=0.0 TIE t_best=4.5s
+[wc10_t20] rdp107 seed=9: M=10 D=1112.55 gap=0.0 TIE t_best=4.5s
+[wc10] rdp108 seed=9: M=9 D=965.22 gap=-0.0 TIE t_best=5.5s wall=60s
+[wc10_t10] rdp108 seed=9: M=9 D=965.22 gap=-0.0 TIE t_best=5.5s
+[wc10_t20] rdp108 seed=9: M=9 D=965.22 gap=-0.0 TIE t_best=5.5s
+[wc10] rdp109 seed=9: M=11 D=1194.73 gap=-0.0 TIE t_best=2.7s wall=60s
+[wc10_t10] rdp109 seed=9: M=11 D=1194.73 gap=-0.0 TIE t_best=2.7s
+[wc10_t20] rdp109 seed=9: M=11 D=1194.73 gap=-0.0 TIE t_best=2.7s
+[wc10] rdp110 seed=9: M=10 D=1121.46 gap=0.0 TIE t_best=42.3s wall=60s
+[wc10_t10] rdp110 seed=9: M=10 D=1121.46 gap=0.0 TIE t_best=5.2s
+[wc10_t20] rdp110 seed=9: M=10 D=1121.46 gap=0.0 TIE t_best=5.2s
+[wc10] rdp111 seed=9: M=10 D=1098.84 gap=0.0 TIE t_best=6.5s wall=60s
+[wc10_t10] rdp111 seed=9: M=10 D=1098.84 gap=0.0 TIE t_best=6.5s
+[wc10_t20] rdp111 seed=9: M=10 D=1098.84 gap=0.0 TIE t_best=6.5s
+[wc10] rdp112 seed=9: M=9 D=999.44 gap=0.0115 worse t_best=48.7s wall=60s
+[wc10_t10] rdp112 seed=9: M=9 D=1015.37 gap=0.0953 worse t_best=5.8s
+[wc10_t20] rdp112 seed=9: M=9 D=1001.00 gap=0.0197 worse t_best=18.7s
+[wc10] rdp201 seed=9: M=4 D=1252.37 gap=-0.0 TIE t_best=3.1s wall=60s
+[wc10_t10] rdp201 seed=9: M=4 D=1252.37 gap=-0.0 TIE t_best=3.1s
+[wc10_t20] rdp201 seed=9: M=4 D=1252.37 gap=-0.0 TIE t_best=3.1s
+[wc10] rdp202 seed=9: M=3 D=1191.70 gap=-0.0 TIE t_best=3.2s wall=60s
+[wc10_t10] rdp202 seed=9: M=3 D=1191.70 gap=-0.0 TIE t_best=3.2s
+[wc10_t20] rdp202 seed=9: M=3 D=1191.70 gap=-0.0 TIE t_best=3.2s
+[wc10] rdp203 seed=9: M=3 D=939.50 gap=-0.0 TIE t_best=51.4s wall=60s
+[wc10_t10] rdp203 seed=9: M=3 D=939.58 gap=0.0011 worse t_best=8.6s
+[wc10_t20] rdp203 seed=9: M=3 D=939.58 gap=0.0011 worse t_best=8.6s
+[wc10] rdp204 seed=9: M=2 D=825.52 gap=0.0 TIE t_best=19.6s wall=60s
+[wc10_t10] rdp204 seed=9: M=2 D=835.27 gap=0.202 worse t_best=8.1s
+[wc10_t20] rdp204 seed=9: M=2 D=825.52 gap=0.0 TIE t_best=19.6s
+[wc10] rdp205 seed=9: M=3 D=994.43 gap=-0.0 TIE t_best=9.9s wall=60s
+[wc10_t10] rdp205 seed=9: M=3 D=994.43 gap=-0.0 TIE t_best=9.9s
+[wc10_t20] rdp205 seed=9: M=3 D=994.43 gap=-0.0 TIE t_best=9.9s
+[wc10] rdp206 seed=9: M=3 D=906.14 gap=0.0 TIE t_best=20.2s wall=60s
+[wc10_t10] rdp206 seed=9: M=3 D=913.36 gap=0.1045 worse t_best=8.2s
+[wc10_t20] rdp206 seed=9: M=3 D=906.54 gap=0.0057 worse t_best=18.2s
+[wc10] rdp207 seed=9: M=2 D=890.61 gap=0.0 TIE t_best=12.4s wall=60s
+[wc10_t10] rdp207 seed=9: M=2 D=893.47 gap=0.0586 worse t_best=9.9s
+[wc10_t20] rdp207 seed=9: M=2 D=890.61 gap=0.0 TIE t_best=12.4s
+[wc10] rdp208 seed=9: M=2 D=726.82 gap=-0.0 TIE t_best=9.3s wall=60s
+[wc10_t10] rdp208 seed=9: M=2 D=726.82 gap=-0.0 TIE t_best=9.3s
+[wc10_t20] rdp208 seed=9: M=2 D=726.82 gap=-0.0 TIE t_best=9.3s
+[wc10] rdp209 seed=9: M=3 D=909.66 gap=0.0071 worse t_best=16.5s wall=60s
+[wc10_t10] rdp209 seed=9: M=3 D=910.55 gap=0.0201 worse t_best=9.1s
+[wc10_t20] rdp209 seed=9: M=3 D=909.66 gap=0.0071 worse t_best=16.5s
+[wc10] rdp210 seed=9: M=3 D=939.37 gap=0.0 TIE t_best=6.0s wall=60s
+[wc10_t10] rdp210 seed=9: M=3 D=939.37 gap=0.0 TIE t_best=6.0s
+[wc10_t20] rdp210 seed=9: M=3 D=939.37 gap=0.0 TIE t_best=6.0s
+[wc10] rdp211 seed=9: M=2 D=898.15 gap=0.2546 worse t_best=40.5s wall=60s
+[wc10_t10] rdp211 seed=9: M=2 D=909.99 gap=0.4968 worse t_best=2.7s
+[wc10_t20] rdp211 seed=9: M=2 D=899.81 gap=0.2885 worse t_best=10.7s
+[wc10] rcdp101 seed=9: M=14 D=1708.21 gap=-0.0 TIE t_best=53.0s wall=60s
+[wc10_t10] rcdp101 seed=9: M=14 D=1708.21 gap=-0.0 TIE t_best=6.6s
+[wc10_t20] rcdp101 seed=9: M=14 D=1708.21 gap=-0.0 TIE t_best=6.6s
+[wc10] rcdp102 seed=9: M=12 D=1570.28 gap=-0.0 TIE t_best=38.6s wall=60s
+[wc10_t10] rcdp102 seed=9: M=12 D=1570.28 gap=-0.0 TIE t_best=3.7s
+[wc10_t20] rcdp102 seed=9: M=12 D=1570.28 gap=-0.0 TIE t_best=3.7s
+[wc10] rcdp103 seed=9: M=11 D=1282.53 gap=-0.0 TIE t_best=5.1s wall=60s
+[wc10_t10] rcdp103 seed=9: M=11 D=1282.53 gap=-0.0 TIE t_best=5.1s
+[wc10_t20] rcdp103 seed=9: M=11 D=1282.53 gap=-0.0 TIE t_best=5.1s
+[wc10] rcdp104 seed=9: M=10 D=1171.37 gap=-0.0 TIE t_best=7.2s wall=60s
+[wc10_t10] rcdp104 seed=9: M=10 D=1171.37 gap=-0.0 TIE t_best=7.2s
+[wc10_t20] rcdp104 seed=9: M=10 D=1171.37 gap=-0.0 TIE t_best=7.2s
+[wc10] rcdp105 seed=9: M=13 D=1632.29 gap=0.0 TIE t_best=10.2s wall=60s
+[wc10_t10] rcdp105 seed=9: M=13 D=1636.45 gap=0.0151 worse t_best=9.5s
+[wc10_t20] rcdp105 seed=9: M=13 D=1632.29 gap=0.0 TIE t_best=10.2s
+[wc10] rcdp106 seed=9: M=12 D=1392.47 gap=0.0 TIE t_best=2.6s wall=60s
+[wc10_t10] rcdp106 seed=9: M=12 D=1392.47 gap=0.0 TIE t_best=2.6s
+[wc10_t20] rcdp106 seed=9: M=12 D=1392.47 gap=0.0 TIE t_best=2.6s
+[wc10] rcdp107 seed=9: M=11 D=1255.06 gap=0.0098 worse t_best=12.7s wall=60s
+[wc10_t10] rcdp107 seed=9: M=11 D=1255.95 gap=0.0136 worse t_best=8.5s
+[wc10_t20] rcdp107 seed=9: M=11 D=1255.06 gap=0.0098 worse t_best=12.7s
+[wc10] rcdp108 seed=9: M=10 D=1177.98 gap=0.0 TIE t_best=12.4s wall=60s
+[wc10_t10] rcdp108 seed=9: M=10 D=1178.57 gap=0.0028 worse t_best=8.7s
+[wc10_t20] rcdp108 seed=9: M=10 D=1177.98 gap=0.0 TIE t_best=12.4s
+[wc10] rcdp201 seed=9: M=4 D=1406.94 gap=-0.0 TIE t_best=29.6s wall=60s
+[wc10_t10] rcdp201 seed=9: M=4 D=1406.94 gap=-0.0 TIE t_best=1.8s
+[wc10_t20] rcdp201 seed=9: M=4 D=1406.94 gap=-0.0 TIE t_best=1.8s
+[wc10] rcdp202 seed=9: M=3 D=1365.65 gap=0.0 TIE t_best=6.8s wall=60s
+[wc10_t10] rcdp202 seed=9: M=3 D=1365.65 gap=0.0 TIE t_best=6.8s
+[wc10_t20] rcdp202 seed=9: M=3 D=1365.65 gap=0.0 TIE t_best=6.8s
+[wc10] rcdp203 seed=9: M=3 D=1049.62 gap=-0.0 TIE t_best=49.3s wall=60s
+[wc10_t10] rcdp203 seed=9: M=3 D=1050.64 gap=0.0143 worse t_best=8.1s
+[wc10_t20] rcdp203 seed=9: M=3 D=1050.64 gap=0.0143 worse t_best=8.1s
+[wc10] rcdp204 seed=9: M=3 D=798.46 gap=-0.0 TIE t_best=14.1s wall=60s
+[wc10_t10] rcdp204 seed=9: M=3 D=799.16 gap=0.0102 worse t_best=9.4s
+[wc10_t20] rcdp204 seed=9: M=3 D=798.46 gap=-0.0 TIE t_best=14.1s
+[wc10] rcdp205 seed=9: M=4 D=1297.65 gap=0.0 TIE t_best=3.0s wall=60s
+[wc10_t10] rcdp205 seed=9: M=4 D=1297.65 gap=0.0 TIE t_best=3.0s
+[wc10_t20] rcdp205 seed=9: M=4 D=1297.65 gap=0.0 TIE t_best=3.0s
+[wc10] rcdp206 seed=9: M=3 D=1146.32 gap=0.0 TIE t_best=10.8s wall=60s
+[wc10_t10] rcdp206 seed=9: M=3 D=1153.69 gap=0.1031 worse t_best=7.1s
+[wc10_t20] rcdp206 seed=9: M=3 D=1146.32 gap=0.0 TIE t_best=10.8s
+[wc10] rcdp207 seed=9: M=3 D=1061.14 gap=0.0 TIE t_best=15.3s wall=60s
+[wc10_t10] rcdp207 seed=9: M=3 D=1063.56 gap=0.0341 worse t_best=9.5s
+[wc10_t20] rcdp207 seed=9: M=3 D=1061.14 gap=0.0 TIE t_best=15.3s
+[wc10] rcdp208 seed=9: M=3 D=828.14 gap=0.0 TIE t_best=51.2s wall=60s
+[wc10_t10] rcdp208 seed=9: M=3 D=830.62 gap=0.0363 worse t_best=5.1s
+[wc10_t20] rcdp208 seed=9: M=3 D=829.69 gap=0.0227 worse t_best=10.3s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] rcdp0501 seed=10: M=3 D=220.15 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0504 seed=10: M=2 D=214.57 gap=  t_best=0.0s wall=10s
+[wc10] rcdp0507 seed=10: M=2 D=211.83 gap=  t_best=0.0s wall=10s
+[wc10] rcdp1001 seed=10: M=3 D=348.98 gap=-0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp1004 seed=10: M=2 D=216.69 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp1007 seed=10: M=2 D=310.81 gap=0.0 TIE t_best=0.0s wall=10s
+[wc10] rcdp2501 seed=10: M=5 D=551.05 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp2504 seed=10: M=4 D=473.46 gap=-0.0 TIE t_best=0.2s wall=10s
+[wc10] rcdp2507 seed=10: M=5 D=540.87 gap=0.0 TIE t_best=0.2s wall=10s
+[wc10] rcdp5001 seed=10: M=9 D=994.18 gap=-0.0 TIE t_best=0.1s wall=10s
+[wc10] rcdp5004 seed=10: M=6 D=733.21 gap=0.0 TIE t_best=0.5s wall=10s
+[wc10] rcdp5007 seed=10: M=7 D=809.71 gap=-0.0 TIE t_best=0.4s wall=10s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10] cdp101 seed=10: M=11 D=976.04 gap=0.0 TIE t_best=6.1s wall=60s
+[wc10_t10] cdp101 seed=10: M=11 D=976.04 gap=0.0 TIE t_best=6.1s
+[wc10_t20] cdp101 seed=10: M=11 D=976.04 gap=0.0 TIE t_best=6.1s
+[wc10] cdp102 seed=10: M=10 D=941.49 gap=0.0 TIE t_best=15.3s wall=60s
+[wc10_t10] cdp102 seed=10: M=10 D=941.49 gap=0.0 TIE t_best=0.7s
+[wc10_t20] cdp102 seed=10: M=10 D=941.49 gap=0.0 TIE t_best=15.3s
+[wc10] cdp103 seed=10: M=10 D=892.98 gap=-0.0 TIE t_best=2.9s wall=60s
+[wc10_t10] cdp103 seed=10: M=10 D=892.98 gap=-0.0 TIE t_best=2.9s
+[wc10_t20] cdp103 seed=10: M=10 D=892.98 gap=-0.0 TIE t_best=2.9s
+[wc10] cdp104 seed=10: M=10 D=871.40 gap=0.0 TIE t_best=2.1s wall=60s
+[wc10_t10] cdp104 seed=10: M=10 D=871.40 gap=0.0 TIE t_best=2.1s
+[wc10_t20] cdp104 seed=10: M=10 D=871.40 gap=0.0 TIE t_best=2.1s
+[wc10] cdp105 seed=10: M=10 D=1053.12 gap=0.0 TIE t_best=16.0s wall=60s
+[wc10_t10] cdp105 seed=10: M=10 D=1053.12 gap=0.0 TIE t_best=0.3s
+[wc10_t20] cdp105 seed=10: M=10 D=1053.12 gap=0.0 TIE t_best=16.0s
+[wc10] cdp106 seed=10: M=10 D=963.45 gap=-0.0 TIE t_best=9.2s wall=60s
+[wc10_t10] cdp106 seed=10: M=10 D=963.45 gap=-0.0 TIE t_best=9.2s
+[wc10_t20] cdp106 seed=10: M=10 D=963.45 gap=-0.0 TIE t_best=9.2s
+[wc10] cdp107 seed=10: M=10 D=987.64 gap=-0.0 TIE t_best=0.8s wall=60s
+[wc10_t10] cdp107 seed=10: M=10 D=987.64 gap=-0.0 TIE t_best=0.8s
+[wc10_t20] cdp107 seed=10: M=10 D=987.64 gap=-0.0 TIE t_best=0.8s
+[wc10] cdp108 seed=10: M=10 D=932.49 gap=0.0 TIE t_best=10.4s wall=60s
+[wc10_t10] cdp108 seed=10: M=10 D=932.49 gap=0.0 TIE t_best=0.5s
+[wc10_t20] cdp108 seed=10: M=10 D=932.49 gap=0.0 TIE t_best=10.4s
+[wc10] cdp109 seed=10: M=10 D=909.27 gap=0.0 TIE t_best=13.8s wall=60s
+[wc10_t10] cdp109 seed=10: M=10 D=909.27 gap=0.0 TIE t_best=0.6s
+[wc10_t20] cdp109 seed=10: M=10 D=909.27 gap=0.0 TIE t_best=13.8s
+[wc10] cdp201 seed=10: M=3 D=591.56 gap=-0.0 TIE t_best=0.3s wall=60s
+[wc10_t10] cdp201 seed=10: M=3 D=591.56 gap=-0.0 TIE t_best=0.3s
+[wc10_t20] cdp201 seed=10: M=3 D=591.56 gap=-0.0 TIE t_best=0.3s
+[wc10] cdp202 seed=10: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s wall=60s
+[wc10_t10] cdp202 seed=10: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10_t20] cdp202 seed=10: M=3 D=591.56 gap=-0.0 TIE t_best=1.2s
+[wc10] cdp203 seed=10: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s wall=60s
+[wc10_t10] cdp203 seed=10: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s
+[wc10_t20] cdp203 seed=10: M=3 D=591.17 gap=-0.0 TIE t_best=1.7s
+[wc10] cdp204 seed=10: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s wall=60s
+[wc10_t10] cdp204 seed=10: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10_t20] cdp204 seed=10: M=3 D=590.60 gap=-0.0 TIE t_best=2.0s
+[wc10] cdp205 seed=10: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s wall=60s
+[wc10_t10] cdp205 seed=10: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s
+[wc10_t20] cdp205 seed=10: M=3 D=588.88 gap=-0.0 TIE t_best=0.5s
+[wc10] cdp206 seed=10: M=3 D=588.49 gap=-0.0 TIE t_best=0.7s wall=60s
+[wc10_t10] cdp206 seed=10: M=3 D=588.49 gap=-0.0 TIE t_best=0.7s
+[wc10_t20] cdp206 seed=10: M=3 D=588.49 gap=-0.0 TIE t_best=0.7s
+[wc10] cdp207 seed=10: M=3 D=588.29 gap=0.0 TIE t_best=0.8s wall=60s
+[wc10_t10] cdp207 seed=10: M=3 D=588.29 gap=0.0 TIE t_best=0.8s
+[wc10_t20] cdp207 seed=10: M=3 D=588.29 gap=0.0 TIE t_best=0.8s
+[wc10] cdp208 seed=10: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s wall=60s
+[wc10_t10] cdp208 seed=10: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10_t20] cdp208 seed=10: M=3 D=588.32 gap=-0.0 TIE t_best=0.9s
+[wc10] rdp101 seed=10: M=19 D=1650.80 gap=-0.0 TIE t_best=0.6s wall=60s
+[wc10_t10] rdp101 seed=10: M=19 D=1650.80 gap=-0.0 TIE t_best=0.6s
+[wc10_t20] rdp101 seed=10: M=19 D=1650.80 gap=-0.0 TIE t_best=0.6s
+[wc10] rdp102 seed=10: M=17 D=1486.12 gap=0.0 TIE t_best=1.9s wall=60s
+[wc10_t10] rdp102 seed=10: M=17 D=1486.12 gap=0.0 TIE t_best=1.9s
+[wc10_t20] rdp102 seed=10: M=17 D=1486.12 gap=0.0 TIE t_best=1.9s
+[wc10] rdp103 seed=10: M=13 D=1294.64 gap=0.0 TIE t_best=5.5s wall=60s
+[wc10_t10] rdp103 seed=10: M=13 D=1294.64 gap=0.0 TIE t_best=5.5s
+[wc10_t20] rdp103 seed=10: M=13 D=1294.64 gap=0.0 TIE t_best=5.5s
+[wc10] rdp104 seed=10: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=5.1s wall=60s
+[wc10_t10] rdp104 seed=10: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=5.1s
+[wc10_t20] rdp104 seed=10: M=9 D=1017.22 gap=-0.0483 NEW_BEST t_best=5.1s
+[wc10] rdp105 seed=10: M=14 D=1377.11 gap=-0.0 TIE t_best=45.0s wall=60s
+[wc10_t10] rdp105 seed=10: M=14 D=1377.11 gap=-0.0 TIE t_best=0.4s
+[wc10_t20] rdp105 seed=10: M=14 D=1377.11 gap=-0.0 TIE t_best=0.4s
+[wc10] rdp106 seed=10: M=12 D=1252.03 gap=-0.0 TIE t_best=2.4s wall=60s
+[wc10_t10] rdp106 seed=10: M=12 D=1252.03 gap=-0.0 TIE t_best=2.4s
+[wc10_t20] rdp106 seed=10: M=12 D=1252.03 gap=-0.0 TIE t_best=2.4s
+[wc10] rdp107 seed=10: M=10 D=1112.55 gap=0.0 TIE t_best=6.8s wall=60s
+[wc10_t10] rdp107 seed=10: M=10 D=1112.55 gap=0.0 TIE t_best=6.8s
+[wc10_t20] rdp107 seed=10: M=10 D=1112.55 gap=0.0 TIE t_best=6.8s
+[wc10] rdp108 seed=10: M=9 D=965.22 gap=-0.0 TIE t_best=8.3s wall=60s
+[wc10_t10] rdp108 seed=10: M=9 D=965.22 gap=-0.0 TIE t_best=8.3s
+[wc10_t20] rdp108 seed=10: M=9 D=965.22 gap=-0.0 TIE t_best=8.3s
+[wc10] rdp109 seed=10: M=11 D=1194.73 gap=-0.0 TIE t_best=4.0s wall=60s
+[wc10_t10] rdp109 seed=10: M=11 D=1194.73 gap=-0.0 TIE t_best=4.0s
+[wc10_t20] rdp109 seed=10: M=11 D=1194.73 gap=-0.0 TIE t_best=4.0s
+[wc10] rdp110 seed=10: M=10 D=1121.46 gap=0.0 TIE t_best=53.5s wall=60s
+[wc10_t10] rdp110 seed=10: M=10 D=1123.92 gap=0.0116 worse t_best=6.2s
+[wc10_t20] rdp110 seed=10: M=10 D=1121.46 gap=0.0 TIE t_best=10.3s
+[wc10] rdp111 seed=10: M=10 D=1098.84 gap=0.0 TIE t_best=8.7s wall=60s
+[wc10_t10] rdp111 seed=10: M=10 D=1098.84 gap=0.0 TIE t_best=8.7s
+[wc10_t20] rdp111 seed=10: M=10 D=1098.84 gap=0.0 TIE t_best=8.7s
+[wc10] rdp112 seed=10: M=9 D=999.44 gap=0.0114 worse t_best=18.6s wall=60s
+[wc10_t10] rdp112 seed=10: M=9 D=1015.56 gap=0.0963 worse t_best=5.8s
+[wc10_t20] rdp112 seed=10: M=9 D=999.44 gap=0.0114 worse t_best=18.6s
+[wc10] rdp201 seed=10: M=4 D=1252.37 gap=-0.0 TIE t_best=2.5s wall=60s
+[wc10_t10] rdp201 seed=10: M=4 D=1252.37 gap=-0.0 TIE t_best=2.5s
+[wc10_t20] rdp201 seed=10: M=4 D=1252.37 gap=-0.0 TIE t_best=2.5s
+[wc10] rdp202 seed=10: M=3 D=1191.70 gap=-0.0 TIE t_best=4.8s wall=60s
+[wc10_t10] rdp202 seed=10: M=3 D=1191.70 gap=-0.0 TIE t_best=4.8s
+[wc10_t20] rdp202 seed=10: M=3 D=1191.70 gap=-0.0 TIE t_best=4.8s
+[wc10] rdp203 seed=10: M=3 D=939.50 gap=-0.0 TIE t_best=23.7s wall=60s
+[wc10_t10] rdp203 seed=10: M=3 D=939.58 gap=0.0011 worse t_best=6.6s
+[wc10_t20] rdp203 seed=10: M=3 D=939.58 gap=0.0011 worse t_best=6.6s
+[wc10] rdp204 seed=10: M=2 D=825.52 gap=0.0 TIE t_best=16.9s wall=60s
+[wc10_t10] rdp204 seed=10: M=2 D=832.92 gap=0.1534 worse t_best=5.3s
+[wc10_t20] rdp204 seed=10: M=2 D=825.52 gap=0.0 TIE t_best=16.9s
+[wc10] rdp205 seed=10: M=3 D=994.43 gap=-0.0 TIE t_best=9.8s wall=60s
+[wc10_t10] rdp205 seed=10: M=3 D=994.43 gap=-0.0 TIE t_best=9.8s
+[wc10_t20] rdp205 seed=10: M=3 D=994.43 gap=-0.0 TIE t_best=9.8s
+[wc10] rdp206 seed=10: M=3 D=906.14 gap=0.0 TIE t_best=14.4s wall=60s
+[wc10_t10] rdp206 seed=10: M=3 D=913.18 gap=0.1019 worse t_best=4.2s
+[wc10_t20] rdp206 seed=10: M=3 D=906.14 gap=0.0 TIE t_best=14.4s
+[wc10] rdp207 seed=10: M=2 D=890.61 gap=0.0 TIE t_best=12.4s wall=60s
+[wc10_t10] rdp207 seed=10: M=2 D=893.33 gap=0.0556 worse t_best=9.9s
+[wc10_t20] rdp207 seed=10: M=2 D=890.61 gap=0.0 TIE t_best=12.4s
+[wc10] rdp208 seed=10: M=2 D=726.82 gap=-0.0 TIE t_best=15.7s wall=60s
+[wc10_t10] rdp208 seed=10: M=2 D=727.26 gap=0.0093 worse t_best=9.3s
+[wc10_t20] rdp208 seed=10: M=2 D=726.82 gap=-0.0 TIE t_best=15.7s
+[wc10] rdp209 seed=10: M=3 D=909.16 gap=0.0 TIE t_best=23.6s wall=60s
+[wc10_t10] rdp209 seed=10: M=3 D=909.66 gap=0.0071 worse t_best=9.1s
+[wc10_t20] rdp209 seed=10: M=3 D=909.66 gap=0.0071 worse t_best=9.1s
+[wc10] rdp210 seed=10: M=3 D=939.37 gap=0.0 TIE t_best=12.0s wall=60s
+[wc10_t10] rdp210 seed=10: M=3 D=942.39 gap=0.0435 worse t_best=4.0s
+[wc10_t20] rdp210 seed=10: M=3 D=939.37 gap=0.0 TIE t_best=12.0s
+[wc10] rdp211 seed=10: M=2 D=892.72 gap=0.1435 worse t_best=27.3s wall=60s
+[wc10_t10] rdp211 seed=10: M=2 D=893.18 gap=0.1528 worse t_best=8.0s
+[wc10_t20] rdp211 seed=10: M=2 D=892.88 gap=0.1468 worse t_best=13.5s
+[wc10] rcdp101 seed=10: M=14 D=1708.21 gap=-0.0 TIE t_best=11.1s wall=60s
+[wc10_t10] rcdp101 seed=10: M=14 D=1708.21 gap=-0.0 TIE t_best=1.6s
+[wc10_t20] rcdp101 seed=10: M=14 D=1708.21 gap=-0.0 TIE t_best=11.1s
+[wc10] rcdp102 seed=10: M=12 D=1570.28 gap=-0.0 TIE t_best=21.1s wall=60s
+[wc10_t10] rcdp102 seed=10: M=12 D=1570.28 gap=-0.0 TIE t_best=2.9s
+[wc10_t20] rcdp102 seed=10: M=12 D=1570.28 gap=-0.0 TIE t_best=2.9s
+[wc10] rcdp103 seed=10: M=11 D=1282.53 gap=-0.0 TIE t_best=4.1s wall=60s
+[wc10_t10] rcdp103 seed=10: M=11 D=1282.53 gap=-0.0 TIE t_best=4.1s
+[wc10_t20] rcdp103 seed=10: M=11 D=1282.53 gap=-0.0 TIE t_best=4.1s
+[wc10] rcdp104 seed=10: M=10 D=1171.37 gap=-0.0 TIE t_best=35.2s wall=60s
+[wc10_t10] rcdp104 seed=10: M=10 D=1171.37 gap=-0.0 TIE t_best=6.0s
+[wc10_t20] rcdp104 seed=10: M=10 D=1171.37 gap=-0.0 TIE t_best=6.0s
+[wc10] rcdp105 seed=10: M=13 D=1632.29 gap=0.0 TIE t_best=5.1s wall=60s
+[wc10_t10] rcdp105 seed=10: M=13 D=1632.29 gap=0.0 TIE t_best=5.1s
+[wc10_t20] rcdp105 seed=10: M=13 D=1632.29 gap=0.0 TIE t_best=5.1s
+[wc10] rcdp106 seed=10: M=12 D=1392.47 gap=0.0 TIE t_best=16.9s wall=60s
+[wc10_t10] rcdp106 seed=10: M=12 D=1392.47 gap=0.0 TIE t_best=1.3s
+[wc10_t20] rcdp106 seed=10: M=12 D=1392.47 gap=0.0 TIE t_best=16.9s
+[wc10] rcdp107 seed=10: M=11 D=1255.06 gap=0.0098 worse t_best=18.1s wall=60s
+[wc10_t10] rcdp107 seed=10: M=11 D=1257.12 gap=0.0186 worse t_best=6.4s
+[wc10_t20] rcdp107 seed=10: M=11 D=1255.06 gap=0.0098 worse t_best=18.1s
+[wc10] rcdp108 seed=10: M=10 D=1177.98 gap=0.0 TIE t_best=44.1s wall=60s
+[wc10_t10] rcdp108 seed=10: M=10 D=1180.95 gap=0.014 worse t_best=7.5s
+[wc10_t20] rcdp108 seed=10: M=10 D=1177.98 gap=0.0 TIE t_best=11.3s
+[wc10] rcdp201 seed=10: M=4 D=1406.94 gap=-0.0 TIE t_best=16.6s wall=60s
+[wc10_t10] rcdp201 seed=10: M=4 D=1406.94 gap=-0.0 TIE t_best=1.8s
+[wc10_t20] rcdp201 seed=10: M=4 D=1406.94 gap=-0.0 TIE t_best=16.6s
+[wc10] rcdp202 seed=10: M=3 D=1365.65 gap=0.0 TIE t_best=4.1s wall=60s
+[wc10_t10] rcdp202 seed=10: M=3 D=1365.65 gap=0.0 TIE t_best=4.1s
+[wc10_t20] rcdp202 seed=10: M=3 D=1365.65 gap=0.0 TIE t_best=4.1s
+[wc10] rcdp203 seed=10: M=3 D=1050.45 gap=0.0117 worse t_best=26.7s wall=60s
+[wc10_t10] rcdp203 seed=10: M=3 D=1050.64 gap=0.0143 worse t_best=6.1s
+[wc10_t20] rcdp203 seed=10: M=3 D=1050.64 gap=0.0143 worse t_best=6.1s
+[wc10] rcdp204 seed=10: M=3 D=798.46 gap=-0.0 TIE t_best=11.8s wall=60s
+[wc10_t10] rcdp204 seed=10: M=3 D=798.56 gap=0.0015 worse t_best=7.0s
+[wc10_t20] rcdp204 seed=10: M=3 D=798.46 gap=-0.0 TIE t_best=11.8s
+[wc10] rcdp205 seed=10: M=4 D=1297.65 gap=0.0 TIE t_best=3.0s wall=60s
+[wc10_t10] rcdp205 seed=10: M=4 D=1297.65 gap=0.0 TIE t_best=3.0s
+[wc10_t20] rcdp205 seed=10: M=4 D=1297.65 gap=0.0 TIE t_best=3.0s
+[wc10] rcdp206 seed=10: M=3 D=1146.32 gap=0.0 TIE t_best=9.5s wall=60s
+[wc10_t10] rcdp206 seed=10: M=3 D=1146.32 gap=0.0 TIE t_best=9.5s
+[wc10_t20] rcdp206 seed=10: M=3 D=1146.32 gap=0.0 TIE t_best=9.5s
+[wc10] rcdp207 seed=10: M=3 D=1061.14 gap=0.0 TIE t_best=13.5s wall=60s
+[wc10_t10] rcdp207 seed=10: M=3 D=1062.05 gap=0.0128 worse t_best=9.6s
+[wc10_t20] rcdp207 seed=10: M=3 D=1061.14 gap=0.0 TIE t_best=13.5s
+[wc10] rcdp208 seed=10: M=3 D=828.71 gap=0.0083 worse t_best=41.0s wall=60s
+[wc10_t10] rcdp208 seed=10: M=3 D=830.06 gap=0.028 worse t_best=7.7s
+[wc10_t20] rcdp208 seed=10: M=3 D=829.69 gap=0.0227 worse t_best=12.8s

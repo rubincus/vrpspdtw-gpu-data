@@ -37,3 +37,81 @@ queue9 started at dom., 20 de sep. de 2026 09:22:17 a. m.
 queue9: convergence traces, 4 restart rules x 5 seeds x 600 s on JD 200_1 at dom., 20 de sep. de 2026 09:22:17 a. m.
 queue9b (resume of queue9) started at Mon Sep 21 13:49:33 HSP 2026
 queue9b finished at Mon Sep 21 16:09:39 HSP 2026
+queue10 (JD 7200 s pilot) started at Mon Sep 21 19:51:39 HSP 2026
+queue12 (screening on 1000_2) waiting for queue10 at Mon Sep 21 21:57:24 HSP 2026
+queue10 finished at Mon Sep 21 20:51:45 HSP 2026
+queue12 started at Mon Sep 21 20:52:32 HSP 2026
+queue13 (screening round 2 on 1000_2) waiting for queue12 at Mon Sep 21 20:56:42 HSP 2026
+queue12 finished at Tue Sep 22 03:52:59 HSP 2026
+queue13 started at Tue Sep 22 03:53:09 HSP 2026
+queue13 wrapper stopped at Tue Sep 22 03:58:53 HSP 2026; its tune.py (screening round 2) keeps running
+queue14 (confirmation B1024 + safe arc filter, 7200 s) waiting for screening round 2 at Tue Sep 22 03:58:59 HSP 2026
+queue13 finished at Tue Sep 22 04:53:12 HSP 2026
+queue14 started at Tue Sep 22 05:39:23 HSP 2026
+queue14: remaining jobs after 1000_4 s1 skipped (placeholder rows) at Tue Sep 22 09:10:50 HSP 2026; next: phase-recombination tests
+queue15 (phase recombination, paired test) waiting for queue14 at Tue Sep 22 09:15:27 HSP 2026
+queue14 finished at Tue Sep 22 09:39:33 HSP 2026
+queue15 started at Tue Sep 22 09:40:29 HSP 2026
+queue15: B512 pair skipped (placeholders) at Tue Sep 22 11:43:34 HSP 2026; replaced by the adaptive rule with B1024 (queue15b)
+queue15b (adaptive recombination, paired test) waiting for queue15 at Tue Sep 22 11:43:46 HSP 2026
+queue15 finished at Tue Sep 22 13:40:40 HSP 2026
+queue15b started at Tue Sep 22 13:40:53 HSP 2026
+queue15b: 1000_4 skipped (placeholder) at Tue Sep 22 13:43:38 HSP 2026; replaced by the adaptive rule with patience 2 (queue15c)
+queue15c (adaptive recombination, patience 2, on 1000_4) waiting for queue15b at Tue Sep 22 13:43:47 HSP 2026
+queue15b finished at Tue Sep 22 15:40:59 HSP 2026
+queue15c started at Tue Sep 22 15:41:56 HSP 2026
+queue15c finished at Tue Sep 22 17:42:01 HSP 2026
+queue16 (final JD campaign 600-1000, 7200 s) started at Tue Sep 22 17:43:06 HSP 2026 with configs/final_jd7200.json: {  "600":  {"B": 512,  "allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 1, "K": 30, "arc_rule": "safe", "nbr_compat": true, "checkpoints": [1200, 3600], "rec_mode": "adaptive", "rec_patience": 2},  "800":  {"B": 512,  "allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 1, "K": 30, "arc_rule": "safe", "nbr_compat": true, "checkpoints": [1200, 3600], "rec_mode": "adaptive", "rec_patience": 2},  "1000": {"B": 1024, "allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 1, "K": 30, "arc_rule": "safe", "nbr_compat": true, "checkpoints": [1200, 3600], "rec_mode": "adaptive", "rec_patience": 2}}
+queue16 paused at Wed Sep 23 06:50:31 HSP 2026 with placeholders for the GH (VRPTW) test; to resume: sed -i '/SKIPPED_PLACEHOLDER/d' results/campaign_jd7200.csv and relaunch queue16
+queue17 (GH probe, 6 instances x 300 s) waiting for queue16 to pause at Wed Sep 23 06:53:54 HSP 2026
+queue17 (GH probe, 6 instances x 300 s, distance-only objective) waiting for queue16 to pause at Wed Sep 23 06:56:49 HSP 2026
+queue16: seed 1 done at Wed Sep 23 07:43:24 HSP 2026
+queue16: seed 2 done at Wed Sep 23 07:43:25 HSP 2026
+queue16: seed 3 done at Wed Sep 23 07:43:25 HSP 2026
+queue16: seed 4 done at Wed Sep 23 07:43:26 HSP 2026
+queue16: seed 5 done at Wed Sep 23 07:43:26 HSP 2026
+queue16 finished at Wed Sep 23 07:43:26 HSP 2026
+queue17 started at Wed Sep 23 07:43:52 HSP 2026
+queue17 finished at Wed Sep 23 08:13:54 HSP 2026
+queue16 (final JD campaign 600-1000, 7200 s) started at Wed Sep 23 08:14:12 HSP 2026 with configs/final_jd7200.json: {  "600":  {"B": 512,  "allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 1, "K": 30, "arc_rule": "safe", "nbr_compat": true, "checkpoints": [1200, 3600], "rec_mode": "adaptive", "rec_patience": 2},  "800":  {"B": 512,  "allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 1, "K": 30, "arc_rule": "safe", "nbr_compat": true, "checkpoints": [1200, 3600], "rec_mode": "adaptive", "rec_patience": 2},  "1000": {"B": 1024, "allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 1, "K": 30, "arc_rule": "safe", "nbr_compat": true, "checkpoints": [1200, 3600], "rec_mode": "adaptive", "rec_patience": 2}}
+queue18 (GH 200-customer campaign, 18 x 5 x 1800 s) waiting for the JD campaign at Wed Sep 23 09:18:22 HSP 2026
+queue19 (JD 200 and 400 at 7200 s) waiting for the VRPTW campaign at Wed Sep 23 10:07:04 HSP 2026
+queue16: seed 1 done at Wed Sep 23 16:14:33 HSP 2026
+queue16: seed 2 done at Thu Sep 24 16:15:21 HSP 2026
+queue16: seed 3 done at Fri Sep 25 16:16:09 HSP 2026
+queue16: seed 4 done at Sat Sep 26 16:16:55 HSP 2026
+queue19 (JD 200 and 400 at 7200 s) waiting for the campaign on the large instances at Sat Sep 26 21:56:10 HSP 2026
+queue18 (GH 200-customer campaign, 18 x 5 x 1800 s) waiting for the JD benchmark to be complete at Sat Sep 26 21:56:12 HSP 2026
+queue16: seed 5 done at Sun Sep 27 16:17:41 HSP 2026
+queue16 finished at Sun Sep 27 16:17:41 HSP 2026
+queue19 started at Sun Sep 27 16:21:28 HSP 2026
+queue19: seed 1 done at Mon Sep 28 08:21:42 HSP 2026
+queue19: seed 2 done at Tue Sep 29 00:21:56 HSP 2026
+queue19: seed 3 done at Tue Sep 29 16:22:11 HSP 2026
+queue19: seed 4 done at Wed Sep 30 08:22:25 HSP 2026
+queue19: seed 5 done at Thu Oct  1 00:22:40 HSP 2026
+queue19 finished at Thu Oct  1 00:22:40 HSP 2026
+queue18 started at Thu Oct  1 00:22:45 HSP 2026
+queue18: seed 1 done at Thu Oct  1 09:22:52 HSP 2026
+queue18: seed 2 done at Thu Oct  1 18:23:01 HSP 2026
+queue18: seed 3 done at Fri Oct  2 03:23:09 HSP 2026
+queue18: seed 4 done at Fri Oct  2 12:23:17 HSP 2026
+queue20 (WC restart-mode test) waiting for the VRPTW campaign at Fri Oct  2 14:59:17 HSP 2026
+queue21 (WC campaign, 10 runs) waiting for the restart-mode test at Fri Oct  2 14:59:19 HSP 2026
+queue18: seed 5 done at Fri Oct  2 21:23:26 HSP 2026
+queue18 finished at Fri Oct  2 21:23:27 HSP 2026
+queue20 started at Fri Oct  2 21:24:23 HSP 2026
+queue20 finished at Fri Oct  2 22:24:29 HSP 2026
+queue21 started at Fri Oct  2 22:29:26 HSP 2026 with {"stall_epochs": 20, "arc_rule": "safe", "nbr_compat": true, "restart_mode": "full", "rec_mode": "adaptive", "rec_patience": 2}
+queue21: seed 1 done at Fri Oct  2 23:27:38 HSP 2026
+queue21: seed 2 done at Sat Oct  3 00:25:49 HSP 2026
+queue21: seed 3 done at Sat Oct  3 01:24:01 HSP 2026
+queue21: seed 4 done at Sat Oct  3 02:22:13 HSP 2026
+queue21: seed 5 done at Sat Oct  3 03:20:24 HSP 2026
+queue21: seed 6 done at Sat Oct  3 04:18:35 HSP 2026
+queue21: seed 7 done at Sat Oct  3 05:16:48 HSP 2026
+queue21: seed 8 done at Sat Oct  3 06:14:59 HSP 2026
+queue21: seed 9 done at Sat Oct  3 07:13:10 HSP 2026
+queue21: seed 10 done at Sat Oct  3 08:11:21 HSP 2026
+queue21 finished at Sat Oct  3 08:11:21 HSP 2026
+queue22 (analyses with the final configuration) started at Sat Oct  3 19:15:40 HSP 2026

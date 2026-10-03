@@ -1,0 +1,35 @@
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 1800.0 --tag scr1000_base --params {"B": 512, "allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 1, "K": 30} --inst 1000_2
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[scr1000_base] 1000_2 seed=1: M=195 D=239303.04 gap=-0.6771 NEW_BEST t_best=1676.7s wall=1801s
+[scr1000_base] 1000_2 seed=2: M=194 D=237753.53 gap=-1.2939 NEW_BEST t_best=1789.3s wall=1801s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 1800.0 --tag scr1000_B1024 --params {"B": 1024, "allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 1, "K": 30} --inst 1000_2
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[scr1000_B1024] 1000_2 seed=1: M=194 D=237461.63 gap=-1.3913 NEW_BEST t_best=1800.9s wall=1801s
+[scr1000_B1024] 1000_2 seed=2: M=192 D=237122.38 gap=-1.7045 NEW_BEST t_best=1800.1s wall=1800s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 1800.0 --tag scr1000_K60 --params {"B": 512, "allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 1, "K": 60} --inst 1000_2
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[scr1000_K60] 1000_2 seed=1: M=194 D=238676.82 gap=-0.986 NEW_BEST t_best=1611.3s wall=1802s
+[scr1000_K60] 1000_2 seed=2: M=193 D=237915.57 gap=-1.3399 NEW_BEST t_best=1801.4s wall=1802s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 1800.0 --tag scr1000_arcsafe --params {"B": 512, "allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 1, "K": 30, "arc_rule": "safe", "nbr_compat": true} --inst 1000_2
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[scr1000_arcsafe] 1000_2 seed=1: M=194 D=237621.93 gap=-1.3378 NEW_BEST t_best=1774.0s wall=1803s
+[scr1000_arcsafe] 1000_2 seed=2: M=194 D=237930.28 gap=-1.235 NEW_BEST t_best=1625.3s wall=1800s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 1800.0 --tag scr1000_ends3 --params {"B": 512, "allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 3, "K": 30} --inst 1000_2
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[scr1000_ends3] 1000_2 seed=1: M=196 D=238050.19 gap=-0.9949 NEW_BEST t_best=1424.8s wall=1802s
+[scr1000_ends3] 1000_2 seed=2: M=195 D=239402.38 gap=-0.644 NEW_BEST t_best=1384.7s wall=1802s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 1800.0 --tag scr1000_L900 --params {"B": 512, "allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 1, "K": 30, "L": 900} --inst 1000_2
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[scr1000_L900] 1000_2 seed=1: M=197 D=241960.89 gap=0.4095 worse t_best=1750.4s wall=1800s
+[scr1000_L900] 1000_2 seed=2: M=198 D=242291.27 gap=0.6197 worse t_best=1793.6s wall=1801s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 1800.0 --tag scr1000_proute08 --params {"B": 512, "allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 1, "K": 30, "p_route_removal": 0.8} --inst 1000_2
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[scr1000_proute08] 1000_2 seed=1: M=193 D=237637.30 gap=-1.4327 NEW_BEST t_best=1438.2s wall=1801s
+[scr1000_proute08] 1000_2 seed=2: M=198 D=239094.52 gap=-0.4465 NEW_BEST t_best=1053.1s wall=1800s

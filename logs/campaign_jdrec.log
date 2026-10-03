@@ -1,0 +1,20 @@
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jdrec1024] 1000_2 seed=1: M=194 D=236922.67 gap=-1.571 NEW_BEST t_best=7140.5s wall=7204s
+[jdrec1024_t3600] 1000_2 seed=1: M=194 D=237673.24 gap=-1.3207 NEW_BEST t_best=2058.7s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jdrec1024] 1000_4 seed=1: M=193 D=236196.38 gap=-1.4935 NEW_BEST t_best=6927.8s wall=7204s
+[jdrec1024_t3600] 1000_4 seed=1: M=193 D=236425.07 gap=-1.4169 NEW_BEST t_best=2219.8s
+skip jdrec512 1000_2 seed 1 (already done)
+skip jdc512 1000_2 seed 1 (already done)
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jdrecA1024] 1000_2 seed=1: M=194 D=236942.06 gap=-1.5646 NEW_BEST t_best=6421.3s wall=7205s
+[jdrecA1024_t1200] 1000_2 seed=1: M=195 D=237912.29 gap=-1.1409 NEW_BEST t_best=1159.1s
+[jdrecA1024_t3600] 1000_2 seed=1: M=194 D=237673.24 gap=-1.3207 NEW_BEST t_best=2056.9s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[jdrecP1024] 1000_4 seed=1: M=192 D=235482.70 gap=-1.833 NEW_BEST t_best=6973.8s wall=7203s
+[jdrecP1024_t1200] 1000_4 seed=1: M=195 D=237864.65 gap=-0.7337 NEW_BEST t_best=1191.8s
+[jdrecP1024_t3600] 1000_4 seed=1: M=193 D=236425.07 gap=-1.4169 NEW_BEST t_best=2260.9s
