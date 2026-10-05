@@ -1,0 +1,28 @@
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+seed 1 descent_open_K20     after 300 it: found feasible 121/121, found one route fewer 1, found 14 routes 0 | current: feasible 121, one route fewer 1, mean routes 15.776859504132231
+seed 1 descent_closed_K20   after 300 it: found feasible 4/121, found one route fewer 4, found 14 routes 0 | current: feasible 4, one route fewer 4, mean routes 15.25
+seed 1 descent_closed_K99   after 300 it: found feasible 5/121, found one route fewer 5, found 14 routes 0 | current: feasible 5, one route fewer 5, mean routes 15.2
+seed 1 tabu_open_K20        after 300 it: found feasible 121/121, found one route fewer 88, found 14 routes 0 | current: feasible 58, one route fewer 42, mean routes 15.068965517241379
+seed 1: start routes {15: 29, 16: 91, 17: 1} (6 s)
+seed 2 descent_open_K20     after 300 it: found feasible 128/128, found one route fewer 4, found 14 routes 0 | current: feasible 128, one route fewer 4, mean routes 15.8046875
+seed 2 descent_closed_K20   after 300 it: found feasible 12/128, found one route fewer 12, found 14 routes 0 | current: feasible 12, one route fewer 12, mean routes 15.083333333333334
+seed 2 descent_closed_K99   after 300 it: found feasible 11/128, found one route fewer 11, found 14 routes 0 | current: feasible 11, one route fewer 11, mean routes 15.090909090909092
+seed 2 tabu_open_K20        after 300 it: found feasible 128/128, found one route fewer 91, found 14 routes 0 | current: feasible 72, one route fewer 47, mean routes 15.208333333333334
+seed 2: start routes {15: 24, 16: 103, 17: 1} (13 s)
+seed 3 descent_open_K20     after 300 it: found feasible 141/141, found one route fewer 7, found 14 routes 0 | current: feasible 141, one route fewer 7, mean routes 15.71631205673759
+seed 3 descent_closed_K20   after 300 it: found feasible 10/141, found one route fewer 10, found 14 routes 0 | current: feasible 10, one route fewer 10, mean routes 15.2
+seed 3 descent_closed_K99   after 300 it: found feasible 11/141, found one route fewer 11, found 14 routes 0 | current: feasible 10, one route fewer 10, mean routes 15.2
+seed 3 tabu_open_K20        after 300 it: found feasible 141/141, found one route fewer 94, found 14 routes 0 | current: feasible 74, one route fewer 48, mean routes 15.108108108108109
+seed 3: start routes {15: 39, 16: 98, 17: 4} (19 s)
+seed 4 descent_open_K20     after 300 it: found feasible 129/129, found one route fewer 1, found 14 routes 0 | current: feasible 129, one route fewer 1, mean routes 15.852713178294573
+seed 4 descent_closed_K20   after 300 it: found feasible 6/129, found one route fewer 6, found 14 routes 0 | current: feasible 6, one route fewer 6, mean routes 15.166666666666666
+seed 4 descent_closed_K99   after 300 it: found feasible 6/129, found one route fewer 6, found 14 routes 0 | current: feasible 6, one route fewer 6, mean routes 15.166666666666666
+seed 4 tabu_open_K20        after 300 it: found feasible 129/129, found one route fewer 96, found 14 routes 0 | current: feasible 68, one route fewer 51, mean routes 15.161764705882353
+seed 4: start routes {15: 23, 16: 104, 17: 1, 18: 1} (25 s)
+seed 5 descent_open_K20     after 300 it: found feasible 125/125, found one route fewer 2, found 14 routes 0 | current: feasible 125, one route fewer 2, mean routes 15.776
+seed 5 descent_closed_K20   after 300 it: found feasible 7/125, found one route fewer 7, found 14 routes 0 | current: feasible 7, one route fewer 7, mean routes 15.0
+seed 5 descent_closed_K99   after 300 it: found feasible 7/125, found one route fewer 7, found 14 routes 0 | current: feasible 6, one route fewer 6, mean routes 15.0
+seed 5 tabu_open_K20        after 300 it: found feasible 124/125, found one route fewer 90, found 14 routes 0 | current: feasible 62, one route fewer 42, mean routes 15.096774193548388
+seed 5: start routes {15: 28, 16: 96, 17: 1} (31 s)
+wrote C:\Users\Admin\source\repos\vrpspdtw-gpu\results\repair_diag.json

@@ -1,0 +1,3 @@
+tag,algo,instance,kind,seed,time_budget,M,D,total,bks_M,bks_D,bks_total,gap_pct,status,t_best,epochs,iters,params,file
+gh400probe,copts,c1_4_1,GH,1,120.0,40,7143.2,7143.2,,,,,,2.05,63,18800,"{""stall_epochs"": 20, ""K"": 30, ""arc_rule"": ""safe"", ""nbr_compat"": true, ""rec_mode"": ""adaptive"", ""rec_patience"": 2, ""newroute_cost"": 200}",c1_4_1_copts_s1_20261005-055024_gh400probe
+gh400probe,copts,r2_4_1,GH,1,120.0,22,7574.7,7574.7,,,,,,72.35,41,12050,"{""stall_epochs"": 20, ""K"": 30, ""arc_rule"": ""safe"", ""nbr_compat"": true, ""rec_mode"": ""adaptive"", ""rec_patience"": 2, ""newroute_cost"": 200}",r2_4_1_copts_s1_20261005-055224_gh400probe

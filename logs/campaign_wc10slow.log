@@ -1,0 +1,200 @@
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10slow] rdp112 seed=1: M=9 D=997.26 gap=0.0 TIE t_best=103.6s wall=180s
+[wc10slow_t20] rdp112 seed=1: M=9 D=999.44 gap=0.0114 worse t_best=18.5s
+[wc10slow_t60] rdp112 seed=1: M=9 D=998.22 gap=0.005 worse t_best=32.6s
+[wc10slow] rdp203 seed=1: M=3 D=939.50 gap=-0.0 TIE t_best=94.1s wall=180s
+[wc10slow_t20] rdp203 seed=1: M=3 D=941.08 gap=0.0228 worse t_best=15.1s
+[wc10slow_t60] rdp203 seed=1: M=3 D=939.88 gap=0.0055 worse t_best=57.6s
+[wc10slow] rdp209 seed=1: M=3 D=909.16 gap=0.0 TIE t_best=74.3s wall=180s
+[wc10slow_t20] rdp209 seed=1: M=3 D=909.66 gap=0.0071 worse t_best=18.1s
+[wc10slow_t60] rdp209 seed=1: M=3 D=909.16 gap=0.0 TIE t_best=23.6s
+[wc10slow] rdp211 seed=1: M=2 D=890.93 gap=0.1069 worse t_best=42.4s wall=180s
+[wc10slow_t20] rdp211 seed=1: M=2 D=903.13 gap=0.3566 worse t_best=18.5s
+[wc10slow_t60] rdp211 seed=1: M=2 D=890.93 gap=0.1069 worse t_best=42.4s
+[wc10slow] rcdp107 seed=1: M=11 D=1252.79 gap=-0.0 TIE t_best=8.3s wall=180s
+[wc10slow_t20] rcdp107 seed=1: M=11 D=1252.79 gap=-0.0 TIE t_best=8.3s
+[wc10slow_t60] rcdp107 seed=1: M=11 D=1252.79 gap=-0.0 TIE t_best=8.3s
+[wc10slow] rcdp208 seed=1: M=3 D=828.14 gap=0.0 TIE t_best=46.0s wall=180s
+[wc10slow_t20] rcdp208 seed=1: M=3 D=828.71 gap=0.0083 worse t_best=15.4s
+[wc10slow_t60] rcdp208 seed=1: M=3 D=828.14 gap=0.0 TIE t_best=46.0s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10slow] rdp112 seed=2: M=9 D=999.44 gap=0.0114 worse t_best=18.5s wall=180s
+[wc10slow_t20] rdp112 seed=2: M=9 D=999.44 gap=0.0114 worse t_best=18.5s
+[wc10slow_t60] rdp112 seed=2: M=9 D=999.44 gap=0.0114 worse t_best=18.5s
+[wc10slow] rdp203 seed=2: M=3 D=939.50 gap=-0.0 TIE t_best=8.7s wall=182s
+[wc10slow_t20] rdp203 seed=2: M=3 D=939.50 gap=-0.0 TIE t_best=8.7s
+[wc10slow_t60] rdp203 seed=2: M=3 D=939.50 gap=-0.0 TIE t_best=8.7s
+[wc10slow] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=18.2s wall=180s
+[wc10slow_t20] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=18.2s
+[wc10slow_t60] rdp209 seed=2: M=3 D=909.16 gap=0.0 TIE t_best=18.2s
+[wc10slow] rdp211 seed=2: M=2 D=899.97 gap=0.2918 worse t_best=61.7s wall=180s
+[wc10slow_t20] rdp211 seed=2: M=2 D=902.09 gap=0.3352 worse t_best=16.0s
+[wc10slow_t60] rdp211 seed=2: M=2 D=900.19 gap=0.2964 worse t_best=56.2s
+[wc10slow] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=9.4s wall=180s
+[wc10slow_t20] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=9.4s
+[wc10slow_t60] rcdp107 seed=2: M=11 D=1252.79 gap=-0.0 TIE t_best=9.4s
+[wc10slow] rcdp208 seed=2: M=3 D=828.14 gap=0.0 TIE t_best=148.7s wall=180s
+[wc10slow_t20] rcdp208 seed=2: M=3 D=829.69 gap=0.0227 worse t_best=15.4s
+[wc10slow_t60] rcdp208 seed=2: M=3 D=828.71 gap=0.0083 worse t_best=20.5s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10slow] rdp112 seed=3: M=9 D=999.44 gap=0.0114 worse t_best=111.6s wall=180s
+[wc10slow_t20] rdp112 seed=3: M=9 D=1001.00 gap=0.0197 worse t_best=15.5s
+[wc10slow_t60] rdp112 seed=3: M=9 D=999.44 gap=0.0115 worse t_best=46.7s
+[wc10slow] rdp203 seed=3: M=3 D=939.50 gap=-0.0 TIE t_best=74.4s wall=180s
+[wc10slow_t20] rdp203 seed=3: M=3 D=941.08 gap=0.0228 worse t_best=6.5s
+[wc10slow_t60] rdp203 seed=3: M=3 D=939.58 gap=0.0011 worse t_best=53.2s
+[wc10slow] rdp209 seed=3: M=3 D=909.16 gap=0.0 TIE t_best=38.0s wall=180s
+[wc10slow_t20] rdp209 seed=3: M=3 D=909.66 gap=0.0071 worse t_best=12.6s
+[wc10slow_t60] rdp209 seed=3: M=3 D=909.16 gap=0.0 TIE t_best=38.0s
+[wc10slow] rdp211 seed=3: M=2 D=898.15 gap=0.2546 worse t_best=10.6s wall=180s
+[wc10slow_t20] rdp211 seed=3: M=2 D=898.15 gap=0.2546 worse t_best=10.6s
+[wc10slow_t60] rdp211 seed=3: M=2 D=898.15 gap=0.2546 worse t_best=10.6s
+[wc10slow] rcdp107 seed=3: M=11 D=1252.79 gap=-0.0 TIE t_best=66.5s wall=180s
+[wc10slow_t20] rcdp107 seed=3: M=11 D=1255.06 gap=0.0098 worse t_best=7.3s
+[wc10slow_t60] rcdp107 seed=3: M=11 D=1255.06 gap=0.0098 worse t_best=7.3s
+[wc10slow] rcdp208 seed=3: M=3 D=828.14 gap=0.0 TIE t_best=22.9s wall=180s
+[wc10slow_t20] rcdp208 seed=3: M=3 D=828.71 gap=0.0083 worse t_best=5.1s
+[wc10slow_t60] rcdp208 seed=3: M=3 D=828.14 gap=0.0 TIE t_best=22.9s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10slow] rdp112 seed=4: M=9 D=999.44 gap=0.0114 worse t_best=27.1s wall=180s
+[wc10slow_t20] rdp112 seed=4: M=9 D=999.44 gap=0.0115 worse t_best=17.1s
+[wc10slow_t60] rdp112 seed=4: M=9 D=999.44 gap=0.0114 worse t_best=27.1s
+[wc10slow] rdp203 seed=4: M=3 D=939.50 gap=-0.0 TIE t_best=40.7s wall=180s
+[wc10slow_t20] rdp203 seed=4: M=3 D=939.80 gap=0.0043 worse t_best=19.4s
+[wc10slow_t60] rdp203 seed=4: M=3 D=939.50 gap=-0.0 TIE t_best=40.7s
+[wc10slow] rdp209 seed=4: M=3 D=909.16 gap=0.0 TIE t_best=88.5s wall=180s
+[wc10slow_t20] rdp209 seed=4: M=3 D=909.66 gap=0.0071 worse t_best=10.9s
+[wc10slow_t60] rdp209 seed=4: M=3 D=909.16 gap=0.0 TIE t_best=41.8s
+[wc10slow] rdp211 seed=4: M=2 D=892.99 gap=0.149 worse t_best=44.0s wall=180s
+[wc10slow_t20] rdp211 seed=4: M=2 D=901.34 gap=0.3198 worse t_best=18.8s
+[wc10slow_t60] rdp211 seed=4: M=2 D=892.99 gap=0.149 worse t_best=44.0s
+[wc10slow] rcdp107 seed=4: M=11 D=1252.79 gap=-0.0 TIE t_best=146.3s wall=180s
+[wc10slow_t20] rcdp107 seed=4: M=11 D=1255.06 gap=0.0098 worse t_best=13.7s
+[wc10slow_t60] rcdp107 seed=4: M=11 D=1255.06 gap=0.0098 worse t_best=13.7s
+[wc10slow] rcdp208 seed=4: M=3 D=828.14 gap=0.0 TIE t_best=97.5s wall=180s
+[wc10slow_t20] rcdp208 seed=4: M=3 D=828.71 gap=0.0083 worse t_best=5.1s
+[wc10slow_t60] rcdp208 seed=4: M=3 D=828.71 gap=0.0083 worse t_best=5.1s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10slow] rdp112 seed=5: M=9 D=997.26 gap=0.0 TIE t_best=134.5s wall=180s
+[wc10slow_t20] rdp112 seed=5: M=9 D=1000.52 gap=0.0171 worse t_best=15.7s
+[wc10slow_t60] rdp112 seed=5: M=9 D=999.44 gap=0.0114 worse t_best=40.0s
+[wc10slow] rdp203 seed=5: M=3 D=939.50 gap=-0.0 TIE t_best=75.3s wall=180s
+[wc10slow_t20] rdp203 seed=5: M=3 D=941.08 gap=0.0228 worse t_best=17.3s
+[wc10slow_t60] rdp203 seed=5: M=3 D=939.86 gap=0.0052 worse t_best=58.0s
+[wc10slow] rdp209 seed=5: M=3 D=909.16 gap=0.0 TIE t_best=9.1s wall=180s
+[wc10slow_t20] rdp209 seed=5: M=3 D=909.16 gap=0.0 TIE t_best=9.1s
+[wc10slow_t60] rdp209 seed=5: M=3 D=909.16 gap=0.0 TIE t_best=9.1s
+[wc10slow] rdp211 seed=5: M=2 D=891.89 gap=0.1265 worse t_best=175.3s wall=180s
+[wc10slow_t20] rdp211 seed=5: M=2 D=893.14 gap=0.1521 worse t_best=16.2s
+[wc10slow_t60] rdp211 seed=5: M=2 D=893.14 gap=0.1521 worse t_best=16.2s
+[wc10slow] rcdp107 seed=5: M=11 D=1252.79 gap=-0.0 TIE t_best=87.8s wall=180s
+[wc10slow_t20] rcdp107 seed=5: M=11 D=1255.06 gap=0.0098 worse t_best=9.4s
+[wc10slow_t60] rcdp107 seed=5: M=11 D=1255.06 gap=0.0098 worse t_best=9.4s
+[wc10slow] rcdp208 seed=5: M=3 D=828.14 gap=0.0 TIE t_best=10.3s wall=180s
+[wc10slow_t20] rcdp208 seed=5: M=3 D=828.14 gap=0.0 TIE t_best=10.3s
+[wc10slow_t60] rcdp208 seed=5: M=3 D=828.14 gap=0.0 TIE t_best=10.3s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10slow] rdp112 seed=6: M=9 D=997.26 gap=0.0 TIE t_best=144.8s wall=180s
+[wc10slow_t20] rdp112 seed=6: M=9 D=1000.52 gap=0.0171 worse t_best=18.4s
+[wc10slow_t60] rdp112 seed=6: M=9 D=999.44 gap=0.0114 worse t_best=25.5s
+[wc10slow] rdp203 seed=6: M=3 D=939.50 gap=-0.0 TIE t_best=6.5s wall=180s
+[wc10slow_t20] rdp203 seed=6: M=3 D=939.50 gap=-0.0 TIE t_best=6.5s
+[wc10slow_t60] rdp203 seed=6: M=3 D=939.50 gap=-0.0 TIE t_best=6.5s
+[wc10slow] rdp209 seed=6: M=3 D=909.16 gap=0.0 TIE t_best=16.2s wall=180s
+[wc10slow_t20] rdp209 seed=6: M=3 D=909.16 gap=0.0 TIE t_best=16.2s
+[wc10slow_t60] rdp209 seed=6: M=3 D=909.16 gap=0.0 TIE t_best=16.2s
+[wc10slow] rdp211 seed=6: M=2 D=898.15 gap=0.2546 worse t_best=16.1s wall=180s
+[wc10slow_t20] rdp211 seed=6: M=2 D=898.15 gap=0.2546 worse t_best=16.1s
+[wc10slow_t60] rdp211 seed=6: M=2 D=898.15 gap=0.2546 worse t_best=16.1s
+[wc10slow] rcdp107 seed=6: M=11 D=1252.79 gap=-0.0 TIE t_best=14.6s wall=180s
+[wc10slow_t20] rcdp107 seed=6: M=11 D=1252.79 gap=-0.0 TIE t_best=14.6s
+[wc10slow_t60] rcdp107 seed=6: M=11 D=1252.79 gap=-0.0 TIE t_best=14.6s
+[wc10slow] rcdp208 seed=6: M=3 D=828.14 gap=0.0 TIE t_best=91.7s wall=180s
+[wc10slow_t20] rcdp208 seed=6: M=3 D=829.69 gap=0.0227 worse t_best=7.7s
+[wc10slow_t60] rcdp208 seed=6: M=3 D=828.71 gap=0.0083 worse t_best=25.5s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10slow] rdp112 seed=7: M=9 D=999.44 gap=0.0114 worse t_best=14.3s wall=180s
+[wc10slow_t20] rdp112 seed=7: M=9 D=999.44 gap=0.0114 worse t_best=14.3s
+[wc10slow_t60] rdp112 seed=7: M=9 D=999.44 gap=0.0114 worse t_best=14.3s
+[wc10slow] rdp203 seed=7: M=3 D=939.50 gap=-0.0 TIE t_best=17.2s wall=180s
+[wc10slow_t20] rdp203 seed=7: M=3 D=939.50 gap=-0.0 TIE t_best=17.2s
+[wc10slow_t60] rdp203 seed=7: M=3 D=939.50 gap=-0.0 TIE t_best=17.2s
+[wc10slow] rdp209 seed=7: M=3 D=909.16 gap=0.0 TIE t_best=18.2s wall=180s
+[wc10slow_t20] rdp209 seed=7: M=3 D=909.16 gap=0.0 TIE t_best=18.2s
+[wc10slow_t60] rdp209 seed=7: M=3 D=909.16 gap=0.0 TIE t_best=18.2s
+[wc10slow] rdp211 seed=7: M=2 D=898.15 gap=0.2546 worse t_best=35.0s wall=180s
+[wc10slow_t20] rdp211 seed=7: M=2 D=901.58 gap=0.3248 worse t_best=16.1s
+[wc10slow_t60] rdp211 seed=7: M=2 D=898.15 gap=0.2546 worse t_best=35.0s
+[wc10slow] rcdp107 seed=7: M=11 D=1252.79 gap=-0.0 TIE t_best=81.7s wall=180s
+[wc10slow_t20] rcdp107 seed=7: M=11 D=1255.06 gap=0.0098 worse t_best=12.6s
+[wc10slow_t60] rcdp107 seed=7: M=11 D=1255.06 gap=0.0098 worse t_best=12.6s
+[wc10slow] rcdp208 seed=7: M=3 D=828.14 gap=0.0 TIE t_best=136.5s wall=180s
+[wc10slow_t20] rcdp208 seed=7: M=3 D=828.71 gap=0.0083 worse t_best=5.1s
+[wc10slow_t60] rcdp208 seed=7: M=3 D=828.71 gap=0.0083 worse t_best=5.1s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10slow] rdp112 seed=8: M=9 D=997.26 gap=0.0 TIE t_best=34.0s wall=180s
+[wc10slow_t20] rdp112 seed=8: M=9 D=1000.64 gap=0.0178 worse t_best=18.4s
+[wc10slow_t60] rdp112 seed=8: M=9 D=997.26 gap=0.0 TIE t_best=34.0s
+[wc10slow] rdp203 seed=8: M=3 D=939.50 gap=-0.0 TIE t_best=23.8s wall=180s
+[wc10slow_t20] rdp203 seed=8: M=3 D=939.58 gap=0.0011 worse t_best=15.1s
+[wc10slow_t60] rdp203 seed=8: M=3 D=939.50 gap=-0.0 TIE t_best=23.8s
+[wc10slow] rdp209 seed=8: M=3 D=909.16 gap=0.0 TIE t_best=93.7s wall=180s
+[wc10slow_t20] rdp209 seed=8: M=3 D=910.20 gap=0.0149 worse t_best=12.8s
+[wc10slow_t60] rdp209 seed=8: M=3 D=909.66 gap=0.0071 worse t_best=36.7s
+[wc10slow] rdp211 seed=8: M=2 D=898.15 gap=0.2546 worse t_best=27.1s wall=180s
+[wc10slow_t20] rdp211 seed=8: M=2 D=904.00 gap=0.3744 worse t_best=5.2s
+[wc10slow_t60] rdp211 seed=8: M=2 D=898.15 gap=0.2546 worse t_best=27.1s
+[wc10slow] rcdp107 seed=8: M=11 D=1252.79 gap=-0.0 TIE t_best=14.6s wall=180s
+[wc10slow_t20] rcdp107 seed=8: M=11 D=1252.79 gap=-0.0 TIE t_best=14.6s
+[wc10slow_t60] rcdp107 seed=8: M=11 D=1252.79 gap=-0.0 TIE t_best=14.6s
+[wc10slow] rcdp208 seed=8: M=3 D=828.14 gap=0.0 TIE t_best=46.0s wall=180s
+[wc10slow_t20] rcdp208 seed=8: M=3 D=829.69 gap=0.0227 worse t_best=7.7s
+[wc10slow_t60] rcdp208 seed=8: M=3 D=828.14 gap=0.0 TIE t_best=46.0s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10slow] rdp112 seed=9: M=9 D=997.26 gap=0.0 TIE t_best=161.8s wall=180s
+[wc10slow_t20] rdp112 seed=9: M=9 D=1001.00 gap=0.0197 worse t_best=18.5s
+[wc10slow_t60] rdp112 seed=9: M=9 D=999.44 gap=0.0115 worse t_best=48.3s
+[wc10slow] rdp203 seed=9: M=3 D=939.50 gap=-0.0 TIE t_best=51.2s wall=180s
+[wc10slow_t20] rdp203 seed=9: M=3 D=939.58 gap=0.0011 worse t_best=8.6s
+[wc10slow_t60] rdp203 seed=9: M=3 D=939.50 gap=-0.0 TIE t_best=51.2s
+[wc10slow] rdp209 seed=9: M=3 D=909.16 gap=0.0 TIE t_best=69.1s wall=180s
+[wc10slow_t20] rdp209 seed=9: M=3 D=909.66 gap=0.0071 worse t_best=16.4s
+[wc10slow_t60] rdp209 seed=9: M=3 D=909.66 gap=0.0071 worse t_best=16.4s
+[wc10slow] rdp211 seed=9: M=2 D=898.15 gap=0.2546 worse t_best=40.4s wall=180s
+[wc10slow_t20] rdp211 seed=9: M=2 D=899.81 gap=0.2885 worse t_best=10.6s
+[wc10slow_t60] rdp211 seed=9: M=2 D=898.15 gap=0.2546 worse t_best=40.4s
+[wc10slow] rcdp107 seed=9: M=11 D=1252.79 gap=-0.0 TIE t_best=108.4s wall=180s
+[wc10slow_t20] rcdp107 seed=9: M=11 D=1255.06 gap=0.0098 worse t_best=12.5s
+[wc10slow_t60] rcdp107 seed=9: M=11 D=1255.06 gap=0.0098 worse t_best=12.5s
+[wc10slow] rcdp208 seed=9: M=3 D=828.14 gap=0.0 TIE t_best=51.1s wall=180s
+[wc10slow_t20] rcdp208 seed=9: M=3 D=829.69 gap=0.0227 worse t_best=10.3s
+[wc10slow_t60] rcdp208 seed=9: M=3 D=828.14 gap=0.0 TIE t_best=51.1s
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[wc10slow] rdp112 seed=10: M=9 D=997.26 gap=0.0 TIE t_best=116.7s wall=180s
+[wc10slow_t20] rdp112 seed=10: M=9 D=999.44 gap=0.0114 worse t_best=18.5s
+[wc10slow_t60] rdp112 seed=10: M=9 D=999.44 gap=0.0114 worse t_best=18.5s
+[wc10slow] rdp203 seed=10: M=3 D=939.50 gap=-0.0 TIE t_best=23.6s wall=180s
+[wc10slow_t20] rdp203 seed=10: M=3 D=939.58 gap=0.0011 worse t_best=6.5s
+[wc10slow_t60] rdp203 seed=10: M=3 D=939.50 gap=-0.0 TIE t_best=23.6s
+[wc10slow] rdp209 seed=10: M=3 D=909.16 gap=0.0 TIE t_best=81.1s wall=180s
+[wc10slow_t20] rdp209 seed=10: M=3 D=909.66 gap=0.0071 worse t_best=9.1s
+[wc10slow_t60] rdp209 seed=10: M=3 D=909.16 gap=0.0 TIE t_best=23.5s
+[wc10slow] rdp211 seed=10: M=2 D=885.71 gap=0.0 TIE t_best=171.9s wall=180s
+[wc10slow_t20] rdp211 seed=10: M=2 D=892.88 gap=0.1468 worse t_best=13.4s
+[wc10slow_t60] rdp211 seed=10: M=2 D=892.72 gap=0.1435 worse t_best=27.2s
+[wc10slow] rcdp107 seed=10: M=11 D=1255.06 gap=0.0098 worse t_best=17.8s wall=180s
+[wc10slow_t20] rcdp107 seed=10: M=11 D=1255.06 gap=0.0098 worse t_best=17.8s
+[wc10slow_t60] rcdp107 seed=10: M=11 D=1255.06 gap=0.0098 worse t_best=17.8s
+[wc10slow] rcdp208 seed=10: M=3 D=828.14 gap=0.0 TIE t_best=105.3s wall=180s
+[wc10slow_t20] rcdp208 seed=10: M=3 D=829.69 gap=0.0227 worse t_best=12.8s
+[wc10slow_t60] rcdp208 seed=10: M=3 D=828.71 gap=0.0083 worse t_best=41.0s

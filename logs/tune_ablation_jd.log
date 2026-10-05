@@ -1,0 +1,42 @@
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 300.0 --tag abljd_base --params {"B": 512, "allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 1, "K": 30, "arc_rule": "safe", "nbr_compat": true, "rec_mode": "adaptive", "rec_patience": 2} --inst 400_1 600_4
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[abljd_base] 400_1 seed=1: M=76 D=93997.26 gap=0.7954 worse t_best=192.5s wall=300s
+[abljd_base] 400_1 seed=2: M=76 D=94170.96 gap=0.9453 worse t_best=138.0s wall=300s
+[abljd_base] 600_4 seed=1: M=116 D=144457.05 gap=0.5928 worse t_best=299.0s wall=301s
+[abljd_base] 600_4 seed=2: M=114 D=144425.06 gap=0.2382 worse t_best=300.4s wall=300s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 300.0 --tag abljd_nocoop --params {"B": 512, "allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 1, "K": 30, "arc_rule": "safe", "nbr_compat": true, "rec_mode": "adaptive", "rec_patience": 2, "rho": 0.0, "dedup": false} --inst 400_1 600_4
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[abljd_nocoop] 400_1 seed=1: M=78 D=96548.19 gap=3.5146 worse t_best=287.7s wall=300s
+[abljd_nocoop] 400_1 seed=2: M=77 D=97063.62 gap=3.7005 worse t_best=277.4s wall=300s
+[abljd_nocoop] 600_4 seed=1: M=121 D=149833.73 gap=4.4518 worse t_best=260.7s wall=301s
+[abljd_nocoop] 600_4 seed=2: M=120 D=148316.22 gap=3.4319 worse t_best=252.8s wall=301s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 300.0 --tag abljd_noends --params {"B": 512, "allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 0, "K": 30, "arc_rule": "safe", "nbr_compat": true, "rec_mode": "adaptive", "rec_patience": 2} --inst 400_1 600_4
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[abljd_noends] 400_1 seed=1: M=76 D=95092.52 gap=1.7406 worse t_best=273.1s wall=301s
+[abljd_noends] 400_1 seed=2: M=77 D=95072.32 gap=1.9821 worse t_best=297.7s wall=300s
+[abljd_noends] 600_4 seed=1: M=117 D=146115.45 gap=1.6918 worse t_best=278.3s wall=301s
+[abljd_noends] 600_4 seed=2: M=118 D=146935.42 gap=2.3203 worse t_best=298.5s wall=301s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 300.0 --tag abljd_norestart --params {"B": 512, "allow_open": false, "stall_epochs": 0, "restart_mode": "full", "ends_len": 1, "K": 30, "arc_rule": "safe", "nbr_compat": true, "rec_mode": "adaptive", "rec_patience": 2} --inst 400_1 600_4
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[abljd_norestart] 400_1 seed=1: M=76 D=93997.26 gap=0.7954 worse t_best=193.3s wall=301s
+[abljd_norestart] 400_1 seed=2: M=76 D=94156.36 gap=0.9327 worse t_best=211.2s wall=302s
+[abljd_norestart] 600_4 seed=1: M=116 D=144457.05 gap=0.5928 worse t_best=299.1s wall=301s
+[abljd_norestart] 600_4 seed=2: M=114 D=144302.93 gap=0.1696 worse t_best=300.0s wall=300s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 300.0 --tag abljd_norec --params {"B": 512, "allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 1, "K": 30, "arc_rule": "safe", "nbr_compat": true, "rec_mode": "none", "rec_patience": 2} --inst 400_1 600_4
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[abljd_norec] 400_1 seed=1: M=76 D=93997.26 gap=0.7954 worse t_best=192.3s wall=300s
+[abljd_norec] 400_1 seed=2: M=76 D=94170.96 gap=0.9453 worse t_best=141.5s wall=300s
+[abljd_norec] 600_4 seed=1: M=116 D=144457.05 gap=0.5928 worse t_best=300.2s wall=301s
+[abljd_norec] 600_4 seed=2: M=115 D=144427.78 gap=0.408 worse t_best=297.5s wall=301s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 --time 300.0 --tag abljd_nosafe --params {"B": 512, "allow_open": false, "stall_epochs": 15, "restart_mode": "full", "ends_len": 1, "K": 30, "arc_rule": "mafird", "nbr_compat": false, "rec_mode": "adaptive", "rec_patience": 2} --inst 400_1 600_4
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[abljd_nosafe] 400_1 seed=1: M=76 D=94142.45 gap=0.9207 worse t_best=263.3s wall=300s
+[abljd_nosafe] 400_1 seed=2: M=77 D=94724.35 gap=1.6818 worse t_best=229.6s wall=300s
+[abljd_nosafe] 600_4 seed=1: M=116 D=144618.59 gap=0.6835 worse t_best=292.9s wall=301s
+[abljd_nosafe] 600_4 seed=2: M=116 D=143933.86 gap=0.2992 worse t_best=300.5s wall=301s
