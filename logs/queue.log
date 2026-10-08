@@ -129,3 +129,25 @@ queue22 resumed at Mon Oct  5 02:07:05 HSP 2026
 queue22 already finished; nothing to do at Mon Oct  5 02:07:05 HSP 2026
 queue23 finished at Mon Oct  5 05:06:27 HSP 2026
 queue24 (GH 400-customer campaign, 18 x 5 x 3600 s) started at lun.,  5 de oct. de 2026 05:52:59 a. m.
+queue25 (time floor of the restart rule, 3 x 3600 s) waiting for queue24 at lun.,  5 de oct. de 2026 07:08:34 p. m.
+queue24: seed 1 done at lun.,  5 de oct. de 2026 11:53:14 p. m.
+queue24: seed 2 done at lun.,  5 de oct. de 2026 11:53:15 p. m.
+queue24: seed 3 done at lun.,  5 de oct. de 2026 11:53:15 p. m.
+queue24: seed 4 done at lun.,  5 de oct. de 2026 11:53:16 p. m.
+queue24: seed 5 done at lun.,  5 de oct. de 2026 11:53:16 p. m.
+queue24 finished at lun.,  5 de oct. de 2026 11:53:17 p. m.
+queue25 started at lun.,  5 de oct. de 2026 11:54:44 p. m.
+queue25 finished at mar.,  6 de oct. de 2026 02:54:48 a. m.
+queue26 (coverage probes at 400 customers, 2 x 3 x 3600 s) started at mar.,  6 de oct. de 2026 09:21:00 a. m.
+queue26: K=60 done at mar.,  6 de oct. de 2026 12:21:05 p. m.
+queue26 finished at mar.,  6 de oct. de 2026 03:21:07 p. m.
+queue27 (K=60 with B=512, and K=90) started at mar.,  6 de oct. de 2026 04:23:56 p. m.
+queue27: K=60 B=512 done at mar.,  6 de oct. de 2026 07:23:59 p. m.
+queue27 finished at mar.,  6 de oct. de 2026 09:24:01 p. m.
+queue28 (complete route-end enumeration, 2 x 3 x 3600 s) started at mar.,  6 de oct. de 2026 09:26:13 p. m.
+queue28: K=30 complete enumeration done at mié.,  7 de oct. de 2026 12:26:18 a. m.
+queue28 finished at mié.,  7 de oct. de 2026 03:26:21 a. m.
+queue29 (final GH 400-customer campaign, K=60, 18 x 3 x 3600 s) started at jue.,  8 de oct. de 2026 07:49:34 a. m.
+queue30 (control of the K rule at 200 customers, 3 x 1800 s) waiting for queue29 at jue.,  8 de oct. de 2026 07:51:04 a. m.
+queue29 limited to one seed at jue.,  8 de oct. de 2026 08:51:42 a. m.
+queue29 restored to three seeds at jue.,  8 de oct. de 2026 11:08:29 a. m.

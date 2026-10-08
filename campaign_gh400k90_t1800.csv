@@ -1,0 +1,3 @@
+tag,algo,instance,kind,seed,time_budget,M,D,total,bks_M,bks_D,bks_total,gap_pct,status,t_best,epochs,iters,params,file
+gh400k90_t1800,copts,rc1_4_1,GH,1,1800.0,37,8586.7,8586.7,,,,,,489.4,309,92700,"{""K"": 90, ""stall_epochs"": 20, ""arc_rule"": ""safe"", ""nbr_compat"": true, ""rec_mode"": ""adaptive"", ""rec_patience"": 2, ""newroute_cost"": 200, ""checkpoints"": [900, 1800]}",rc1_4_1_copts_s1_20261006-202401_gh400k90_t1800
+gh400k90_t1800,copts,r2_4_5,GH,1,1800.0,14,6582.8,6582.8,,,,,,218.09,174,52200,"{""K"": 90, ""stall_epochs"": 20, ""arc_rule"": ""safe"", ""nbr_compat"": true, ""rec_mode"": ""adaptive"", ""rec_patience"": 2, ""newroute_cost"": 200, ""checkpoints"": [900, 1800]}",r2_4_5_copts_s1_20261006-212401_gh400k90_t1800

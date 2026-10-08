@@ -1,0 +1,11 @@
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[gh400k60b512] rc1_4_1 seed=1: M=37 D=8551.10 gap=  t_best=649.8s wall=3601s
+[gh400k60b512_t900] rc1_4_1 seed=1: M=37 D=8551.10 gap=  t_best=649.8s
+[gh400k60b512_t1800] rc1_4_1 seed=1: M=37 D=8551.10 gap=  t_best=649.8s
+[gh400k60b512] r2_4_5 seed=1: M=14 D=6577.00 gap=  t_best=1417.8s wall=3601s
+[gh400k60b512_t900] r2_4_5 seed=1: M=14 D=6599.90 gap=  t_best=186.9s
+[gh400k60b512_t1800] r2_4_5 seed=1: M=14 D=6577.00 gap=  t_best=1417.8s
+[gh400k60b512] c2_4_5 seed=1: M=12 D=3928.60 gap=  t_best=2356.0s wall=3601s
+[gh400k60b512_t900] c2_4_5 seed=1: M=12 D=3931.90 gap=  t_best=46.1s
+[gh400k60b512_t1800] c2_4_5 seed=1: M=12 D=3931.90 gap=  t_best=46.1s

@@ -1,2 +1,56 @@
 C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
   warnings.warn(
+[gh400] c1_4_1 seed=1: M=40 D=7143.20 gap=  t_best=2.0s wall=3600s
+[gh400_t900] c1_4_1 seed=1: M=40 D=7143.20 gap=  t_best=2.0s
+[gh400_t1800] c1_4_1 seed=1: M=40 D=7143.20 gap=  t_best=2.0s
+[gh400] c1_4_5 seed=1: M=40 D=7138.80 gap=  t_best=510.3s wall=3601s
+[gh400_t900] c1_4_5 seed=1: M=40 D=7138.80 gap=  t_best=510.3s
+[gh400_t1800] c1_4_5 seed=1: M=40 D=7138.80 gap=  t_best=510.3s
+[gh400] c1_4_10 seed=1: M=38 D=6861.90 gap=  t_best=287.7s wall=3601s
+[gh400_t900] c1_4_10 seed=1: M=38 D=6861.90 gap=  t_best=287.7s
+[gh400_t1800] c1_4_10 seed=1: M=38 D=6861.90 gap=  t_best=287.7s
+[gh400] c2_4_1 seed=1: M=12 D=4116.30 gap=  t_best=1103.6s wall=3601s
+[gh400_t900] c2_4_1 seed=1: M=13 D=4153.30 gap=  t_best=16.0s
+[gh400_t1800] c2_4_1 seed=1: M=12 D=4116.30 gap=  t_best=1103.6s
+[gh400] c2_4_5 seed=1: M=12 D=3934.50 gap=  t_best=1867.8s wall=3600s
+[gh400_t900] c2_4_5 seed=1: M=12 D=3940.80 gap=  t_best=56.5s
+[gh400_t1800] c2_4_5 seed=1: M=12 D=3940.80 gap=  t_best=56.5s
+[gh400] c2_4_10 seed=1: M=12 D=3682.30 gap=  t_best=1516.9s wall=3603s
+[gh400_t900] c2_4_10 seed=1: M=12 D=3692.50 gap=  t_best=725.5s
+[gh400_t1800] c2_4_10 seed=1: M=12 D=3682.30 gap=  t_best=1516.9s
+[gh400] r1_4_1 seed=1: M=43 D=10391.90 gap=  t_best=159.4s wall=3601s
+[gh400_t900] r1_4_1 seed=1: M=43 D=10391.90 gap=  t_best=159.4s
+[gh400_t1800] r1_4_1 seed=1: M=43 D=10391.90 gap=  t_best=159.4s
+[gh400] r1_4_5 seed=1: M=39 D=9241.70 gap=  t_best=859.4s wall=3600s
+[gh400_t900] r1_4_5 seed=1: M=39 D=9241.70 gap=  t_best=859.4s
+[gh400_t1800] r1_4_5 seed=1: M=39 D=9241.70 gap=  t_best=859.4s
+[gh400] r1_4_10 seed=1: M=37 D=8173.70 gap=  t_best=128.4s wall=3601s
+[gh400_t900] r1_4_10 seed=1: M=37 D=8173.70 gap=  t_best=128.4s
+[gh400_t1800] r1_4_10 seed=1: M=37 D=8173.70 gap=  t_best=128.4s
+[gh400] r2_4_1 seed=1: M=21 D=7564.20 gap=  t_best=819.2s wall=3600s
+[gh400_t900] r2_4_1 seed=1: M=21 D=7564.20 gap=  t_best=819.2s
+[gh400_t1800] r2_4_1 seed=1: M=21 D=7564.20 gap=  t_best=819.2s
+[gh400] r2_4_5 seed=1: M=16 D=6619.80 gap=  t_best=98.6s wall=3600s
+[gh400_t900] r2_4_5 seed=1: M=16 D=6619.80 gap=  t_best=98.6s
+[gh400_t1800] r2_4_5 seed=1: M=16 D=6619.80 gap=  t_best=98.6s
+[gh400] r2_4_10 seed=1: M=12 D=5711.70 gap=  t_best=446.3s wall=3600s
+[gh400_t900] r2_4_10 seed=1: M=12 D=5711.70 gap=  t_best=446.3s
+[gh400_t1800] r2_4_10 seed=1: M=12 D=5711.70 gap=  t_best=446.3s
+[gh400] rc1_4_1 seed=1: M=38 D=8611.20 gap=  t_best=102.9s wall=3601s
+[gh400_t900] rc1_4_1 seed=1: M=38 D=8611.20 gap=  t_best=102.9s
+[gh400_t1800] rc1_4_1 seed=1: M=38 D=8611.20 gap=  t_best=102.9s
+[gh400] rc1_4_5 seed=1: M=37 D=8245.80 gap=  t_best=470.4s wall=3601s
+[gh400_t900] rc1_4_5 seed=1: M=37 D=8245.80 gap=  t_best=470.4s
+[gh400_t1800] rc1_4_5 seed=1: M=37 D=8245.80 gap=  t_best=470.4s
+[gh400] rc1_4_10 seed=1: M=37 D=7629.90 gap=  t_best=2040.8s wall=3602s
+[gh400_t900] rc1_4_10 seed=1: M=37 D=7644.80 gap=  t_best=265.1s
+[gh400_t1800] rc1_4_10 seed=1: M=37 D=7630.00 gap=  t_best=1641.3s
+[gh400] rc2_4_1 seed=1: M=18 D=6194.40 gap=  t_best=127.6s wall=3600s
+[gh400_t900] rc2_4_1 seed=1: M=18 D=6194.40 gap=  t_best=127.6s
+[gh400_t1800] rc2_4_1 seed=1: M=18 D=6194.40 gap=  t_best=127.6s
+[gh400] rc2_4_5 seed=1: M=14 D=5472.40 gap=  t_best=133.2s wall=3601s
+[gh400_t900] rc2_4_5 seed=1: M=14 D=5472.40 gap=  t_best=133.2s
+[gh400_t1800] rc2_4_5 seed=1: M=14 D=5472.40 gap=  t_best=133.2s
+[gh400] rc2_4_10 seed=1: M=10 D=4352.90 gap=  t_best=1743.0s wall=3602s
+[gh400_t900] rc2_4_10 seed=1: M=10 D=4362.80 gap=  t_best=798.2s
+[gh400_t1800] rc2_4_10 seed=1: M=10 D=4352.90 gap=  t_best=1743.0s
