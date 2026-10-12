@@ -151,3 +151,23 @@ queue29 (final GH 400-customer campaign, K=60, 18 x 3 x 3600 s) started at jue.,
 queue30 (control of the K rule at 200 customers, 3 x 1800 s) waiting for queue29 at jue.,  8 de oct. de 2026 07:51:04 a. m.
 queue29 limited to one seed at jue.,  8 de oct. de 2026 08:51:42 a. m.
 queue29 restored to three seeds at jue.,  8 de oct. de 2026 11:08:29 a. m.
+queue29: seed 1 done at vie.,  9 de oct. de 2026 01:49:58 a. m.
+queue31 (seeds 4 and 5 at 400 customers, 18 x 2 x 3600 s) waiting for queue29 and queue30 at vie.,  9 de oct. de 2026 07:32:24 a. m.
+queue29 (final GH 400-customer campaign, K=60, 18 x 3 x 3600 s) started at vie.,  9 de oct. de 2026 11:08:44 a. m.
+queue29: seed 1 done at vie.,  9 de oct. de 2026 11:08:45 a. m.
+queue30 (control of the K rule at 200 customers, 3 x 1800 s) waiting for queue29 at vie.,  9 de oct. de 2026 11:08:47 a. m.
+queue31 (seeds 4 and 5 at 400 customers, 18 x 2 x 3600 s) waiting for queue29 and queue30 at vie.,  9 de oct. de 2026 11:08:50 a. m.
+queue32 (resume: seeds 2-3, the K control, seeds 4-5) started at vie.,  9 de oct. de 2026 11:12:39 a. m.
+queue32: seed 2 of gh400v2 starting with r1_4_1 r1_4_5 r1_4_10 r2_4_1 r2_4_5 r2_4_10 rc1_4_1 rc1_4_5 rc1_4_10 rc2_4_1 rc2_4_5 rc2_4_10 at vie.,  9 de oct. de 2026 11:12:39 a. m.
+queue32 (resume: seeds 2-3, the K control, seeds 4-5) started at vie.,  9 de oct. de 2026 04:51:01 p. m.
+queue32: seed 2 of gh400v2 starting with r2_4_10 rc1_4_1 rc1_4_5 rc1_4_10 rc2_4_1 rc2_4_5 rc2_4_10 at vie.,  9 de oct. de 2026 04:51:02 p. m.
+queue32: seed 2 of gh400v2 done at vie.,  9 de oct. de 2026 11:51:11 p. m.
+queue32: seed 3 of gh400v2 starting with c1_4_1 c1_4_5 c1_4_10 c2_4_1 c2_4_5 c2_4_10 r1_4_1 r1_4_5 r1_4_10 r2_4_1 r2_4_5 r2_4_10 rc1_4_1 rc1_4_5 rc1_4_10 rc2_4_1 rc2_4_5 rc2_4_10 at vie.,  9 de oct. de 2026 11:51:12 p. m.
+queue32: seed 3 of gh400v2 done at sáb., 10 de oct. de 2026 05:51:35 p. m.
+queue32: control of the K rule at 200 customers started at sáb., 10 de oct. de 2026 05:51:35 p. m.
+queue32: control of the K rule done at sáb., 10 de oct. de 2026 07:21:39 p. m.
+queue32: seed 4 of gh400v2 starting with c1_4_1 c1_4_5 c1_4_10 c2_4_1 c2_4_5 c2_4_10 r1_4_1 r1_4_5 r1_4_10 r2_4_1 r2_4_5 r2_4_10 rc1_4_1 rc1_4_5 rc1_4_10 rc2_4_1 rc2_4_5 rc2_4_10 at sáb., 10 de oct. de 2026 07:21:40 p. m.
+queue32: seed 4 of gh400v2 done at dom., 11 de oct. de 2026 01:21:59 p. m.
+queue32: seed 5 of gh400v2 starting with c1_4_1 c1_4_5 c1_4_10 c2_4_1 c2_4_5 c2_4_10 r1_4_1 r1_4_5 r1_4_10 r2_4_1 r2_4_5 r2_4_10 rc1_4_1 rc1_4_5 rc1_4_10 rc2_4_1 rc2_4_5 rc2_4_10 at dom., 11 de oct. de 2026 01:21:59 p. m.
+queue32: seed 5 of gh400v2 done at lun., 12 de oct. de 2026 07:22:21 a. m.
+queue32 finished at lun., 12 de oct. de 2026 07:22:21 a. m.
