@@ -1,0 +1,7 @@
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo gma --seeds 1 2 --time 300.0 --tag abljd_bma --params {"arc_rule": "safe", "nbr_compat": true, "K": 30, "ends_len": 1} --inst 400_1 600_4
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[abljd_bma] 400_1 seed=1: M=75 D=94150.77 gap=0.669 worse t_best=301.5s wall=303s
+[abljd_bma] 400_1 seed=2: M=76 D=93929.15 gap=0.7366 worse t_best=137.4s wall=302s
+[abljd_bma] 600_4 seed=1: M=116 D=144217.81 gap=0.4586 worse t_best=308.2s wall=311s
+[abljd_bma] 600_4 seed=2: M=116 D=143631.19 gap=0.1294 worse t_best=300.1s wall=302s

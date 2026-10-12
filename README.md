@@ -34,47 +34,81 @@ not included.
 * **JD:** 20 instances with 200, 400, 600, 800 and 1000 customers and asymmetric cost and time matrices. The objective is
   the weighted cost `total = dispatch_cost × M + D`, with the dispatching cost of the instance file (300). `D` already
   includes the unit travel cost.
+* **Gehring–Homberger (VRPTW):** the 18 instances with 200 customers and the 18 with 400 customers selected by Lei, Hao
+  and Wu (2026), solved as VRPSPDTW instances without pickups. The objective is the total distance `D`, with no vehicle
+  cost, and distances and travel times are Euclidean distances truncated to one decimal; `total = D`.
 
-The instance files are not redistributed here. They come from the public data of Liu et al. (2021), available in the
-repository `senshineL/VRPenstein` on GitHub.
+The instance files are not redistributed here. The WC and JD instances come from the public data of Liu et al. (2021),
+available in the repository `senshineL/VRPenstein` on GitHub, and the Gehring–Homberger instances from the distribution
+of SINTEF.
 
 ## Campaigns
 
 Every campaign runs CoPTS-VRP (`algo = copts`) unless stated otherwise. A budget is the wall-clock time of a whole run.
+Files named `<tag>_t<seconds>` hold the best solution of the same runs found before that time. A few campaign files also
+hold runs of an earlier version of the same configuration; the article uses the rows whose `params` equal the
+configuration it states.
 
-**Results reported in the tables of the article.** These are the campaigns of the final configuration; every table of the article is built from them alone.
-
-| Tag | Runs | Instances | Seeds | Budget per run | Use |
-|---|---|---|---|---|---|
-| `jd7200` | 100 | 20 JD | 1-5 | 7200 s | JD table; `jd7200_t1200` and `jd7200_t3600` hold the best solution of the same runs before 1200 s and before 3600 s |
-| `wc10` | 680 | 65 WC and three extra small instances | 1-10 | 10 s (small), 60 s (medium), 180 s (six slower ones) | WC tables; `wc10_t10`, `wc10_t20` and `wc10_t60` hold the best solution at the shorter budgets |
-| `gh200` | 90 | 18 Gehring-Homberger instances with 200 customers (VRPTW) | 1-5 | 1800 s | VRPTW table; `gh200_t300` and `gh200_t900` hold the best solution at 300 s and at 900 s |
-| `wcsmall10_30s` | 360 | 12 small WC | 1–30 | 10 s | Small WC table |
-| `wc60_30s` | 1680 | 56 medium WC | 1–30 | 60 s | Medium WC table |
-| `wc180_30s_slow` | 180 | 6 slowest medium WC | 1–30 | 180 s | Medium WC table (replaces the 60-s runs of these six instances) |
-| `wc120v2_s1` | 56 | 56 medium WC | 1 | 120 s | Preliminary run, included in the best-solution column |
-| `jd_v2` | 92 | 20 JD | 1–5 | 1200 s (200–600 customers), 3600 s (800–1000) | JD table |
-| `jd1200v2_s1` | 16 | 16 JD | 1 | 1200 s (400–600), 1800 s (800–1000) | Preliminary run, included in the best-solution column |
-
-**Behaviour analysis**
+**Results tables of the article.** The campaigns of the final configuration, listed in the protocol table of the article.
 
 | Tag | Runs | Instances | Seeds | Budget per run | Use |
 |---|---|---|---|---|---|
-| `abl_<variant>` | 8 × 30 | 6 medium WC | 1–5 | 60 s | Ablation of the components on the WC instances |
-| `abljd_<variant>` | 4 × 4 | 400_1, 600_4 | 1–2 | 300 s | Ablation on the JD instances |
-| `tune_<config>` | 22 × 12 | 6 medium WC | 1–2 | 60 s | Sensitivity sweep, one parameter moved at a time |
-| `phases_<rule>` | 4 × 5 | 200_1 | 1–5 | 600 s | Restart rules (partial or full restart, stagnation of the run or of the phase) |
-| `hard600` | 6 | Rdp211, Rdp203 | 1–3 | 600 s | Long runs on the two hardest WC instances |
-| `gma120_s1` | 40 | 40 medium WC | 1 | 120 s | Batched memetic baseline (`algo = gma`) |
+| `wc10` | 680 | 65 WC and three extra small instances | 1–10 | 10 s (small), 60 s (medium) | Small and medium WC tables; `wc10_t10`, `wc10_t20` and `wc10_t60` at the shorter budgets |
+| `wc10slow` | 60 | The six medium WC instances that take longest: Rdp112, Rdp203, Rdp209, Rdp211, RCdp107, RCdp208 | 1–10 | 180 s | Medium WC table, in place of the 60-s runs of these six instances; `wc10slow_t20` and `wc10slow_t60` |
+| `jd7200` | 100 | 20 JD | 1–5 | 7200 s | JD table, its figure and the budget table; `jd7200_t1200` and `jd7200_t3600` |
+| `gh200` | 90 | 18 Gehring–Homberger instances with 200 customers (VRPTW) | 1–5 | 1800 s | VRPTW table; `gh200_t300` and `gh200_t900` |
+| `gh400v2` | 90 | 18 Gehring–Homberger instances with 400 customers (VRPTW), granular lists of 60 | 1–5 | 3600 s | VRPTW table; `gh400v2_t900` and `gh400v2_t1800` |
+
+The table of best solutions takes every entry from these campaigns except 1000_1, whose value 296480.10 was found by the
+run of `jd_v2` with seed 5 (3600 s), a configuration of the tuning stage; its routes are in
+`copts/1000_1_copts_s5_20260918-173709_jd_v2.sol.txt`. `new_best/` holds the best solution of the final campaigns for
+each improved instance.
+
+**Analysis of the mechanisms.**
+
+| Tag | Runs | Instances | Seeds | Budget per run | Use |
+|---|---|---|---|---|---|
+| `ablwc_<variant>` | 14 × 30 | The six instances of `wc10slow` | 1–5 | 60 s | Ablation on the WC instances. `base`; `nocoop`, no cooperation through the pool; `fresh` and `self`, the renewed trajectories rebuilt from scratch or from their own incumbent instead of from the pool; `noxover` and `onlyxover`, reconstruction by ruin-and-recreate or by crossover only; `noends`; `nonoise`; `singlereg`; `norestart`; `norec`, no phase archive; `nodepot`, arc filter without its depot rules; `nocompat`, neighbour lists not restricted to compatible pairs; `nosafe`, both |
+| `abljd_<variant>` | 11 × 4 | JD 400_1 and 600_4 | 1–2 | 300 s | Ablation on the JD instances: `base`, `nocoop`, `fresh`, `self`, `noends`, `norestart`, `norec`, `nodepot`, `published` (depot rules in their published form, with direct travel times), `nocompat`, `nosafe`. The files `base`, `nocoop`, `noends` and `norestart` also hold four runs of an earlier version of the configuration |
+| `sweep_<setting>` | 22 × 12 | The six instances of `wc10slow` | 1–2 | 60 s | Sensitivity sweep, one parameter moved at a time from `sweep_base` |
+| `phases_<rule>` | 4 × 10 | JD 200_1 | 1–5 | 600 s | Restart rules: full or partial restart, stagnation measured on the run (`global`) or on the phase. Every seed was run twice, on 2026-09-21 and on 2026-10-05 with the final code; the figure uses the later runs |
+| `jdnorec` | 8 | JD 600_2, 800_4, 1000_2, 1000_4 | 1–2 | 7200 s | Phase archive disabled, paired by seed with `jd7200`; `jdnorec_t1200` and `jdnorec_t3600` |
 
 `repair_diag.json` is produced by `scripts/repair_diag.py` of the code repository and does not correspond to a campaign
 file.
 
-**Earlier configurations.** The campaigns `wcsmall10_30s`, `wc60_30s`, `wc180_30s_slow`, `wc120v2_s1`, `jd_v2`, `jd1200v2_s1`, `jd7200_pilot`, `scr1000_*`, `jdc1024`, `jdc512`, `jdrec1024`, `jdrecA1024`, `jdrecP1024` and `wcrs_*` were run with earlier configurations of the method, or to choose between them; they are kept for completeness and are not used in the tables of the article.
+**What limits the search at 400 customers (VRPTW).** One run of 3600 s per instance with seed 1, each changing one thing
+in the configuration of the 200-customer set (granular lists of 30, 1024 trajectories, no route-end candidates at this
+size).
 
-**Development runs.** The tags `wc120_s1`, `jd1200_s1`, `jdpilot`, `test_restart`, `test_fullrestart`,
-`test_fullrestart2` and `x400_E*` are pilot runs made with earlier configurations while the method was developed. They are
-kept for completeness and are not used in the tables.
+| Tag | Runs | Instances | Change |
+|---|---|---|---|
+| `gh400` | 18 | 18 instances with 400 customers | none, the reference row |
+| `gh400k60` | 3 | rc1_4_1, r2_4_5, c2_4_5 | granular lists of 60 (the same runs as seed 1 of `gh400v2`) |
+| `gh400b512` | 3 | rc1_4_1, r2_4_5, c2_4_5 | 512 trajectories |
+| `gh400k60b512` | 3 | rc1_4_1, r2_4_5, c2_4_5 | both changes |
+| `gh400k90` | 2 | rc1_4_1, r2_4_5 | granular lists of 90 |
+| `gh400stall` | 3 | rc1_4_1, r2_4_5, c2_4_5 | a phase is not restarted before 0.5 s per customer without progress |
+| `gh400k60ends3` | 3 | rc1_4_1, r2_4_5, c2_4_5 | granular lists of 60 with route-end candidates (segments of one to three customers, radius filter) |
+| `gh400nofilt`, `gh400k60nofilt` | 3 each | rc1_4_1, r2_4_5, c2_4_5 | radius filter of the route-end candidates disabled; since the candidates are off at this size, these runs reproduce `gh400` and `gh400k60` and are not used in the article |
+| `gh200k60` | 3 | r2_2_1, rc1_2_10, rc2_2_10 (1800 s) | granular lists of 60 at 200 customers |
+
+`ghprobe` (six instances with 200 customers, 300 s) and `gh400probe` (two with 400, 120 s) are short probes made before
+these campaigns.
+
+**Batched memetic baseline.** The campaigns with `algo = gma` run a batched memetic algorithm on the GPU, written for
+this study as a baseline and not reported in the article: `gma120_s1` (40 medium WC instances, 120 s), `ablwc_bma` and
+`abljd_bma` (the ablation protocols above) and `bmawc60` (the 56 medium WC instances, 60 s, seed 1).
+
+**Earlier configurations.** The campaigns `wcsmall10_30s`, `wc60_30s`, `wc180_30s_slow`, `wc120v2_s1`, `jd_v2`,
+`jd1200v2_s1`, `jd7200_pilot`, `abl_*`, `tune_*`, `hard600`, `scr1000_*`, `jdc1024`, `jdc512`, `jdrec1024`, `jdrec512`,
+`jdrecA1024`, `jdrecP1024` and `wcrs_*` were run with earlier configurations of the method, or to choose between them;
+they are kept for completeness and, except for the entry of `jd_v2` noted above, are not used in the article.
+
+**Development runs.** The tags `wc120_s1`, `jd1200_s1`, `jdpilot`, `test_restart`, `test_fullrestart` and
+`test_fullrestart2` are pilot runs made with earlier configurations while the method was developed. The tags `x400_E*`
+are the pilot runs on JD 400_1 that fixed the values of the JD configuration (route-end segments of one customer,
+granular lists of 30, route opening forbidden). They are kept for completeness and are not used in the tables.
 
 ## File formats
 
@@ -141,5 +175,7 @@ Intel Core i9-14900K, 64 GB of RAM, NVIDIA GeForce RTX 4090 (24 GB), Windows 11,
   window. *Computers & Industrial Engineering*, 62(1), 84–95.
 * Liu, S., Tang, K., Yao, X. (2021). Memetic search for vehicle routing with simultaneous pickup-delivery and time
   windows. *Swarm and Evolutionary Computation*, 66, 100927.
-* Lei, Z., Hao, J.-K. (2025). Memetic algorithm with feasible and infeasible route descent for the vehicle routing
-  problem with simultaneous pickup-delivery and time windows (MA-FIRD).
+* Lei, Z., Hao, J.-K. (2025). A memetic algorithm for vehicle routing with simultaneous pickup and delivery and time
+  windows. *IEEE Transactions on Evolutionary Computation*, 29(5), 1924–1936 (MA-FIRD).
+* Lei, Z., Hao, J.-K., Wu, Q. (2026). Speeding up local optimization in vehicle routing with tensor-based GPU
+  acceleration. arXiv:2506.17357, version 2 (MA-N, MA-E, MA-NTGA, MA-ETGA).

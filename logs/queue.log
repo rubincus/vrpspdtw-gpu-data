@@ -171,3 +171,11 @@ queue32: seed 4 of gh400v2 done at dom., 11 de oct. de 2026 01:21:59 p. m.
 queue32: seed 5 of gh400v2 starting with c1_4_1 c1_4_5 c1_4_10 c2_4_1 c2_4_5 c2_4_10 r1_4_1 r1_4_5 r1_4_10 r2_4_1 r2_4_5 r2_4_10 rc1_4_1 rc1_4_5 rc1_4_10 rc2_4_1 rc2_4_5 rc2_4_10 at dom., 11 de oct. de 2026 01:21:59 p. m.
 queue32: seed 5 of gh400v2 done at lun., 12 de oct. de 2026 07:22:21 a. m.
 queue32 finished at lun., 12 de oct. de 2026 07:22:21 a. m.
+queue33 (review experiments) started at lun., 12 de oct. de 2026 10:34:46 a. m.
+queue33: JD ablation (filter parts, cooperation controls) done at lun., 12 de oct. de 2026 12:14:58 p. m.
+queue33: WC ablation (filter parts, cooperation controls) done at lun., 12 de oct. de 2026 02:15:22 p. m.
+queue33: BMA under the ablation protocols done at lun., 12 de oct. de 2026 03:06:01 p. m.
+queue33: BMA on the 56 medium WC instances done at lun., 12 de oct. de 2026 04:02:29 p. m.
+queue34 (BMA controls) waiting for queue33 at lun., 12 de oct. de 2026 05:50:29 p. m.
+queue33 finished at lun., 12 de oct. de 2026 07:02:32 p. m.
+queue34 started at lun., 12 de oct. de 2026 07:02:34 p. m.

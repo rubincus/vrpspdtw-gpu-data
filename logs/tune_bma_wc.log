@@ -1,0 +1,33 @@
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo gma --seeds 1 2 3 4 5 --time 60.0 --tag ablwc_bma --params {"arc_rule": "safe", "nbr_compat": true} --inst Rdp112 Rdp203 Rdp209 Rdp211 RCdp107 RCdp208
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[ablwc_bma] Rdp112 seed=1: M=11 D=1066.37 gap=  t_best=14.1s wall=61s
+[ablwc_bma] Rdp112 seed=2: M=11 D=1046.19 gap=  t_best=23.2s wall=61s
+[ablwc_bma] Rdp112 seed=3: M=11 D=1053.68 gap=  t_best=15.1s wall=60s
+[ablwc_bma] Rdp112 seed=4: M=12 D=1061.67 gap=  t_best=19.1s wall=60s
+[ablwc_bma] Rdp112 seed=5: M=12 D=1057.70 gap=  t_best=25.0s wall=60s
+[ablwc_bma] Rdp203 seed=1: M=5 D=975.88 gap=  t_best=6.3s wall=60s
+[ablwc_bma] Rdp203 seed=2: M=5 D=963.33 gap=  t_best=5.5s wall=60s
+[ablwc_bma] Rdp203 seed=3: M=5 D=962.11 gap=  t_best=6.3s wall=60s
+[ablwc_bma] Rdp203 seed=4: M=5 D=962.20 gap=  t_best=7.1s wall=61s
+[ablwc_bma] Rdp203 seed=5: M=5 D=968.14 gap=  t_best=5.3s wall=61s
+[ablwc_bma] Rdp209 seed=1: M=3 D=915.24 gap=  t_best=29.0s wall=62s
+[ablwc_bma] Rdp209 seed=2: M=3 D=922.17 gap=  t_best=19.5s wall=62s
+[ablwc_bma] Rdp209 seed=3: M=3 D=915.24 gap=  t_best=28.6s wall=64s
+[ablwc_bma] Rdp209 seed=4: M=3 D=915.24 gap=  t_best=31.2s wall=61s
+[ablwc_bma] Rdp209 seed=5: M=3 D=915.24 gap=  t_best=14.2s wall=60s
+[ablwc_bma] Rdp211 seed=1: M=3 D=901.02 gap=  t_best=14.0s wall=61s
+[ablwc_bma] Rdp211 seed=2: M=4 D=835.74 gap=  t_best=16.9s wall=61s
+[ablwc_bma] Rdp211 seed=3: M=4 D=835.65 gap=  t_best=15.8s wall=61s
+[ablwc_bma] Rdp211 seed=4: M=4 D=866.35 gap=  t_best=29.5s wall=61s
+[ablwc_bma] Rdp211 seed=5: M=4 D=838.95 gap=  t_best=12.9s wall=60s
+[ablwc_bma] RCdp107 seed=1: M=13 D=1445.39 gap=  t_best=9.0s wall=60s
+[ablwc_bma] RCdp107 seed=2: M=12 D=1332.24 gap=  t_best=11.9s wall=60s
+[ablwc_bma] RCdp107 seed=3: M=13 D=1469.72 gap=  t_best=8.3s wall=60s
+[ablwc_bma] RCdp107 seed=4: M=12 D=1362.69 gap=  t_best=11.4s wall=60s
+[ablwc_bma] RCdp107 seed=5: M=13 D=1386.56 gap=  t_best=8.7s wall=60s
+[ablwc_bma] RCdp208 seed=1: M=4 D=868.31 gap=  t_best=8.2s wall=60s
+[ablwc_bma] RCdp208 seed=2: M=4 D=848.04 gap=  t_best=11.1s wall=61s
+[ablwc_bma] RCdp208 seed=3: M=4 D=894.60 gap=  t_best=10.2s wall=60s
+[ablwc_bma] RCdp208 seed=4: M=4 D=830.57 gap=  t_best=10.2s wall=60s
+[ablwc_bma] RCdp208 seed=5: M=4 D=876.91 gap=  t_best=10.2s wall=61s

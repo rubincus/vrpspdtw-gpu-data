@@ -1,0 +1,132 @@
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 3 4 5 --time 60.0 --tag ablwc_nodepot --params {"stall_epochs": 20, "arc_rule": "mafird", "nbr_compat": true, "restart_mode": "full", "rec_mode": "adaptive", "rec_patience": 2} --inst Rdp112 Rdp203 Rdp209 Rdp211 RCdp107 RCdp208
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[ablwc_nodepot] Rdp112 seed=1: M=9 D=997.26 gap=  t_best=53.0s wall=60s
+[ablwc_nodepot] Rdp112 seed=2: M=9 D=999.44 gap=  t_best=18.6s wall=60s
+[ablwc_nodepot] Rdp112 seed=3: M=9 D=999.44 gap=  t_best=47.1s wall=60s
+[ablwc_nodepot] Rdp112 seed=4: M=9 D=999.44 gap=  t_best=27.4s wall=60s
+[ablwc_nodepot] Rdp112 seed=5: M=9 D=999.44 gap=  t_best=40.4s wall=60s
+[ablwc_nodepot] Rdp203 seed=1: M=3 D=939.88 gap=  t_best=58.2s wall=60s
+[ablwc_nodepot] Rdp203 seed=2: M=3 D=939.50 gap=  t_best=8.8s wall=60s
+[ablwc_nodepot] Rdp203 seed=3: M=3 D=939.58 gap=  t_best=53.7s wall=60s
+[ablwc_nodepot] Rdp203 seed=4: M=3 D=939.50 gap=  t_best=41.1s wall=60s
+[ablwc_nodepot] Rdp203 seed=5: M=3 D=939.58 gap=  t_best=60.2s wall=60s
+[ablwc_nodepot] Rdp209 seed=1: M=3 D=909.16 gap=  t_best=23.7s wall=60s
+[ablwc_nodepot] Rdp209 seed=2: M=3 D=909.16 gap=  t_best=18.4s wall=60s
+[ablwc_nodepot] Rdp209 seed=3: M=3 D=909.16 gap=  t_best=38.1s wall=60s
+[ablwc_nodepot] Rdp209 seed=4: M=3 D=909.16 gap=  t_best=42.2s wall=60s
+[ablwc_nodepot] Rdp209 seed=5: M=3 D=909.16 gap=  t_best=9.2s wall=60s
+[ablwc_nodepot] Rdp211 seed=1: M=2 D=890.93 gap=  t_best=42.7s wall=60s
+[ablwc_nodepot] Rdp211 seed=2: M=2 D=899.97 gap=  t_best=60.3s wall=60s
+[ablwc_nodepot] Rdp211 seed=3: M=2 D=898.15 gap=  t_best=10.7s wall=60s
+[ablwc_nodepot] Rdp211 seed=4: M=2 D=892.99 gap=  t_best=44.3s wall=60s
+[ablwc_nodepot] Rdp211 seed=5: M=2 D=893.14 gap=  t_best=16.3s wall=60s
+[ablwc_nodepot] RCdp107 seed=1: M=11 D=1255.06 gap=  t_best=11.6s wall=60s
+[ablwc_nodepot] RCdp107 seed=2: M=11 D=1252.79 gap=  t_best=21.1s wall=60s
+[ablwc_nodepot] RCdp107 seed=3: M=11 D=1252.79 gap=  t_best=16.0s wall=60s
+[ablwc_nodepot] RCdp107 seed=4: M=11 D=1252.79 gap=  t_best=49.4s wall=60s
+[ablwc_nodepot] RCdp107 seed=5: M=11 D=1255.06 gap=  t_best=35.9s wall=60s
+[ablwc_nodepot] RCdp208 seed=1: M=3 D=828.14 gap=  t_best=46.3s wall=60s
+[ablwc_nodepot] RCdp208 seed=2: M=3 D=828.71 gap=  t_best=20.6s wall=60s
+[ablwc_nodepot] RCdp208 seed=3: M=3 D=828.14 gap=  t_best=23.1s wall=60s
+[ablwc_nodepot] RCdp208 seed=4: M=3 D=828.71 gap=  t_best=5.1s wall=60s
+[ablwc_nodepot] RCdp208 seed=5: M=3 D=828.14 gap=  t_best=10.4s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 3 4 5 --time 60.0 --tag ablwc_nocompat --params {"stall_epochs": 20, "arc_rule": "safe", "nbr_compat": false, "restart_mode": "full", "rec_mode": "adaptive", "rec_patience": 2} --inst Rdp112 Rdp203 Rdp209 Rdp211 RCdp107 RCdp208
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[ablwc_nocompat] Rdp112 seed=1: M=9 D=998.22 gap=  t_best=32.9s wall=60s
+[ablwc_nocompat] Rdp112 seed=2: M=9 D=999.44 gap=  t_best=18.6s wall=60s
+[ablwc_nocompat] Rdp112 seed=3: M=9 D=999.44 gap=  t_best=47.2s wall=60s
+[ablwc_nocompat] Rdp112 seed=4: M=9 D=999.44 gap=  t_best=27.3s wall=60s
+[ablwc_nocompat] Rdp112 seed=5: M=9 D=999.44 gap=  t_best=40.4s wall=60s
+[ablwc_nocompat] Rdp203 seed=1: M=3 D=939.88 gap=  t_best=58.0s wall=60s
+[ablwc_nocompat] Rdp203 seed=2: M=3 D=939.50 gap=  t_best=8.7s wall=60s
+[ablwc_nocompat] Rdp203 seed=3: M=3 D=939.58 gap=  t_best=53.6s wall=60s
+[ablwc_nocompat] Rdp203 seed=4: M=3 D=939.50 gap=  t_best=40.8s wall=60s
+[ablwc_nocompat] Rdp203 seed=5: M=3 D=939.58 gap=  t_best=60.1s wall=60s
+[ablwc_nocompat] Rdp209 seed=1: M=3 D=909.16 gap=  t_best=23.8s wall=60s
+[ablwc_nocompat] Rdp209 seed=2: M=3 D=909.16 gap=  t_best=18.3s wall=60s
+[ablwc_nocompat] Rdp209 seed=3: M=3 D=909.16 gap=  t_best=38.3s wall=60s
+[ablwc_nocompat] Rdp209 seed=4: M=3 D=909.16 gap=  t_best=42.0s wall=60s
+[ablwc_nocompat] Rdp209 seed=5: M=3 D=909.16 gap=  t_best=9.2s wall=60s
+[ablwc_nocompat] Rdp211 seed=1: M=2 D=890.93 gap=  t_best=42.7s wall=60s
+[ablwc_nocompat] Rdp211 seed=2: M=2 D=899.97 gap=  t_best=60.2s wall=60s
+[ablwc_nocompat] Rdp211 seed=3: M=2 D=898.15 gap=  t_best=10.7s wall=60s
+[ablwc_nocompat] Rdp211 seed=4: M=2 D=892.99 gap=  t_best=44.2s wall=60s
+[ablwc_nocompat] Rdp211 seed=5: M=2 D=893.14 gap=  t_best=16.2s wall=60s
+[ablwc_nocompat] RCdp107 seed=1: M=11 D=1252.79 gap=  t_best=8.3s wall=60s
+[ablwc_nocompat] RCdp107 seed=2: M=11 D=1252.79 gap=  t_best=9.5s wall=60s
+[ablwc_nocompat] RCdp107 seed=3: M=11 D=1255.06 gap=  t_best=7.4s wall=60s
+[ablwc_nocompat] RCdp107 seed=4: M=11 D=1255.06 gap=  t_best=13.8s wall=60s
+[ablwc_nocompat] RCdp107 seed=5: M=11 D=1255.06 gap=  t_best=9.5s wall=60s
+[ablwc_nocompat] RCdp208 seed=1: M=3 D=828.14 gap=  t_best=46.2s wall=60s
+[ablwc_nocompat] RCdp208 seed=2: M=3 D=828.71 gap=  t_best=20.6s wall=60s
+[ablwc_nocompat] RCdp208 seed=3: M=3 D=828.14 gap=  t_best=23.0s wall=60s
+[ablwc_nocompat] RCdp208 seed=4: M=3 D=828.71 gap=  t_best=5.2s wall=60s
+[ablwc_nocompat] RCdp208 seed=5: M=3 D=828.14 gap=  t_best=10.4s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 3 4 5 --time 60.0 --tag ablwc_fresh --params {"stall_epochs": 20, "arc_rule": "safe", "nbr_compat": true, "restart_mode": "full", "rec_mode": "adaptive", "rec_patience": 2, "reinit_source": "fresh"} --inst Rdp112 Rdp203 Rdp209 Rdp211 RCdp107 RCdp208
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[ablwc_fresh] Rdp112 seed=1: M=9 D=997.26 gap=  t_best=56.4s wall=60s
+[ablwc_fresh] Rdp112 seed=2: M=9 D=1001.00 gap=  t_best=13.9s wall=60s
+[ablwc_fresh] Rdp112 seed=3: M=9 D=1003.10 gap=  t_best=42.2s wall=60s
+[ablwc_fresh] Rdp112 seed=4: M=9 D=1000.32 gap=  t_best=23.1s wall=60s
+[ablwc_fresh] Rdp112 seed=5: M=9 D=1003.79 gap=  t_best=23.6s wall=60s
+[ablwc_fresh] Rdp203 seed=1: M=3 D=939.58 gap=  t_best=17.1s wall=60s
+[ablwc_fresh] Rdp203 seed=2: M=3 D=942.13 gap=  t_best=23.5s wall=60s
+[ablwc_fresh] Rdp203 seed=3: M=3 D=942.33 gap=  t_best=46.4s wall=60s
+[ablwc_fresh] Rdp203 seed=4: M=3 D=942.13 gap=  t_best=57.5s wall=60s
+[ablwc_fresh] Rdp203 seed=5: M=3 D=941.72 gap=  t_best=15.1s wall=60s
+[ablwc_fresh] Rdp209 seed=1: M=3 D=915.07 gap=  t_best=56.8s wall=60s
+[ablwc_fresh] Rdp209 seed=2: M=3 D=915.16 gap=  t_best=19.2s wall=60s
+[ablwc_fresh] Rdp209 seed=3: M=3 D=915.44 gap=  t_best=35.5s wall=60s
+[ablwc_fresh] Rdp209 seed=4: M=3 D=913.63 gap=  t_best=56.9s wall=60s
+[ablwc_fresh] Rdp209 seed=5: M=3 D=911.76 gap=  t_best=1.8s wall=60s
+[ablwc_fresh] Rdp211 seed=1: M=2 D=893.14 gap=  t_best=46.2s wall=60s
+[ablwc_fresh] Rdp211 seed=2: M=2 D=904.47 gap=  t_best=36.5s wall=60s
+[ablwc_fresh] Rdp211 seed=3: M=2 D=903.29 gap=  t_best=25.8s wall=60s
+[ablwc_fresh] Rdp211 seed=4: M=2 D=897.99 gap=  t_best=31.2s wall=60s
+[ablwc_fresh] Rdp211 seed=5: M=2 D=898.06 gap=  t_best=2.7s wall=60s
+[ablwc_fresh] RCdp107 seed=1: M=11 D=1255.72 gap=  t_best=59.3s wall=60s
+[ablwc_fresh] RCdp107 seed=2: M=11 D=1257.34 gap=  t_best=59.8s wall=60s
+[ablwc_fresh] RCdp107 seed=3: M=11 D=1259.20 gap=  t_best=54.8s wall=60s
+[ablwc_fresh] RCdp107 seed=4: M=11 D=1261.30 gap=  t_best=29.0s wall=60s
+[ablwc_fresh] RCdp107 seed=5: M=11 D=1260.04 gap=  t_best=53.6s wall=60s
+[ablwc_fresh] RCdp208 seed=1: M=3 D=829.69 gap=  t_best=5.1s wall=60s
+[ablwc_fresh] RCdp208 seed=2: M=3 D=829.69 gap=  t_best=29.8s wall=60s
+[ablwc_fresh] RCdp208 seed=3: M=3 D=829.69 gap=  t_best=12.4s wall=60s
+[ablwc_fresh] RCdp208 seed=4: M=3 D=832.49 gap=  t_best=42.1s wall=60s
+[ablwc_fresh] RCdp208 seed=5: M=3 D=829.69 gap=  t_best=40.0s wall=60s
+RUN C:\ProgramData\anaconda3\envs\Env_NN_GPU\python.exe C:\Users\Admin\source\repos\vrpspdtw-gpu\scripts\..\scripts\campaign.py --algo copts --seeds 1 2 3 4 5 --time 60.0 --tag ablwc_self --params {"stall_epochs": 20, "arc_rule": "safe", "nbr_compat": true, "restart_mode": "full", "rec_mode": "adaptive", "rec_patience": 2, "reinit_source": "self"} --inst Rdp112 Rdp203 Rdp209 Rdp211 RCdp107 RCdp208
+C:\Users\Admin\AppData\Roaming\Python\Python310\site-packages\cupy\_environment.py:286: UserWarning: CUDA path could not be detected. Set CUDA_PATH environment variable if CuPy fails to load.
+  warnings.warn(
+[ablwc_self] Rdp112 seed=1: M=9 D=997.26 gap=  t_best=57.7s wall=60s
+[ablwc_self] Rdp112 seed=2: M=9 D=1001.00 gap=  t_best=14.0s wall=60s
+[ablwc_self] Rdp112 seed=3: M=9 D=1001.32 gap=  t_best=13.9s wall=60s
+[ablwc_self] Rdp112 seed=4: M=9 D=1000.32 gap=  t_best=23.9s wall=60s
+[ablwc_self] Rdp112 seed=5: M=9 D=1003.47 gap=  t_best=25.5s wall=60s
+[ablwc_self] Rdp203 seed=1: M=3 D=939.58 gap=  t_best=17.1s wall=60s
+[ablwc_self] Rdp203 seed=2: M=3 D=942.13 gap=  t_best=23.7s wall=60s
+[ablwc_self] Rdp203 seed=3: M=3 D=942.33 gap=  t_best=46.5s wall=60s
+[ablwc_self] Rdp203 seed=4: M=3 D=942.13 gap=  t_best=57.5s wall=60s
+[ablwc_self] Rdp203 seed=5: M=3 D=941.72 gap=  t_best=15.2s wall=60s
+[ablwc_self] Rdp209 seed=1: M=3 D=914.12 gap=  t_best=48.7s wall=60s
+[ablwc_self] Rdp209 seed=2: M=3 D=915.16 gap=  t_best=19.5s wall=60s
+[ablwc_self] Rdp209 seed=3: M=3 D=915.30 gap=  t_best=30.9s wall=60s
+[ablwc_self] Rdp209 seed=4: M=3 D=915.16 gap=  t_best=12.5s wall=60s
+[ablwc_self] Rdp209 seed=5: M=3 D=911.76 gap=  t_best=1.8s wall=60s
+[ablwc_self] Rdp211 seed=1: M=2 D=893.14 gap=  t_best=47.4s wall=60s
+[ablwc_self] Rdp211 seed=2: M=2 D=904.47 gap=  t_best=37.5s wall=60s
+[ablwc_self] Rdp211 seed=3: M=2 D=903.29 gap=  t_best=26.2s wall=60s
+[ablwc_self] Rdp211 seed=4: M=2 D=900.12 gap=  t_best=47.7s wall=60s
+[ablwc_self] Rdp211 seed=5: M=2 D=898.06 gap=  t_best=2.7s wall=60s
+[ablwc_self] RCdp107 seed=1: M=11 D=1257.99 gap=  t_best=49.5s wall=60s
+[ablwc_self] RCdp107 seed=2: M=11 D=1258.68 gap=  t_best=60.1s wall=60s
+[ablwc_self] RCdp107 seed=3: M=11 D=1261.26 gap=  t_best=5.1s wall=60s
+[ablwc_self] RCdp107 seed=4: M=11 D=1258.81 gap=  t_best=54.0s wall=60s
+[ablwc_self] RCdp107 seed=5: M=11 D=1262.96 gap=  t_best=32.3s wall=60s
+[ablwc_self] RCdp208 seed=1: M=3 D=829.69 gap=  t_best=5.1s wall=60s
+[ablwc_self] RCdp208 seed=2: M=3 D=829.69 gap=  t_best=30.2s wall=60s
+[ablwc_self] RCdp208 seed=3: M=3 D=829.69 gap=  t_best=12.5s wall=60s
+[ablwc_self] RCdp208 seed=4: M=3 D=832.36 gap=  t_best=38.0s wall=60s
+[ablwc_self] RCdp208 seed=5: M=3 D=829.69 gap=  t_best=40.9s wall=60s
