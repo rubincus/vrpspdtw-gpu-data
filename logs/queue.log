@@ -179,3 +179,8 @@ queue33: BMA on the 56 medium WC instances done at lun., 12 de oct. de 2026 04:0
 queue34 (BMA controls) waiting for queue33 at lun., 12 de oct. de 2026 05:50:29 p. m.
 queue33 finished at lun., 12 de oct. de 2026 07:02:32 p. m.
 queue34 started at lun., 12 de oct. de 2026 07:02:34 p. m.
+queue34: BMA with route opening on WC done at lun., 12 de oct. de 2026 07:33:16 p. m.
+queue34 finished at lun., 12 de oct. de 2026 11:33:38 p. m.
+queue35 (persistence controls) started at mar., 13 de oct. de 2026 05:20:55 a. m.
+queue35: JD persistence controls done at mar., 13 de oct. de 2026 06:01:01 a. m.
+queue35 finished at mar., 13 de oct. de 2026 07:01:12 a. m.

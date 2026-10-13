@@ -1,0 +1,5 @@
+tag,algo,instance,kind,seed,time_budget,M,D,total,bks_M,bks_D,bks_total,gap_pct,status,t_best,epochs,iters,params,file
+bmajd3600,gma,400_1,JD,1,3600.0,75,94108.084,116608.084,75,93375.604,115875.604,0.6321,worse,343.09,586,0,"{""arc_rule"": ""safe"", ""nbr_compat"": true, ""K"": 30, ""ends_len"": 1}",400_1_gma_s1_20261012-203319_bmajd3600
+bmajd3600,gma,400_1,JD,2,3600.0,76,93929.15,116729.15,75,93375.604,115875.604,0.7366,worse,138.65,527,0,"{""arc_rule"": ""safe"", ""nbr_compat"": true, ""K"": 30, ""ends_len"": 1}",400_1_gma_s2_20261012-213322_bmajd3600
+bmajd3600,gma,600_4,JD,1,3600.0,115,143748.444,178248.444,114,144000.64,178200.64,0.0268,worse,518.1,289,0,"{""arc_rule"": ""safe"", ""nbr_compat"": true, ""K"": 30, ""ends_len"": 1}",600_4_gma_s1_20261012-223335_bmajd3600
+bmajd3600,gma,600_4,JD,2,3600.0,116,143296.972,178096.972,114,144000.64,178200.64,-0.0582,NEW_BEST,459.19,286,0,"{""arc_rule"": ""safe"", ""nbr_compat"": true, ""K"": 30, ""ends_len"": 1}",600_4_gma_s2_20261012-233338_bmajd3600

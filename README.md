@@ -68,8 +68,8 @@ each improved instance.
 
 | Tag | Runs | Instances | Seeds | Budget per run | Use |
 |---|---|---|---|---|---|
-| `ablwc_<variant>` | 14 × 30 | The six instances of `wc10slow` | 1–5 | 60 s | Ablation on the WC instances. `base`; `nocoop`, no cooperation through the pool; `fresh` and `self`, the renewed trajectories rebuilt from scratch or from their own incumbent instead of from the pool; `noxover` and `onlyxover`, reconstruction by ruin-and-recreate or by crossover only; `noends`; `nonoise`; `singlereg`; `norestart`; `norec`, no phase archive; `nodepot`, arc filter without its depot rules; `nocompat`, neighbour lists not restricted to compatible pairs; `nosafe`, both |
-| `abljd_<variant>` | 11 × 4 | JD 400_1 and 600_4 | 1–2 | 300 s | Ablation on the JD instances: `base`, `nocoop`, `fresh`, `self`, `noends`, `norestart`, `norec`, `nodepot`, `published` (depot rules in their published form, with direct travel times), `nocompat`, `nosafe`. The files `base`, `nocoop`, `noends` and `norestart` also hold four runs of an earlier version of the configuration |
+| `ablwc_<variant>` | 16 × 30 | The six instances of `wc10slow` | 1–5 | 60 s | Ablation on the WC instances. `base`; `nocoop`, no cooperation through the pool; `fresh` and `self`, the renewed trajectories rebuilt from scratch or from their own incumbent instead of from the pool; `nomem` and `noctrl`, controls of persistence: at every epoch boundary every trajectory clears its tabu memory or returns its penalty controller and aspiration level to their initial state; `noxover` and `onlyxover`, reconstruction by ruin-and-recreate or by crossover only; `noends`; `nonoise`; `singlereg`; `norestart`; `norec`, no phase archive; `nodepot`, arc filter without its depot rules; `nocompat`, neighbour lists not restricted to compatible pairs; `nosafe`, both |
+| `abljd_<variant>` | 13 × 4 | JD 400_1 and 600_4 | 1–2 | 300 s | Ablation on the JD instances: `base`, `nocoop`, `fresh`, `self`, `nomem`, `noctrl`, `noends`, `norestart`, `norec`, `nodepot`, `published` (depot rules in their published form, with direct travel times), `nocompat`, `nosafe`. The files `base`, `nocoop`, `noends` and `norestart` also hold four runs of an earlier version of the configuration |
 | `sweep_<setting>` | 22 × 12 | The six instances of `wc10slow` | 1–2 | 60 s | Sensitivity sweep, one parameter moved at a time from `sweep_base` |
 | `phases_<rule>` | 4 × 10 | JD 200_1 | 1–5 | 600 s | Restart rules: full or partial restart, stagnation measured on the run (`global`) or on the phase. Every seed was run twice, on 2026-09-21 and on 2026-10-05 with the final code; the figure uses the later runs |
 | `jdnorec` | 8 | JD 600_2, 800_4, 1000_2, 1000_4 | 1–2 | 7200 s | Phase archive disabled, paired by seed with `jd7200`; `jdnorec_t1200` and `jdnorec_t3600` |
@@ -96,9 +96,12 @@ size).
 `ghprobe` (six instances with 200 customers, 300 s) and `gh400probe` (two with 400, 120 s) are short probes made before
 these campaigns.
 
-**Batched memetic baseline.** The campaigns with `algo = gma` run a batched memetic algorithm on the GPU, written for
-this study as a baseline and not reported in the article: `gma120_s1` (40 medium WC instances, 120 s), `ablwc_bma` and
-`abljd_bma` (the ablation protocols above) and `bmawc60` (the 56 medium WC instances, 60 s, seed 1).
+**Batched memetic organisation (BMA).** The campaigns with `algo = gma` run a batched memetic algorithm built on the
+routing layer of CoPTS-VRP and run on the same GPU. Table S4 of the supplementary material reports `ablwc_bma` and
+`abljd_bma` (the ablation protocols above, with route opening forbidden in its local search, as in MA-FIRD),
+`ablwc_bmaopen` (the WC protocol with route opening allowed) and `bmajd3600` (JD 400_1 and 600_4, seeds 1-2, 3600 s,
+compared with `jd7200_t3600`). `gma120_s1` (40 medium WC instances, 120 s, an earlier version) and `bmawc60` (the 56
+medium WC instances, 60 s, seed 1, route opening forbidden) are not used in the article.
 
 **Earlier configurations.** The campaigns `wcsmall10_30s`, `wc60_30s`, `wc180_30s_slow`, `wc120v2_s1`, `jd_v2`,
 `jd1200v2_s1`, `jd7200_pilot`, `abl_*`, `tune_*`, `hard600`, `scr1000_*`, `jdc1024`, `jdc512`, `jdrec1024`, `jdrec512`,
